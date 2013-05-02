@@ -1,6 +1,30 @@
 ---
 layout: default
 ---
-<div id="post">
-{{ content }}
-</div>
+
+	{% if page.link %}
+		<h1 class="entry-title">
+			<a href="{{ page.link }}" class="link">
+				{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}
+			</a>
+		</h1>
+		{% else %}
+		
+		<h1 class="entry-title">
+			<a href="{{ page.url }}">
+				{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}
+			</a>
+		</h1>
+		
+		{% endif %}
+			
+		<time class="entry-meta">{{ page.date| date:"%d-%m-%Y" }}</time>
+
+					{{content}}
+				
+		<h3 class="related-posts">Tem a ver</h3>
+			<ul>
+				{% for post in site.related_posts limit: 10 %}
+				<li><a href="{{post.url}}">{{post.title}}</a></li>
+				{% endfor %}
+			</ul>

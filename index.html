@@ -1,13 +1,41 @@
 ---
 layout: default
-title: Your New Jekyll Site
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+{% for post in paginator.posts %}
+			
+	{% if post.link %}
+		<h1 class="entry-title">
+			<a href="{{ post.link }}" class="link-post">
+				{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}
+			</a>
+		</h1>
+
+		<time class="entry-meta">{{ post.date | date: "%d-%m-%Y" }}</time>
+		
+		{% else %}
+		<h1 class="entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		<time class="entry-meta">{{ post.date | date: "%d-%m-%Y" }}</time>
+	{% endif %}
+		{{post.content}}
+	
+	{% endfor %}
+
+		<div class="pagination">
+			<p>
+				{% if paginator.previous_page %}
+					{% if paginator.previous_page == 1 %}
+						<a href="/" class="previous">&larr;</a>
+					{% else %}
+						<a href="/page{{paginator.previous_page}}" class="previous">&larr;</a>
+					{% endif %}
+				{% else %}
+					<span class="previous"></span>
+				{% endif %}
+					<span class="page_number">{{paginator.page}} de {{paginator.total_pages}}</span>
+				{% if paginator.next_page %}
+					<a href="/page{{paginator.next_page}}" class="next">&rarr;</a>
+				{% else %}
+					<span class="next">&rarr;</span>
+				{% endif %}
+			</p>
