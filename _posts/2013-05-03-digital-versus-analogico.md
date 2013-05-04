@@ -14,7 +14,7 @@ Declaração de [Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno), no Red Bul
 
 Eno foi um dos músicos que popularizou o uso dos sintetizadores na música pop. Produziu Talking Heads, U2, Devo, Genesis, David Bowie, entre muitos outros, e até criou a [música de início (boot) do Windows 95](https://www.youtube.com/watch?v=miZHa7ZC6Z0). Portanto, não deve estar se deixando levar pelo clichê de que a tecnologia evolui por substituição, por obsolescência.
 
-Boa parte das tecnologias do passado ainda continua vivas e influente. Seja como fenômeno cultural ([steampunk](https://en.wikipedia.org/wiki/Steampunk), por exemplo), seja por meio do que poderíamos chamar de *influência recursiva*.
+Boa parte das tecnologias do passado ainda continua viva e influente. Seja como fenômeno cultural ([steampunk](https://en.wikipedia.org/wiki/Steampunk), por exemplo), seja por meio do que poderíamos chamar de *influência recursiva*.
 
 Explico: os criadores de instrumentos digitais tentam simular as qualidades dos analógicos. E, nesse processo, nos faz enxergar melhor aquilo que torna o equipamento analógico tão especial. A partir daí, a influência é mútua: a “digitalidade” evolui, mas não sozinha.
 
