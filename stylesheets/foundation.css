@@ -2,6 +2,33 @@
 
 /* Global Reset & Standards */
 
+@font-face {
+    font-family: 'MerriweatherRegular';
+    src: url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Regular-webfont.eot');
+    src: url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Regular-webfont.eot') format('embedded-opentype'),
+         url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Regular-webfont.woff') format('woff'),
+         url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Regular-webfont.ttf') format('truetype'),
+         url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Regular-webfont.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'MerriweatherItalic';
+    src: url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Italic-webfont.eot');
+    src: url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Italic-webfont.eot') format('embedded-opentype'),
+         url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Italic-webfont.woff') format('woff'),
+         url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Italic-webfont.ttf') format('truetype'),
+         url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Italic-webfont.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'MerriweatherBold';
+    src: url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Bold-webfont.eot');
+    src: url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Bold-webfont.eot') format('embedded-opentype'),
+         url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Bold-webfont.woff') format('woff'),
+         url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Bold-webfont.ttf') format('truetype'),
+         url('https://s3-sa-east-1.amazonaws.com/caosordenado/fonts/Merriweather-Bold-webfont.svg') format('svg');
+}
+
 * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -18,7 +45,7 @@ body {
 	margin: 0;
 	padding: 0;
 	border-top: 4px solid #333;
-	font-family: "Georgia", serif;
+	font-family: "MerriweatherRegular","Georgia", serif;
 }
 
 audio,canvas,video {
@@ -53,10 +80,12 @@ abbr[title] {
 }
 
 b,strong {
+	font-family: "MerriweatherBold", Georgia, serif;
 	font-weight: 700
 }
 
 em {
+	font-family: "MerriweatherItalic", Georgia, serif;
 	font-style: italic;
 }
 
@@ -273,8 +302,8 @@ blockquote {
 @media only screen and (min-width: 120.000px) {
 
 body {
-	font-size: 22px;
-	font-size: 2.2rem;
+	font-size: 24px;
+	font-size: 2.4rem;
 	line-height: 165%;
 	text-rendering: optimizeLegibility;
 }
