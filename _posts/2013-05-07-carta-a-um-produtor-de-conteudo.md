@@ -27,13 +27,13 @@ Li seu texto. Vi seu vídeo. Ouvi sua música. Evidentemente, você estava ansio
 
 Eu percebi. E você também: você mal conseguia concatenar as ideias. Não se preparou, não se preocupou. Assim, o conteúdo ficou permeado de insegurança, vergonha e culpa.
 
-É claro que, geralmente, não se consegue formar público por meio da negligência. Se você não dá amor, não recebe, diria um escritor de auto-ajuda. E, então, ao perceber-se ignorado, você fica ainda mais depressivo. Ou ressentido.
+É claro que, geralmente, não se consegue formar público por meio da negligência. Se você não dá amor, não o recebe, diria um escritor de autoajuda. E, então, percebendo-se ignorado, você fica ainda mais depressivo. Ou ressentido.
 
 Obviamente, há espaço para experimentação, para rascunhos ousados, para correr riscos. Também não existe uma fórmula perfeita e infalível para garantir que um trabalho esteja “pronto”. A vida é beta, dizem. Mas não racionalize: no fundo, você sabe que teve preguiça e quis publicar logo. Não há como fugir da sua motivação.
 
-E é por isso que lhe pergunto: afinal, qual é sua real paixão? Produzir conteúdo ou repercussões?
+É por isso que lhe pergunto: afinal, qual é sua real paixão? Produzir conteúdo ou tentar manipular repercussões?
 
-Lembre-se: ninguém *precisa* publicar na web. Ficar calado, às vezes, é um alívio. Não se trata de omissão, apenas de viver segundo outros paradigmas. É certo que nossa sociedade incita o falatório. Mas também há felicidade fora do mundo do discurso. Talvez apenas tenhamos medo de tentar.
+Lembre-se: ninguém *precisa* publicar na web. Ficar calado, às vezes, é um alívio. Não se trata de omissão, apenas de viver segundo outros paradigmas. É certo que nossa sociedade valoriza o falatório. Mas também há felicidade fora do mundo do discurso. Talvez apenas tenhamos medo de tentar.
 
 Não precisamos desse dualismo: estar no palco *ou* na platéia. Podemos viver sem esses pontos de referência rígidos. Por que carregar mais esse fardo?
 
