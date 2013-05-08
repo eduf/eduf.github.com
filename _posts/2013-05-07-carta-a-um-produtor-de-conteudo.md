@@ -17,7 +17,7 @@ Sei o que dizem por aí sobre a pluralidade da web. Também sei como é sentir-s
 
 Assim, queremos criar nossos mundinhos perfeitos na web.
 
-Mas nós dois sabemos que produzir conteúdo na internet não vai resolver esses problemas. Pelo contrário, pode piorá-los.
+Mas nós sabemos que produzir conteúdo na internet não vai resolver esses problemas. Pelo contrário, pode piorá-los.
 
 Você pode ficar escravo da *insegurança digital*. Pode passar o dia inteiro investigando o Google Analytics, contando seguidores no Twitter, tentando entender a repercussão daquilo que diz nas redes sociais.
 
@@ -37,6 +37,6 @@ Lembre-se: ninguém *precisa* publicar na web. Ficar calado, às vezes, é um al
 
 Não precisamos desse dualismo: estar no palco *ou* na platéia. Podemos viver sem esses pontos de referência rígidos. Por que carregar mais esse fardo?
 
-Se, por algum motivo, para você for inevitável carregá-lo, pelo menos pague o preço. Não pule etapas. Antes de publicar, cuide da sua criação.
+Se, por algum motivo, para você for inevitável carregá-lo, pelo menos pague o preço. Não exagere, mas não pule etapas. Antes de publicar, cuide da sua criação. Falo para você. Falo especialmente para mim mesmo.
 
 Sinceramente, Eduardo Fernandes.
