@@ -37,6 +37,6 @@ Lembre-se: ninguém *precisa* publicar na web. Ficar calado, às vezes, é um al
 
 Não precisamos desse dualismo: estar no palco *ou* na platéia. Podemos viver sem esses pontos de referência rígidos. Por que carregar mais esse fardo?
 
-Se, por algum motivo, para você for inevitável carregá-lo, pelo menos pague o preço. Não exagere, mas não pule etapas. Antes de publicar, cuide da sua criação. Falo para você. Falo especialmente para mim mesmo.
+Se, por algum motivo, para você for inevitável carregá-lo, pelo menos pague o preço. Não exagere, mas não pule etapas. Antes de publicar, cuide da sua criação. Falo com você. Mas falo especialmente para mim mesmo.
 
 Sinceramente, Eduardo Fernandes.
