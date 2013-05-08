@@ -7,15 +7,15 @@ tags:
 - comportamento
 ---
 
-Caro produtor amador de conteúdo,
+Caro produtor de conteúdo,
 
 Por favor, leia estas palavras com generosidade: produzir e compartilhar conteúdo na internet não é assim tão importante.
 
 Sério. Sem sarcasmo.
 
-Sei o que dizem por aí sobre a pluralidade da web. Também sei como é sentir-se solitário e medíocre. Você *rumina* o tempo todo. Acha que seu emprego é restritivo, que nada lhe acontece de especial. Questiona até seus amigos: não tem aqueles que *gostaria* de ter, não atrai quem gostaria de atrair.
+Sei o que dizem por aí sobre a pluralidade da web. Também sei como é sentir-se solitário e medíocre. Quando estamos nesse estado emocional, *ruminamos* o tempo todo. Achamos que nossos empregos são restritivos, que nada nos acontece de especial. Questionamos até nossos amigos: não temos aqueles que *gostaríamos* de ter, não atraímos quem gostaríamos de atrair.
 
-Assim, você quer criar seu mundinho perfeito na web.
+Assim, queremos criar nossos mundinhos perfeitos na web.
 
 Mas nós dois sabemos que produzir conteúdo na internet não vai resolver esses problemas. Pelo contrário, pode piorá-los.
 
