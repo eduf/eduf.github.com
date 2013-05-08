@@ -9,7 +9,7 @@ tags:
 - sci-fi
 ---
 
-Há menos de 15 anos, não era tão fácil encontrar filmes de ficção científica passando no cinema. Tínhamos blockbusters, como *Star Wars*, uma ou outra produção inspirada em textos de Philip K. Dick e alguns cult movies. Mas, com sorte, veríamos um ou dois lançamentos de sci-fi por ano. Hoje, talvez esse número tenha aumentado para um a cada três meses.
+Há menos de 15 anos, não era tão fácil encontrar filmes de ficção científica passando no cinema. Tínhamos blockbusters, como *Star Wars*, uma ou outra produção inspirada em textos de Philip K. Dick e alguns cult movies. Mas, com sorte, veríamos um ou dois lançamentos de sci-fi por ano. Hoje, talvez esse número tenha aumentado para um a cada dois meses.
 
 Pudera: agora há telas e computadores por toda parte. A própria sociedade está mais sci-fi. Assim, os filmes parecem cada vez mais "comuns". Por exemplo, você assiste aos drones de [Oblivion](https://en.wikipedia.org/wiki/Oblivion_(2013_film)) e pode pensar: “hmm, eles não são tão ficcionais assim. Eu mesmo [posso construir um em casa](http://diydrones.com/)”. As interfaces lembram as do iPad. Veículos que se autodigirigem já existem, [motocicletas endiabradas](https://www.youtube.com/watch?v=Y882ICRnzbg) andam por aí.
 
