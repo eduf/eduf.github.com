@@ -12,17 +12,19 @@ Ser geek não é fácil. Pequenos detalhes do teatro cotidiano são absurdamente
 
 Algumas pérolas:
 
-## Não me ofereça ajuda o tempo todo
+### Não me ofereça ajuda o tempo todo
 > It is nice of you to want to be kind to me, but please don't offer help all the time. In general I am used to managing life on my own; when I need help, I am not shy about asking.  So there is no need to offer to help me.  Moreover, being constantly offered help is actually quite distracting and tiresome. (...)
 
-## Deixem-me atravessar ruas sozinho
+### Deixem-me atravessar ruas sozinho
 > One situation where I do not need help, let alone supervision, is in crossing streets.  I grew up in the middle of the world's biggest city, full of cars, and I have crossed streets without assistance even in the chaotic traffic of Bangalore and Delhi.  Please just leave me alone when I cross streets. (...)
 
-## Vá direto ao ponto
+### Vá direto ao ponto
 > When you need to tell me about a problem in a plan, please do not start with a long apology. That is unbearably boring, and unnecessary — conveying useful information is helpful and good, and why apologize for that? So please be practical and go straight to the point. (...)
 
-> **Encontros sociais**
+### Encontros sociais
 > If you are thinking of setting up a lunch or dinner for me with more than 4 people total, please consider that as a meeting, and discuss it with me in advance. Such meals draw on my strength, just like speeches and interviews. They are not relaxation, they are work. (...)
+
+### Ambientes barulhentos
 > Please don't be surprised if I pull out my computer at dinner and begin handling some of my email. I have difficulty hearing when there is noise; at dinner, when people are speaking to each other, I usually cannot hear their words. Rather than feel bored, or impose on everyone by asking them to speak slowly at me, I do some work. (...)
 
 Via [@pdorje](http://twitter.com/#!/pdorje).
