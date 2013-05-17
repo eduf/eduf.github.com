@@ -3,28 +3,28 @@ layout: default
 ---
 
 	{% if page.link %}
-		<h1 class="entry-title">
-			<a href="{{ page.link }}" class="link">
+		<h1 class="entry-title" itemtype="http://schema.org/Article" itemprop="headline">
+			<a href="{{ page.link }}" class="link" itemprop="url">
 				{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}
 			</a>
 		</h1>
 		{% else %}
 		
-		<h1 class="entry-title">
-			<a href="{{ page.url }}">
+		<h1 class="entry-title" itemtype="http://schema.org/Article" itemprop="headline">
+			<a href="{{ page.url }}" itemprop="url">
 				{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}
 			</a>
 		</h1>
 		
 	{% endif %}
 
-		<time class="entry-meta">{{ page.date| date:"%d-%m-%Y" }}</time>
+		<time class="entry-meta" datetime="{{ page.date| date:"%d-%m-%Y" }}">{{ page.date| date:"%d-%m-%Y" }}</time>
 
 					{{content}}
 				
-		<h3 class="related-posts">Tem a ver</h3>
-			<ul>
+		<h3 class="related-posts" itemtype="http://schema.org/Article" itemprop="section">Tem a ver</h3>
+			<ul itemtype="http://schema.org/Article" itemprop="blogPosts">
 				{% for post in site.related_posts limit: 10 %}
-				<li><a href="{{post.url}}">{{post.title}}</a></li>
+				<li><a href="{{post.url}}" itemprop="url">{{post.title}}</a></li>
 				{% endfor %}
 			</ul>

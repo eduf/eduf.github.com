@@ -4,7 +4,7 @@
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="pt-br"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js" lang="pt-br" itemscope itemtype="http://schema.org/Article">
+<html class="no-js" lang="pt-br">
 <!--<![endif]-->
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -36,10 +36,6 @@
   <meta property="article:section" content="blog">
   <meta property="article:tag"   content="caos ordenado">
 
-  <meta itemprop="name" content="Caos Ordenado">
-  <meta itemprop="description" content="{{ page.excerpt }}">
-  <meta itemprop="image" content="https://s3-sa-east-1.amazonaws.com/caosordenado/images/caos_icon.png">
-
   <link rel="stylesheet" href="http://caosordenado.com/stylesheets/foundation.min.css">
 
   <!-- Typekit -->
@@ -62,30 +58,30 @@
 <body>
 
 <header role="masthead" id="branding">
-  <p class="site-title">
-    <a href="/">{{site.site_name}}</a>
+  <p class="site-title" itemtype="http://schema.org/SiteNavigationElement" itemprop="about">
+    <a href="/" itemprop="url">{{site.site_name}}</a>
   </p>
-  <ul class="main-menu">
-        <li><a href="http://caosordenado.com/info.html">Info</a></li>
+  <ul class="main-menu" itemtype="http://schema.org/SiteNavigationElement" itemprop="blogPost">
+        <li><a href="http://caosordenado.com/info.html" itemprop="url">Info</a></li>
         <li><script type="text/javascript">document.write(
     "<n uers=\"znvygb: rqhs\100pnbfbeqranqb\056pbz\">Pbagngb<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
     </script></li>
-        <li><a href="http://caosordenado.com/arquivos.html">Arquivos</a></li>
+        <li><a href="http://caosordenado.com/arquivos.html" itemprop="url">Arquivos</a></li>
   </ul>
 </header>
 
-<article role="main" id="main">
+<article role="main" id="main" itemtype="http://schema.org/Article" itemprop="blogPost">
     {{ content }}
 </article>
 
 <footer role="contentinfo" id="colophon">
     <p>
-      <a href="http://caosordenado.com">{{site.site_name}}</a> (<a href="http://caosordenado.com/feed.xml">RSS</a>) = <a href="http://jekyllrb.com">Jekyll</a> + <a href="http://caosordenado.com/info.html">Eduardo Fernandes</a> (<script type="text/javascript">document.write(
+      <a href="http://caosordenado.com" itemprop="url">{{site.site_name}}</a> (<a href="http://caosordenado.com/feed.xml" itemprop="url">RSS</a>) = <a href="http://jekyllrb.com" itemprop="url">Jekyll</a> + <a href="http://caosordenado.com/info.html" itemprop="url">Eduardo Fernandes</a> (<script type="text/javascript">document.write(
 "<n uers=\"znvygb: rqhs\100pnbfbeqranqb\056pbz\">Pbagngb<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-</script>, <a href="http://twitter.com/eduf">Twitter</a>, <a href="https://plus.google.com/118332442513569100227" rel="publisher">Google+</a>).
+</script>, <a href="http://twitter.com/eduf">Twitter</a>, <a href="https://plus.google.com/118332442513569100227" rel="publisher" itemprop="url">Google+</a>).
     </p>
     
-    </p><a href="Creative Commons Attribution-NonCommercial 3.0 Unported License">Creative Commons License</a>.</p>
+    </p><a href="Creative Commons Attribution-NonCommercial 3.0 Unported License" itemprop="url">Creative Commons License</a>.</p>
 </footer>
 
 <!-- Fit video -->
