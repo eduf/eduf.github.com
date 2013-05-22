@@ -9,11 +9,16 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width" />
-  <title>{% if page.title %} {{ page.title }} | {% endif %} {{site.site_name}}</title>
+
+  <title>
+    {% if page.title %} {{ page.title }} {% endif %}
+  </title>
+  
   <meta name="author" content="Eduardo Fernandes">
   <meta name="description" content="Blog sobre nerdismo Apple, produção de conteúdo, privacidade, tecnologia e jornalismo.">
 
   <link href="http://caosordenado.com/feed.xml" rel="alternate" title="Eduardo Fernandes" type="application/atom+xml" />
+  
   <link rel="shortcut icon" href="https://s3-sa-east-1.amazonaws.com/caosordenado/images/favicon.ico">
   
   <meta name="robots" content="index, follow">
@@ -51,16 +56,25 @@
 <body>
 
 <header role="masthead" id="branding">
-  <p class="site-title" itemtype="http://schema.org/SiteNavigationElement" itemprop="about">
-    <a href="/" itemprop="url">{{site.site_name}}</a>
+  
+  <p class="site-title" itemtype="http://schema.org/CreativeWork" itemprop="publisher">
+    <a href="/" itemtype="http://schema.org/SiteNavigationElement" itemprop="url">{{site.site_name}}</a>
   </p>
-  <ul class="main-menu" itemtype="http://schema.org/SiteNavigationElement" itemprop="blogPost">
-        <li><a href="http://caosordenado.com/info.html" itemprop="url">Info</a></li>
-        <li><script type="text/javascript">document.write(
+
+  <ul class="main-menu">
+        <li>
+          <a href="http://caosordenado.com/info.html" itemtype="http://schema.org/SiteNavigationElement" itemprop="url">Info</a>
+        </li>
+        <li>
+          <script type="text/javascript">document.write(
     "<n uers=\"znvygb: rqhs\100pnbfbeqranqb\056pbz\">Pbagngb<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-    </script></li>
-        <li><a href="http://caosordenado.com/arquivos.html" itemprop="url">Arquivos</a></li>
+    </script>
+        </li>
+        <li>
+          <a href="http://caosordenado.com/arquivos.html" itemtype="http://schema.org/SiteNavigationElement" itemprop="url">Arquivos</a>
+        </li>
   </ul>
+
 </header>
 
 <article role="main" id="main" itemtype="http://schema.org/Article" itemprop="blogPost">
@@ -69,12 +83,18 @@
 
 <footer role="contentinfo" id="colophon">
     <p>
-      <a href="http://caosordenado.com" itemprop="url">{{site.site_name}}</a> (<a href="http://caosordenado.com/feed.xml" itemprop="url">RSS</a>) = <a href="http://jekyllrb.com" itemprop="url">Jekyll</a> + <a href="http://caosordenado.com/info.html" itemprop="url">Eduardo Fernandes</a> (<script type="text/javascript">document.write(
+      <a href="http://caosordenado.com" itemtype="http://schema.org/SiteNavigationElement" itemprop="url">{{site.site_name}}</a>
+      (<a href="http://caosordenado.com/feed.xml" itemtype="http://schema.org/SiteNavigationElement" itemprop="url">RSS</a>)
+      = <a href="http://jekyllrb.com" itemtype="http://schema.org/SiteNavigationElement" itemprop="url">Jekyll</a>
+      + <a href="http://caosordenado.com/info.html" rel="author" itemtype="http://schema.org/SiteNavigationElement" itemprop="url">Eduardo Fernandes</a>
+      (<script type="text/javascript">document.write(
 "<n uers=\"znvygb: rqhs\100pnbfbeqranqb\056pbz\">Pbagngb<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-</script>, <a href="http://twitter.com/eduf">Twitter</a>, <a href="https://plus.google.com/118332442513569100227" rel="publisher" itemprop="url">Google+</a>).
+</script>,
+      <a href="http://twitter.com/eduf" rel="me" itemtype="http://schema.org/SiteNavigationElement" itemprop="url">Twitter</a>,
+       <a href="https://plus.google.com/118332442513569100227" rel="me" itemtype="http://schema.org/SiteNavigationElement" itemprop="url">Google+</a>).
     </p>
     
-    </p><a href="Creative Commons Attribution-NonCommercial 3.0 Unported License" itemprop="url">Creative Commons License</a>.</p>
+    </p><a href="Creative Commons Attribution-NonCommercial 3.0 Unported License" itemtype="http://schema.org/SiteNavigationElement" itemprop="url">Creative Commons License</a>.</p>
 </footer>
 
 <!-- Fit video -->

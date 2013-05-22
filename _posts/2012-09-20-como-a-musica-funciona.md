@@ -19,7 +19,7 @@ tags:
   2. Jon Spencer Blues Explosion - Bag of Bones (Meat and Bone)
   3. Snow Patrol - One Night Is Not Enough (Snow Patrol)
 
-http://www.youtube.com/embed/l_p9hnkYj4U
+<iframe width="480" height="360" src="http://www.youtube.com/embed/l_p9hnkYj4U?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### David Byrne
 
