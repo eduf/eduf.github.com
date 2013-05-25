@@ -14,7 +14,8 @@ tags:
 
 Nesta semana, o *Atrás do Front* recebe o font-end developer e professor, [Diego Eis](https://twitter.com/diegoeis). Além de ser dono da conta [@raulgil](https://twitter.com/raulgil) no Twitter, ele é o fundador do [Tableless](http://tableless.com.br/), um dos primeiros sites brasileiros a falar sobre web semântica. De lá para cá, treinou equipes de empresas como Google, Globo.com, iG, Yahoo!, UOL, Uninove, entre outras. Conversei com Diego sobre como anda o mercado de desenvolvimento de internet no Brasil.
 
-[Ouça no Mix Cloud](http://www.mixcloud.com/eduf/diego-eis-front-end-developer-e-raul-gil-no-twitter/) ou [baixe o arquivo mp3](http://www.mediafire.com/?b15w5aau0501s5c).<!--more-->
+[Ouça no Mix Cloud](http://www.mixcloud.com/eduf/diego-eis-front-end-developer-e-raul-gil-no-twitter/) ou [baixe o arquivo mp3](http://www.mediafire.com/?b15w5aau0501s5c).
+<!--more-->
 
 ### Citados durante o programa
 
@@ -33,4 +34,4 @@ Nesta semana, o *Atrás do Front* recebe o font-end developer e professor, [Dieg
 [Deck Network](http://decknetwork.net/) — a rede de anúncios para geeks
 [Squarespace](http://www.squarespace.com/)
 [Media Temple](http://mediatemple.net/)
-[Brasil JS] (http://brasiljs.org)
+[Brasil JS](http://brasiljs.org)
