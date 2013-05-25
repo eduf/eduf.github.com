@@ -5,7 +5,6 @@ excerpt: "Entrevistamos o font-end developer e professor, Diego Eis. Além de se
 layout: post
 tags: 
 - webdevelopment
-- tecnologia
 - podcasts
 - podcast
 ---
@@ -19,19 +18,34 @@ Nesta semana, o *Atrás do Front* recebe o font-end developer e professor, [Dieg
 
 ### Citados durante o programa
 
-[Tableless](http://tableless.com.br/)
-[CSS-Tricks](http://css-tricks.com/)
-[Tree House](http://teamtreehouse.com/)
-[Visie](http://visie.com.br)
-[Schema.org](http://schema.org/)
-[Palestra de Diego Eis sobre web semântica e microdados](https://speakerdeck.com/diegoeis/a-semantica-do-html)
-[Twitter do Raul Gil](https://twitter.com/raulgil)
-[Feedly](http://www.feedly.com/)
-[Slow Feeds](https://itunes.apple.com/us/app/slow-feeds/id511900080?mt=8)
-[Flipboard](http://flipboard.com/)
-[Jim Coudal](https://twitter.com/Coudal)
-[Coudal Partners](http://www.coudal.com/)
-[Deck Network](http://decknetwork.net/) — a rede de anúncios para geeks
-[Squarespace](http://www.squarespace.com/)
-[Media Temple](http://mediatemple.net/)
-[Brasil JS](http://brasiljs.org)
+* [Tableless](http://tableless.com.br/)
+
+* [CSS-Tricks](http://css-tricks.com/)
+
+* [Tree House](http://teamtreehouse.com/)
+
+* [Visie](http://visie.com.br)
+
+* [Schema.org](http://schema.org/)
+
+* [Palestra de Diego Eis sobre web semântica e microdados](https://speakerdeck.com/diegoeis/a-semantica-do-html)
+
+* [Twitter do Raul Gil](https://twitter.com/raulgil)
+
+* [Feedly](http://www.feedly.com/)
+
+* [Slow Feeds](https://itunes.apple.com/us/app/slow-feeds/id511900080?mt=8)
+
+* [Flipboard](http://flipboard.com/)
+
+* [Jim Coudal](https://twitter.com/Coudal)
+
+* [Coudal Partners](http://www.coudal.com/)
+
+* [Deck Network](http://decknetwork.net/) — a rede de anúncios para geeks
+
+* [Squarespace](http://www.squarespace.com/)
+
+* [Media Temple](http://mediatemple.net/)
+
+* [Brasil JS](http://brasiljs.org)
