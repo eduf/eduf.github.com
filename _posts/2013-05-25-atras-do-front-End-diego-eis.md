@@ -11,7 +11,7 @@ tags:
 
 <iframe width="100%" height="250" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Feduf%2Fdiego-eis-front-end-developer-e-raul-gil-no-twitter%2F&embed_uuid=ced4e029-97c4-46e2-bb35-f6ac83ea9d88&stylecolor=&embed_type=widget_standard" frameborder="0"></iframe>
 
-Nesta semana, o *Atrás do Front* recebe o font-end developer e professor, [Diego Eis](https://twitter.com/diegoeis). Além de ser dono da conta [@raulgil](https://twitter.com/raulgil) no Twitter, ele é o fundador do [Tableless](http://tableless.com.br/), um dos primeiros sites brasileiros a falar sobre web semântica. De lá para cá, treinou equipes de empresas como Google, Globo.com, iG, Yahoo!, UOL, Uninove, entre outras. Conversei com Diego sobre como anda o mercado de desenvolvimento de internet no Brasil.
+Nesta semana, o *Atrás do Front* recebe o front-end developer e professor, [Diego Eis](https://twitter.com/diegoeis). Além de ser dono da conta [@raulgil](https://twitter.com/raulgil) no Twitter, ele é o fundador do [Tableless](http://tableless.com.br/), um dos primeiros sites brasileiros a falar sobre web semântica. De lá para cá, treinou equipes de empresas como Google, Globo.com, iG, Yahoo!, UOL, Uninove, entre outras. Conversei com Diego sobre como anda o mercado de desenvolvimento de internet no Brasil.
 
 [Ouça no Mix Cloud](http://www.mixcloud.com/eduf/diego-eis-front-end-developer-e-raul-gil-no-twitter/) ou [baixe o arquivo mp3](http://www.mediafire.com/?b15w5aau0501s5c).
 <!--more-->
