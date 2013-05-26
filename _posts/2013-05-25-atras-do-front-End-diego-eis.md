@@ -38,6 +38,8 @@ Nesta semana, o *Atrás do Front* recebe o front-end developer e professor, [Die
 
 * [Flipboard](http://flipboard.com/)
 
+* [Lea Verou](http://lea.verou.me/)
+
 * [Jim Coudal](https://twitter.com/Coudal)
 
 * [Coudal Partners](http://www.coudal.com/)
@@ -48,4 +50,4 @@ Nesta semana, o *Atrás do Front* recebe o front-end developer e professor, [Die
 
 * [Media Temple](http://mediatemple.net/)
 
-* [Brasil JS](http://brasiljs.org)
+* [Brazil JS](http://braziljs.com.br/)
