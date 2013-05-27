@@ -9,7 +9,7 @@ tags:
 - comportamento
 ---
 
-Hoje acordei encasquetado algumas ideias. Pode-se dizer que são *viagens sociológicas* sobre o aspecto político das redes sociais. São algumas perguntas e hipóteses que eu gostaria de testar no futuro. Compartilho-as com vocês, assim, nessa forma nada elaborada mesmo. Porque sou ansioso, claro.<!—more—>
+Hoje acordei encasquetado algumas ideias. Pode-se dizer que são *viagens sociológicas* sobre o aspecto político das redes sociais. São algumas perguntas e hipóteses que eu gostaria de testar no futuro. Compartilho-as com vocês, assim, nessa forma nada elaborada mesmo. Porque sou ansioso, claro.<!--more-->
 
 ## Surgimento da periodicidade
 
