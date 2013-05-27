@@ -27,21 +27,21 @@ Minha pergunta parte daí.
 
 As primeiras levas de disciplinarização dos corpos tinham muito a ver com a medicina e com o sistema carcerário. E, então, as figuras essenciais eram os médicos, os sistemas jurídicos e o Estado.
 
-Mas, a partir de um certo momento na história, o [biopoder](https://en.wikipedia.org/wiki/Biopower) é ainda mais privatizado, a ponto de ser exercida via *entretenimento*. As pessoas celebram e cultivam individualmente essa identidade disciplinada. Como se fosse uma diversão.
+Mas, a partir de um certo momento na história, o [biopoder](https://en.wikipedia.org/wiki/Biopower) é ainda mais privatizado, a ponto de ser exercido via *entretenimento*. As pessoas celebram e cultivam individualmente essa identidade disciplinada. Como se fosse uma diversão.
 
 E então surgem as microcelebridades das redes sociais, os comportamentos compulsivos de gerenciamento de reputações on-line. A tribalização (cosplays, steampunks, fãs de certos tipos de pornografia) e a construção de identidades por meio de tecnologias como a Internet. Uma tecnologia que exacerba a lógica da periodicidade (timelines e produção industrial de conhecimento).
 
 ## A história do entretenimento
 
-Para testar esse raciocínio torto, eu teria que estudar um pouco melhor a história do entretenimento. Como surge, quando se torna industrial. Como evoluiu em relação às tecnologias (cinema, rádios, TVs, Internet). Talvez valha uma releitura de clássicos da sociologia sobre o assunto, como [Cultura de Massas no Século 20](http://www.livrariasaraiva.com.br/produto/3452486/cultura-de-massas-no-seculo-xx-vol-1-neurose), de [Edgar Morin](https://en.wikipedia.org/wiki/Edgar_Morin).
+Para testar esse raciocínio torto, eu teria que estudar um pouco melhor a história do entretenimento. Como surge, quando se torna industrial. Como evoluiu em relação às tecnologias (cinema, rádio, TV, Internet). Talvez valha uma releitura de clássicos da sociologia sobre o assunto, como [Cultura de Massas no Século 20](http://www.livrariasaraiva.com.br/produto/3452486/cultura-de-massas-no-seculo-xx-vol-1-neurose), de [Edgar Morin](https://en.wikipedia.org/wiki/Edgar_Morin).
 
 Assim, eu talvez chegasse a entender melhor como nós, frequentadores de redes sociais, passamos a virar *máquinas de publicar periodicamente*, máquinas de confessar, de dar satisfações em público e, essencialmente, [um tipo de mercadoria](http://caosordenado.com/consumindo-a-si-mesmo/).
 
 O que, inclusive, já está um tanto obsoleto. Hoje, começamos a delegar para os computadores a tarefa da disciplinarização dos corpos, via algorítimos, microdata, entre outras tecnologias digitais.
 
-No fundo, essa é a pergunta essencial: deixamos a época do individualismo romântico?
+No fundo, essa é a pergunta essencial: deixamos a época do individualismo Romântico?
 
-Ou seja: quando foi que a definição e a manutenção da identidade deixaram de ser uma construção cultural exclusivamente humana? Quando passaram a ser uma atividade, mensurável, quantificada e automatizada, a ponto de querermos [quantificar a nós mesmos](http://quantifiedself.com/)?
+Ou seja: quando foi que a definição e a manutenção da identidade deixaram de ser uma construção cultural exclusivamente humana? Quando passaram a ser uma atividade mensurável, quantificada e automatizada, a ponto de querermos [quantificar a nós mesmos](http://quantifiedself.com/)?
 
 E, especificamente nesse ponto da Produção Cultural Digital (não podemos mais chamar esse processo de Indústria Cultural, não é?): quando o mercado começou a prescindir dos humanos para gerar riqueza?
 
