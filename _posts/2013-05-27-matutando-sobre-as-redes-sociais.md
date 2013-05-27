@@ -13,19 +13,19 @@ Hoje acordei encasquetado com algumas ideias. Pode-se dizer que são *viagens so
 
 ## Surgimento da periodicidade
 
-Quando foi que passamos a *forçar* a publicação regular e sistemática de conteúdo (ainda que nada houvesse a dizer)? Intuitivamente, parece que essa prática surge com a Revolução Industrial e com a chamada Imprensa Burguesa (em especial, com os jornais).
+Quando foi que passamos a *forçar* a publicação regular e sistemática de conteúdo (ainda que nada houvesse a dizer)? Intuitivamente, parece que essa prática surgiu com a Revolução Industrial e com a chamada Imprensa Burguesa (em especial, com os jornais).
 
 Mas será mesmo? Quando foi que a produção e o consumo de conhecimento passaram a ser vinculados a períodos curtos de tempo? Com que tipos de contextos culturais e tecnológicos essa prática dialogou?
 
 ## Mudanças na história da disciplinarização dos corpos
 
-O filósofo francês [Michel Foucault](https://en.wikipedia.org/wiki/Michel_Foucault) explicou esse conceito em [A História da Sexualidade](https://pt.wikipedia.org/wiki/Hist%C3%B3ria_da_Sexualidade). Basicamente, aos poucos, na história, criamos toda uma miríade de discursos para “gerenciar” questões antes consideradas relativamente privadas.
+O filósofo francês [Michel Foucault](https://en.wikipedia.org/wiki/Michel_Foucault) explicou o conceito de disciplinarização dos corpos ao longo de toda sua obra, mas em particular em [A História da Sexualidade](https://pt.wikipedia.org/wiki/Hist%C3%B3ria_da_Sexualidade). Basicamente, aos poucos, na história, criamos toda uma miríade de discursos para gerenciar questões antes consideradas relativamente privadas.
 
-Por exemplo, passamos a falar sobre nossas “opções” ou características sexuais, e de maneira tão específica que surgiram conceitos como bissexual, trans-sexual etc. As pessoas deveriam criar uma identidade a partir dessas ideias, rotular a si mesmas e, a partir disso, serem “encaixadas” na sociedade e suas instituições. Enfim, consulte Foucault.
+Por exemplo, passamos a falar sobre nossas “opções” ou características sexuais, e de maneira tão específica que surgiram conceitos como bissexual, trans-sexual etc. As pessoas deveriam criar uma identidade a partir dessas ideias, rotular a si mesmas e, a partir disso, serem “encaixadas” na sociedade e nas suas instituições. Enfim, consulte Foucault.
 
-Minha pergunta é outra.
+Minha pergunta parte daí.
 
-A primeira leva de disciplinarização dos corpos tinha muito a ver com a medicina e com o sistema carcerário. Seu gerenciamento era delegado aos médicos, sistemas jurídicos e ao Estado.
+As primeiras levas de disciplinarização dos corpos tinham muito a ver com a medicina e com o sistema carcerário. E, então, as figuras essenciais eram os médicos, os sistemas jurídicos e o Estado.
 
 Mas, a partir de um certo momento na história, passa a ser *entretenimento*. As pessoas celebram e cultivam individualmente essa identidade disciplinada. Como se fosse uma diversão.
 
