@@ -404,3 +404,15 @@ li > p {
 object,embed {
 	margin: 0 auto 0 auto
 }
+.footnotes p{
+	font-size: 85%;
+}
+.footnotes ol,.footnotes ul{
+	list-style-type: decimal;
+	list-style-position: outside;
+	border-top: 1px solid #ccc;
+	margin-top: 30px;
+}
+.footnotes li{
+	padding-top: 10px;
+}

@@ -43,6 +43,8 @@ No fundo, essa é a pergunta essencial: deixamos a época do individualismo Rom�
 
 Ou seja: quando foi que a definição e a manutenção da identidade deixaram de ser uma construção cultural exclusivamente humana? Quando passaram a ser uma atividade mensurável, quantificada e automatizada, a ponto de querermos [quantificar a nós mesmos](http://quantifiedself.com/)?
 
-E, especificamente nesse ponto da Produção Cultural Digital (não podemos mais chamar esse processo de Indústria Cultural, não é?): quando o mercado começou a prescindir dos humanos para gerar riqueza?
+E, especificamente nesse ponto da Produção Cultural Digital[^1]: quando o mercado começou a prescindir dos humanos para gerar riqueza?
 
 Vamos ver onde essas ideias me levam. Uma tese? Sei lá. Será que é a hora de voltar pra Universidade?
+
+[^1]: Não podemos mais chamar esse processo de Indústria Cultural, não é?
