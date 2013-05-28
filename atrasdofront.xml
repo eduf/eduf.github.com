@@ -5,13 +5,13 @@
 
   <title>Atrás do Front</title>
   <link>http://caosordenado.com/atrasdofront.html</link>
-  <language>en-us</language>
+  <language>pt-br</language>
   <copyright>Eduardo Fernandes</copyright>
 
   <itunes:subtitle>Podcast de entrevistas com gente que trabalha com comunicação, no papel, nos ambientes mobiles, no rádio ou na web.</itunes:subtitle>
   <itunes:author>Eduardo Fernandes</itunes:author>
-  <itunes:summary>Podcast de entrevistas com gente que trabalha com comunicação, em todos os fronts.</itunes:summary>
-  <description>Podcast de entrevistas com gente que trabalha com comunicação, no papel, nos ambientes mobiles, no rádio ou na web.</description>
+  <itunes:summary>Podcast de entrevistas com gente que trabalha com comunicação, no papel, nos ambientes mobile, no rádio ou na web.</itunes:summary>
+  <description>Podcast de entrevistas com gente que trabalha com comunicação, em todos os fronts.</description>
   
   <itunes:owner>
     <itunes:name>Eduardo Fernandes</itunes:name>
