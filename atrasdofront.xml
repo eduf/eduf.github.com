@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+  <title>Atrás do Front</title>
+  <link>http://caosordenado.com/atrasdofront.html</link>
+  <language>pt-br</language>
+  <copyright>&#x2117; &amp; &#xA9; 2013 Eduardo Fernandes</copyright>
+
+  <itunes:subtitle>Podcast de entrevistas com gente que trabalha com comunicação, no papel, nos ambientes mobiles, no rádio ou na web.</itunes:subtitle>
+  <itunes:author>Eduardo Fernandes</itunes:author>
+  <itunes:summary>Podcast de entrevistas com gente que trabalha com comunicação, em todos os fronts.</itunes:summary>
+  <description>Podcast de entrevistas com gente que trabalha com comunicação, no papel, nos ambientes mobiles, no rádio ou na web.</description>
+  
+  <itunes:owner>
+    <itunes:name>Eduardo Fernandes</itunes:name>
+    <itunes:email>eduf@caosordenado.com</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>No</itunes:explicit>
+
+  <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+  <itunes:category text="Technology"/>
+  </itunes:category>
+  <itunes:category text="Technology"/>
+
+<item>
+
+  <title>Front End estilo Raul Gil</title>
+  <itunes:author>Eduardo Fernandes</itunes:author>
+  <itunes:subtitle>Com o front-end developer e instrutor, Diego Eis. Além de ser dono da conta @raulgil no Twitter, ele é o fundador do Tableless.com.br.</itunes:subtitle>
+  
+  <itunes:summary>
+    Nesta semana, o Atrás do Front recebe o front-end developer e instrutor, Diego Eis. Além de ser dono da conta @raulgil no Twitter, ele é o fundador do Tableless, um dos primeiros sites brasileiros a falar sobre web semântica. De lá para cá, treinou equipes de empresas como Google, Globo.com, iG, Yahoo!, UOL, Uninove, entre outras. Conversei com Diego sobre como anda o mercado de desenvolvimento de internet no Brasil.
+  </itunes:summary>
+  
+  <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+  <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_diego_eis.mp3" length="8727310" type="audio/mpeg" />
+  <guid>https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_diego_eis.mp3</guid>
+  <pubDate>Sat, 25 May 2013 19:00:00 GMT</pubDate>
+  <itunes:duration>40:09</itunes:duration>
+
+  <itunes:keywords>
+    Eduf, Eduardo Fernandes, Caos Ordenado, Diego Eis, Tableless, webdevelopment, front-end.
+  </itunes:keywords>
+
+</item>
+
+
+<item>
+
+  <title>Meu trabalho é reclamar</title>
+  <itunes:author>Eduardo Fernandes</itunes:author>
+  <itunes:subtitle>Com Pablo Miyazawa, o editor-chefe da versão brasileira da revista Rolling Stone.</itunes:subtitle>
+  
+  <itunes:summary>
+    O convidado desse episódio é Pablo Miyazawa, o editor-chefe da versão brasileira da revista Rolling Stone. Conversamos sobre como é se virar na imprensa independente do Brasil, games, redes sociais, algorítimos e outros etecéteras.
+  </itunes:summary>
+  
+  <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+  <enclosure url="https://s3-sa-east-1.amazonaws.com/firmeeforte/firme_e_forte04.mp3" length="8727310" type="audio/mpeg" />
+  <guid>https://s3-sa-east-1.amazonaws.com/firmeeforte/firme_e_forte04.mp3</guid>
+  <pubDate>Wed, 26 Set 2012 19:00:00 GMT</pubDate>
+  <itunes:duration>59:20</itunes:duration>
+
+  <itunes:keywords>
+    Eduf, Eduardo Fernandes, Caos Ordenado, Pablo Miyazawa, Jornalismo, Rolling Stone.
+  </itunes:keywords>
+
+</item>
+
+</channel>
+</rss>
