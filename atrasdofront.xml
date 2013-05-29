@@ -25,6 +25,7 @@
     <itunes:category text="Gadgets"/>
   </itunes:category>
 
+
 <item>
 
   <title>Front End estilo Raul Gil</title>
@@ -59,9 +60,9 @@
   </itunes:summary>
   
   <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
-  <enclosure url="https://s3-sa-east-1.amazonaws.com/firmeeforte/firme_e_forte04.mp3" length="8727310" type="audio/mpeg" />
-  <guid>https://s3-sa-east-1.amazonaws.com/firmeeforte/firme_e_forte04.mp3</guid>
-  <pubDate>Wed, 26 Set 2012 19:00:00 GMT</pubDate>
+  <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_pablo_miyazawa.mp3" length="8727310" type="audio/mpeg" />
+  <guid>https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_pablo_miyazawa.mp3</guid>
+  <pubDate>Wed, 16 May 2013 19:00:00 GMT</pubDate>
   <itunes:duration>59:20</itunes:duration>
 
   <itunes:keywords>
