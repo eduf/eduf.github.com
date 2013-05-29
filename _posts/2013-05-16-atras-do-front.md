@@ -13,6 +13,6 @@ tags:
 
 Novo podcast na área: *Atrás do Front*. A ideia é entrevistar gente que trabalha com comunicação no dia-a-dia. Pessoas com experiências reais, que colocam a mão na massa. O convidado desse episódio é [Pablo Miyazawa](https://twitter.com/pablomiyazawa), o editor-chefe da versão brasileira da revista [Rolling Stone](http://rollingstone.uol.com.br/). Conversamos sobre como é se virar na imprensa independente do Brasil, games, redes sociais, algorítimos e outros etecéteras.
 
-[Ouça no Mix Cloud](http://www.mixcloud.com/eduf/atr%C3%A1s-do-font-com-pablo-miyazawa/) ou [baixe o arquivo mp3](http://www.mediafire.com/?321l476p1t75ms8).
+[Ouça no Mix Cloud](http://www.mixcloud.com/eduf/atr%C3%A1s-do-font-com-pablo-miyazawa/), [baixe o arquivo mp3](http://www.mediafire.com/?321l476p1t75ms8) ou [assine no iTunes](https://itunes.apple.com/br/podcast/atras-do-front/id655119629?l=en).
 
 PS— Não foi possível eliminar os barulhos do headset que o Pablo usou durante a gravação. Mas o som está perfeitamente inteligível.
