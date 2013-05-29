@@ -25,6 +25,29 @@
     <itunes:category text="Gadgets"/>
   </itunes:category>
 
+<item>
+
+  <title>Como programadores pegam ônibus</title>
+  <itunes:author>Eduardo Fernandes</itunes:author>
+  <itunes:subtitle>Com o desenvolvedor para iOS e instrutor de Ruby e Ruby On Rails, Ricardo Valeriano.</itunes:subtitle>
+  
+  <itunes:summary>
+    Ricardo Valeriano foi um dos pioneiros em desenvolver aplicativos para iOS no Brasil. Hoje também é instrutor de Ruby e Ruby On Rails. Ele conta como funciona a carreira de programador no país.
+  </itunes:summary>
+  
+  <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+  <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_ricardo_valeriano.mp3" length="8727310" type="audio/mpeg" />
+  <guid>https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_ricardo_valeriano.mp3</guid>
+  <pubDate>Sat, 01 Apr 2013 19:00:00 GMT</pubDate>
+  <itunes:duration>33:21</itunes:duration>
+
+  <itunes:keywords>
+    Eduf, Eduardo Fernandes, Caos Ordenado, Ricardo Valeriano, Ruby, Ruby On Rails, webdevelopment, iOS, Apple
+  </itunes:keywords>
+
+</item>
+
+
 
 <item>
 
