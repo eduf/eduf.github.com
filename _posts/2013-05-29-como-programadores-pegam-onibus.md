@@ -25,6 +25,8 @@ O *Atrás do Front* (ADF) recebe [Ricardo Valeriano](https://twitter.com/sr_vale
 
 * [LabOne Systems](http://www.labone.net/pt/html/home.html)
 
+* [Tabajara dos Reis](http://br.linkedin.com/in/tabajara)
+
 * [Marco Arment](http://marco.org)
 
 * [Pocket](http://getpocket.com)
