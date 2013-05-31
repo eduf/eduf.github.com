@@ -212,7 +212,7 @@ blockquote {
 	-webkit-column-gap: 10px;
 	column-count: 2;
 	column-gap: 10px;
-	padding-top: 2px;
+	padding-top: 1%;
 }
 
 .site-title {
