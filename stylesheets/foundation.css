@@ -18,7 +18,7 @@ body {
 	margin: 0;
 	padding: 0;
 	border-top: 4px solid #333;
-	font-family: "abril-display-1","abril-display-2","calluna-1","calluna-2","Georgia", serif;
+	font-family: "calluna-1","calluna-2","Georgia", serif;
 }
 
 audio,canvas,video {
@@ -151,7 +151,7 @@ h4{
 
 .entry-title{
 	margin-top: 15%;
-	padding-top: 6%;
+	padding-top: 5%;
 	line-height: 120%;
 }
 
@@ -296,7 +296,7 @@ body {
 	padding-right: 16%;
 }
 h1{
-	font-size: 190%;
+	font-size: 195%;
 }
 }
 
