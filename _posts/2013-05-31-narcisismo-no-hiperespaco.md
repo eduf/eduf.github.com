@@ -29,7 +29,7 @@ Poderia inumerar vários casos semelhantes durante minha carreira: o narcisismo,
 
 Você ali, cultivando a agressividade contra si mesmo, projetando-a — direta ou indiretamente — nos outros, enquanto o resto do mundo é estranhamente compassivo com você. Não só as pessoas, mas até mesmo os fenômenos considerados irritantes.[^3]
 
-Nessas horas, precisamos de uma certa arte — ou técnica — para conseguir parar o hábito de entrar para o hiperespaço. Os raios de luz se projetam e, de repente, você para e olha pela janela. E, um tanto distraído do narcisismo, muda de ideia. Nem quer mais pular de dimensão. Viajar de novo? Para quê? Chewbacca, reversão total nos motores.
+Nessas horas, precisamos de uma certa arte — ou técnica — para conseguir parar o hábito de entrar para o hiperespaço. Os raios de luz se projetam e, de repente, você para e olha pela janela. E, um tanto distraído do narcisismo, muda de ideia. Nem quer mais pular de dimensão. Viajar de novo? Para quê? Chewbacca, [reversão total nos motores](http://nationaldayofhacking.info/).
 
 [^1]: Felizmente, naquela época ainda não existiam as redes sociais e suas estatísticas, que usam a quantificação do narcisismo como estratégia para nos fazer trabalhar de graça para startups ou grandes corporações de mídia. E depois dizem que "o Tumblr" foi vendido. Ilusão: venderam nossos conteúdos, nosso tempo e atenção.
 
