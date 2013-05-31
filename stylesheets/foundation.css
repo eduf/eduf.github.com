@@ -32,12 +32,12 @@ button,input,select,textarea {
 }
 
 a {
-	color: #fc0000;
+	color: #205C8E;
 	text-decoration: none
 }
 
 a:hover {
-	color: #0096ff;
+	color: #2C7EB5;
 }
 
 a:visited {
@@ -139,26 +139,26 @@ h1 a,h2 a,h3 a,h4 a{
 	color: #393530
 }
 h1{
-	font-size: 180%;
+	font-size: 185%;
 }
 h2{
-	font-size: 140%;
+	font-size: 125%;
+	padding-top: 5%;
 }
 h3{
-	font-size: 120%;
+	font-size: 115%;
 }
 h4{
 	font-size: 100%;
 }
 
 .entry-title{
-	border-top: 1px solid #ccc;
-	margin-top: 10%;
+	margin-top: 15%;
 	padding-top: 6%;
+	line-height: 120%;
 }
 
 .entry-title:first-child {
-	border-top: none;
 	margin-top: 10%;
 	padding-top: 0;
 }
@@ -222,7 +222,7 @@ blockquote {
 
 .site-title:before {
 	content: "{ø";
-	background-color: #fc0000;
+	background-color: #205C8E;
 	color: #fff;
 	border-radius: 100%;
 	margin: 0 0.5em 0 0;
@@ -246,7 +246,7 @@ blockquote {
 }
 
 #main {
-	margin: 0 0 5% 0;
+	margin: 0 0 6% 0;
 }
 
 #colophon {
@@ -255,6 +255,9 @@ blockquote {
 	text-align: center;
 }
 
+#colophon a {
+	color: #5986ac;
+}
 
 #colophon a:hover {
 	color: #fff;
