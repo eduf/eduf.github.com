@@ -17,7 +17,7 @@ body {
 	background-color: #fff;
 	margin: 0;
 	padding: 0;
-	border-top: 4px solid #333;
+	border-top: 5px solid #333;
 	font-family: "kepler-std-1","kepler-std-2","Georgia", serif;
 }
 
@@ -201,7 +201,7 @@ blockquote {
 #branding {
 	background-color: #F3F3F3;
 	overflow: hidden;
-	font-size: 85%;
+	font-size: 80%;
 	margin: 0;
 	-ms-column-count: 2;
 	-moz-column-count: 2;
@@ -212,6 +212,7 @@ blockquote {
 	-webkit-column-gap: 10px;
 	column-count: 2;
 	column-gap: 10px;
+	padding-top: 2px;
 }
 
 .site-title {
@@ -225,7 +226,7 @@ blockquote {
 	color: #fff;
 	border-radius: 100%;
 	margin: 0 0.5em 0 0;
-	padding: 0.40em 0.5em 0.40em 0.5em;
+	padding: 0.35em 0.5em 0.35em 0.5em;
 }
 
 .main-menu {
