@@ -182,7 +182,7 @@ h4{
 	font-size: 75%;
 	margin-bottom: 4%;
 	color: #5e5e5e;
-	font-style: italic;
+	font-family: "acta-display-1","acta-display-2","Georgia",serif;
 }
 
 blockquote {
@@ -216,6 +216,7 @@ blockquote {
 }
 
 .site-title {
+	font-family: "acta-display-1","acta-display-2","Georgia",serif;
 	margin: 0;
 	padding: 0;
 }
