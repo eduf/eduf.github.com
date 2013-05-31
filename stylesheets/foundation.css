@@ -132,7 +132,6 @@ h1,h2,h3,h4 {
 	margin: 0;
 	padding: 30px 0 13px 0;
 	padding: 3.0rem 0 1.3rem 0;
-	text-align: center;
 	font-family: "kepler-std-semicondensed-sub-1","kepler-std-semicondensed-sub-2","Georgia",serif;
 }
 
@@ -179,7 +178,7 @@ h4{
 }
 .entry-meta {
 	text-align: center;
-	font-size: 80%;
+	font-size: 75%;
 	margin-bottom: 4%;
 	color: #5e5e5e;
 	font-style: italic;
@@ -225,7 +224,7 @@ blockquote {
 	color: #fff;
 	border-radius: 100%;
 	margin: 0 0.5em 0 0;
-	padding: 0.35em 0.5em 0.35em 0.5em;
+	padding: 0.40em 0.5em 0.40em 0.5em;
 }
 
 .main-menu {
@@ -299,6 +298,10 @@ body {
 }
 h1{
 	font-size: 215%;
+	text-align: center;
+}
+.entry-meta {
+	text-align: center;
 }
 }
 
@@ -328,7 +331,7 @@ body {
 	padding-right: 6%;
 }
 h1{
-	font-size: 190%;
+	font-size: 195%;
 }
 }
 
