@@ -7,7 +7,7 @@ tags:
 - comportamento
 ---
 
-Não sei exatamente como, mas acabei tropeçando no documentário abaixo, sobre [Desordem de Personalidade Narcisista](https://en.wikipedia.org/wiki/Narcissistic_personality_disorder). Graças ao meu treinamento e "crenças" pessoais, não concordo com algumas ideias do vídeo. E imagino que psicólogos experientes encontrarão vários pontos controversos no roteiro. Mas, ainda assim, valeu gastar algum tempo assistindo-o. Porque, como bom narcisista, eu o utilizei para pensar sobre mim, sobre como o narcisismo influenciou toda minha carreira.
+Não sei exatamente como, mas acabei tropeçando nesse vídeo sobre [Desordem de Personalidade Narcisista](https://en.wikipedia.org/wiki/Narcissistic_personality_disorder). É um desses shows superficiais de TV a cabo. Imagino que psicólogos experientes encontrarão *vários* pontos controversos no roteiro. Mas, ainda assim, gastei algum tempo assistindo-o. Porque, como bom narcisista, eu o utilizei para pensar sobre como o narcisismo influenciou toda minha carreira profissional.
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/5HucRLk5Sm4" frameborder="0" allowfullscreen></iframe>
 
@@ -19,7 +19,7 @@ Um pouco antes, cursei o mestrado de Ciências Sociais da PUC-SP. Os professores
 
 Em vez de relaxar, eu acelerava ainda mais. E atirava para todos os lados, tentando me informar sobre tudo. O que óbviamente dava errado: quanto mais meus estudos se diversificavam, mais lacunas encontrava na minha formação. Às vezes, até lacunas completamente básicas.
 
-Duas coisas me fizeram desistir da carreira acadêmica. Primeiro, eu participava de um grupo de pesquisa que girava em torno de um professor tido quase como um guru. Seus alunos se cumprimentavam de um jeito específico, saíam juntos e tinham até mesmo certos trejeitos de linguagem. Embora eles fossem, de certa forma, acolhedores, eu me sentia excluído.[^2]
+Duas coisas me fizeram desistir da carreira acadêmica. Primeiro, eu participava de um grupo de pesquisa que girava em torno de um professor tido quase como um guru. Seus alunos se cumprimentavam de um jeito específico, saíam juntos e tinham até mesmo certos trejeitos de linguagem. Embora fossem, de certa forma, acolhedores, eu me sentia excluído.[^2]
 
 O que me levou ao segundo motivo: numa certa aula, de outro curso, tentei explicar um ponto de vista sobre um filósofo que eu estudava obsessivamente. Após minha pequena digressão, a professora simplesmente sorriu e disse: "não é isso, não". Resultado: imediatamente abandonei o mestrado (e a bolsa).
 
