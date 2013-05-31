@@ -7,7 +7,7 @@ title: Caos Ordenado
 			
 	{% if post.link %}
 		<h1 class="entry-title">
-			<a href="{{ post.link }}" class="link-post" itemtype="http://schema.org/Article" itemprop="url">
+			<a href="{{ post.link }}" class="link-post" itemprop="url">
 				{% if site.titlecase %}
 				{{ post.title | titlecase }}
 				{% else %}
@@ -15,29 +15,29 @@ title: Caos Ordenado
 				{% endif %}
 			</a>
 		</h1>
-		<time class="entry-meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemtype="http://schema.org/Article" itemprop="datePublished">
+		<time class="entry-meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">
 			{{ post.date | date: "%d.%m.%Y" }}
 		</time>
 		
 		{% else %}
 
-		<h1 class="entry-title" itemtype="http://schema.org/Article" itemprop="headline">
+		<h1 class="entry-title" itemprop="headline">
 			<a href="{{ post.url }}" itemtype="http://schema.org/Article" itemprop="url">
 				{{ post.title }}
 			</a>
 		</h1>
-		<time class="entry-meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemtype="http://schema.org/Article" itemprop="datePublished">
+		<time class="entry-meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">
 			{{ post.date | date: "%d.%m.%Y" }}
 		</time>
 	{% endif %}
 
 	{% if post.content contains '<!--more-->' %}
     {{ post.content | split:'<!--more-->' | first }}
-    <p><a href="{{ post.url }}" itemtype="http://schema.org/Article" itemprop="url">Continue lendo</a></p>
+    <p><a href="{{ post.url }}" itemprop="url">Continue lendo</a></p>
 
 	{% else %}
 
-	<span itemtype="http://schema.org/Article" itemprop="articleBody">
+	<span itemprop="articleBody">
 		{{post.content}}
 	</span>
 
