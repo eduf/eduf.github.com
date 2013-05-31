@@ -21,7 +21,7 @@ Em vez de relaxar, eu acelerava ainda mais. E atirava para todos os lados, tenta
 
 Duas coisas me fizeram desistir da carreira acadêmica. Primeiro, eu participava de um grupo de pesquisa que girava em torno de um professor tido quase como um guru. Seus alunos se cumprimentavam de um jeito específico, saíam juntos e tinham até mesmo certos trejeitos de linguagem. Embora eles fossem, de certa forma, acolhedores, eu me sentia excluído.[^2]
 
-O que me levou ao segundo motivo: numa certa aula, de outro curso, tentei explicar um ponto de vista sobre um filósofo que eu estudava obsessivamente. Após minha pequena digreção, a professora simplesmente sorriu e disse: "não é isso, não". Resultado: imediatamente, abandonei o mestrado (e a bolsa).
+O que me levou ao segundo motivo: numa certa aula, de outro curso, tentei explicar um ponto de vista sobre um filósofo que eu estudava obsessivamente. Após minha pequena digressão, a professora simplesmente sorriu e disse: "não é isso, não". Resultado: imediatamente, abandonei o mestrado (e a bolsa).
 
 Poderia inumerar vários casos semelhantes durante minha carreira: o narcisismo, a paranóia e a insegurança me levavam ao que chamo de *efeito hiperespaço*. Quer dizer, eu aumentava a velocidade até o ponto em que, de repente, me via numa situação completamente diferente: outras pessoas, outros universos, outro tipo de trabalho.
 
@@ -33,6 +33,6 @@ Nessas horas, precisamos de uma certa arte — ou técnica — para conseguir pa
 
 [^1]: Felizmente, naquela época ainda não existiam as redes sociais e suas estatísticas, que usam a quantificação do narcisismo como estratégia para nos fazer trabalhar de graça para startups ou grandes corporações de mídia. E depois dizem que "o Tumblr" foi vendido. Ilusão: venderam nossos conteúdos, nosso tempo e atenção.
 
-[^2]: Nada era capaz de me integrar, nem quando o professor elogiava meu livro. Veja: naquela época, como diria Nelson Rodrigues, eu seria capaz de atravessar o Atlântico a nado por uma resenha positiva.
+[^2]: Nada era capaz de me integrar, nem quando o professor elogiava meu livro durante as aulas. E, perceba: naquela época, como diria Nelson Rodrigues, eu seria capaz de atravessar o Atlântico a nado por uma resenha positiva.
 
 [^3]: Por exemplo, você discute com sua namorada via SMS. De repente, o smartphone fica sem bateria. Você é obrigado a cortar o fluxo do bate-boca. Horas depois, percebe que aquela pausa foi fundamental para os dois esfriarem os ânimos e enxergarem a situação de uma forma mais equilibrada. Pois é, às vezes o [Pollyanismo](https://en.wikipedia.org/wiki/Pollyanna) funciona.
