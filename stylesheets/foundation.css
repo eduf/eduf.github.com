@@ -138,9 +138,6 @@ h1,h2,h3,h4 {
 h1 a,h2 a,h3 a,h4 a{
 	color: #393530
 }
-h1{
-	font-size: 185%;
-}
 h2{
 	font-size: 125%;
 	padding-top: 5%;
@@ -298,6 +295,9 @@ body {
 	padding-left: 16%;
 	padding-right: 16%;
 }
+h1{
+	font-size: 190%;
+}
 }
 
 @media only screen and (max-width: 70.000em) {
@@ -325,6 +325,9 @@ body {
 #main ul,#main ol{
 	padding-left: 8%;
 	padding-right: 8%;
+}
+h1{
+	font-size: 175%;
 }
 }
 
@@ -357,7 +360,9 @@ body {
 	padding-left: 8%;
 	padding-right: 8%;
 }
-
+h1{
+	font-size: 150%;
+}
 }
 
 /* Utilidades */
