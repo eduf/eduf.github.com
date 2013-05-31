@@ -21,7 +21,7 @@ Em vez de relaxar, eu acelerava ainda mais. E atirava para todos os lados, tenta
 
 Duas coisas me fizeram desistir da carreira acadêmica. Primeiro, eu participava de um grupo de pesquisa que girava em torno de um professor tido quase como um guru. Seus alunos se cumprimentavam de um jeito específico, saíam juntos e tinham até mesmo certos trejeitos de linguagem. Embora eles fossem, de certa forma, acolhedores, eu me sentia excluído.[^2]
 
-O que me levou ao segundo motivo: numa certa aula, de outro curso, tentei explicar um ponto de vista sobre um filósofo que eu estudava obsessivamente. Após minha pequena digressão, a professora simplesmente sorriu e disse: "não é isso, não". Resultado: imediatamente, abandonei o mestrado (e a bolsa).
+O que me levou ao segundo motivo: numa certa aula, de outro curso, tentei explicar um ponto de vista sobre um filósofo que eu estudava obsessivamente. Após minha pequena digressão, a professora simplesmente sorriu e disse: "não é isso, não". Resultado: imediatamente abandonei o mestrado (e a bolsa).
 
 Poderia inumerar vários casos semelhantes durante minha carreira: o narcisismo, a paranóia e a insegurança me levavam ao que chamo de *efeito hiperespaço*. Quer dizer, eu aumentava a velocidade até o ponto em que, de repente, me via numa situação completamente diferente: outras pessoas, outros universos, outro tipo de trabalho.
 
@@ -29,7 +29,7 @@ Poderia inumerar vários casos semelhantes durante minha carreira: o narcisismo,
 
 Você ali, cultivando a agressividade contra si mesmo, projetando-a — direta ou indiretamente — nos outros, enquanto o resto do mundo é estranhamente compassivo com você. Não só as pessoas, mas até mesmo os fenômenos considerados irritantes.[^3]
 
-Nessas horas, precisamos de uma certa arte — ou técnica — para conseguir parar o hábito de entrar para o hiperespaço. Os raios de luz se projetam e, de repente, você para e olha pela janela. E, um tanto distraído do narcisismo, muda de ideia. Nem quer mais pular de dimensão. Viajar de novo? Para quê? Chewbacca, [reversão total nos motores](http://nationaldayofhacking.info/).
+Nessas horas, precisamos de uma certa arte — ou técnica — para conseguir parar o hábito de entrar para o hiperespaço. Os raios de luz se projetam e, de repente, você para e olha pela janela. E, um tanto distraído do narcisismo, muda de ideia. Nem quer mais pular de dimensão. Viajar de novo? Para quê? Chewbacca, reversão total nos motores. [Hora de debugar a si mesmo](http://nationaldayofhacking.info/).
 
 [^1]: Felizmente, naquela época ainda não existiam as redes sociais e suas estatísticas, que usam a quantificação do narcisismo como estratégia para nos fazer trabalhar de graça para startups ou grandes corporações de mídia. E depois dizem que "o Tumblr" foi vendido. Ilusão: venderam nossos conteúdos, nosso tempo e atenção.
 
