@@ -13,7 +13,7 @@ Não sei exatamente como, mas acabei tropeçando no documentário abaixo, sobre 
 
 Sempre fui extremamente ganancioso. Mas o buraco de coelho que perseguia — e ainda persigo, de certa forma — é a relevância cultural, não o dinheiro. Eu queria me sentir *esperto*, culto. É como se quisesse assimilar e manipular todo o conhecimento humano de uma só vez.<!--more-->
 
-No começo dos anos 2000, lancei 5 discos de uma banda de um homem só, desenhava HQs, editava uma revista mensal (ganhando míseros R$ 1 mil), mantinha dois sites de crítica cultural e publiquei um livro de ficção. Mas, no fundo, tudo o que conseguia pensar era: não sou bom o suficiente, ninguém presta atenção no meu trabalho, o que posso fazer para finalmente encontrar "meu" espaço? [^1]
+No começo dos anos 2000, lancei 5 discos de uma banda de um homem só, desenhei HQs, editei uma revista mensal (ganhando míseros R$ 1 mil), mantive dois sites de crítica cultural e publiquei um livro de ficção. Mas, no fundo, tudo o que conseguia pensar era: não sou bom o suficiente, ninguém presta atenção no meu trabalho, o que posso fazer para finalmente encontrar "meu" espaço? [^1]
 
 Um pouco antes, cursei o mestrado de Ciências Sociais da PUC-SP. Os professores tinham certas expectativas em relação ao meu trabalho. Tinha bolsa CNPq. Mas eu me sentia extremamente desconfortável nas aulas. Na minha percepção, os outros alunos sempre conheciam melhor os textos, tinham uma formação mais completa.
 
