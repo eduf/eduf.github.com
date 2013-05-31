@@ -18,7 +18,7 @@ body {
 	margin: 0;
 	padding: 0;
 	border-top: 4px solid #333;
-	font-family: "calluna-1","calluna-2","Georgia", serif;
+	font-family: "abril-display-1","abril-display-2","calluna-1","calluna-2","Georgia", serif;
 }
 
 audio,canvas,video {
@@ -128,7 +128,6 @@ img {
 /* Tipografia */
 
 h1,h2,h3,h4 {
-	font-family: "abril-display-1","abril-display-2";
 	font-weight: 400;
 	margin: 0;
 	padding: 30px 0 15px 0;
