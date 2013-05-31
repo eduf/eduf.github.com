@@ -130,8 +130,8 @@ img {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	margin: 0;
-	padding: 30px 0 15px 0;
-	padding: 3.0rem 0 1.5rem 0;
+	padding: 30px 0 13px 0;
+	padding: 3.0rem 0 1.3rem 0;
 	text-align: center;
 	font-family: "kepler-std-semicondensed-sub-1","kepler-std-semicondensed-sub-2","Georgia",serif;
 }
@@ -180,8 +180,9 @@ h4{
 .entry-meta {
 	text-align: center;
 	font-size: 80%;
-	margin-bottom: 5%;
+	margin-bottom: 4%;
 	color: #5e5e5e;
+	font-style: italic;
 }
 
 blockquote {
@@ -289,12 +290,12 @@ body {
 }
 
 #main p {
-	padding-left: 16%;
-	padding-right: 16%;
+	padding-left: 15%;
+	padding-right: 15%;
 }
 #main ul,#main ol{
-	padding-left: 16%;
-	padding-right: 16%;
+	padding-left: 15%;
+	padding-right: 15%;
 }
 h1{
 	font-size: 215%;
@@ -304,31 +305,30 @@ h1{
 @media only screen and (max-width: 70.000em) {
 
 body {
-	font-size: 20px;
-	font-size: 2.0rem;
-	line-height: 155%;
-	text-rendering: auto;
+	font-size: 22px;
+	font-size: 2.2rem;
+	line-height: 160%;
 	text-rendering: optimizeLegibility;
 }
 
 #branding,#colophon {
-	padding: 1% 5% 1% 5%;
+	padding: 1% 6% 1% 6%;
 }
 
 #main {
-	padding: 0 5% 0 5%;
+	padding: 0 6% 0 6%;
 }
 
 #main p {
-	padding-left: 8%;
-	padding-right: 8%;
+	padding-left: 6%;
+	padding-right: 6%;
 }
 #main ul,#main ol{
-	padding-left: 8%;
-	padding-right: 8%;
+	padding-left: 6%;
+	padding-right: 6%;
 }
 h1{
-	font-size: 175%;
+	font-size: 190%;
 }
 }
 
