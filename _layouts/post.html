@@ -15,13 +15,11 @@ layout: default
 		{% else %}
 		
 		<h1 class="entry-title" itemprop="headline">
-			<a href="{{ page.url }}" itemprop="url">
 				{% if site.titlecase %}
 				{{ page.title | titlecase }}
 				{% else %}
 				{{ page.title }}
 				{% endif %}
-			</a>
 		</h1>
 		
 	{% endif %}
