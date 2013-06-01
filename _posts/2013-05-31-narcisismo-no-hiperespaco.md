@@ -7,9 +7,7 @@ tags:
 - comportamento
 ---
 
-Não sei exatamente como, mas acabei tropeçando nesse vídeo sobre [Desordem de Personalidade Narcisista](https://en.wikipedia.org/wiki/Narcissistic_personality_disorder). É um desses shows superficiais de TV a cabo. Imagino que psicólogos experientes encontrarão *vários* pontos controversos no roteiro. Mas, ainda assim, gastei algum tempo assistindo-o. Porque, como bom narcisista, eu o utilizei para pensar sobre como o narcisismo influenciou toda minha carreira profissional.
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/5HucRLk5Sm4" frameborder="0" allowfullscreen></iframe>
+Não sei exatamente como, mas acabei tropeçando [nesse vídeo](http://youtu.be/5HucRLk5Sm4) sobre [Desordem de Personalidade Narcisista](https://en.wikipedia.org/wiki/Narcissistic_personality_disorder). É um desses shows superficiais de TV a cabo. Imagino que psicólogos experientes encontrarão *vários* pontos controversos no roteiro. Mas, ainda assim, gastei algum tempo assistindo-o. Porque, como bom narcisista, eu o utilizei para pensar sobre como o narcisismo influenciou toda minha carreira profissional.
 
 Sempre fui extremamente ganancioso. Mas o buraco de coelho que perseguia — e ainda persigo, de certa forma — é a relevância cultural, não o dinheiro. Eu queria me sentir *esperto*, culto. É como se quisesse assimilar e manipular todo o conhecimento humano de uma só vez.<!--more-->
 
