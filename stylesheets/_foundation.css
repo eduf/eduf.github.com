@@ -152,14 +152,14 @@ h4{
 
 .entry-title{
 	border-top: 1px solid #e4e4e4;
-	margin-top: 15%;
-	padding-top: 5%;
+	margin-top: 12%;
+	padding-top: 8%;
 	line-height: 120%;
 }
 
 .entry-title:first-child {
 	border-top: none;
-	margin-top: 8%;
+	margin-top: 10%;
 	padding-top: 0;
 }
 
@@ -317,7 +317,7 @@ body {
 }
 
 #branding,#colophon {
-	padding: 1% 5% 1% 5%;
+	padding: 2% 5% 1% 5%;
 }
 
 #main {
