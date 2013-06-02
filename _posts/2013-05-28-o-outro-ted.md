@@ -10,7 +10,7 @@ tags:
 
 Ando me divertindo horrores com a série de vídeos [Computers for Cynics](https://www.youtube.com/watch?v=KdnGPQaICjk), de [Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson). O sociólogo de 75 anos esteve diretamente envolvido nos bastidores da história dos computadores pessoais. Suas criações mais conhecidas são o termo "hipertexto" e o [botão "voltar"](http://hyperland.com/TNvita).
 
-Ted sempre foi um tanto marginalizado por conta da sua personalidade excêntrica e das suas opiniões polêmicas sobre personagens que circulam pelo Vale do Silício. Mas, recentemente, voltou a ganhar alguma notoriedade ao [publicar um vídeo](https://www.youtube.com/watch?v=emDJTGTrEm0) em que tenta revelar — imitando Sherlock Holmes — quem seria o misterioso inventor da [Bitcoin](http://bitcoin.org/en/), Satoshi Nakamoto. [A Forbes resume melhor o assunto](http://www.forbes.com/sites/timworstall/2013/05/19/ted-nelson-says-that-bitcons-satoshi-nakamoto-is-shinichi-mochizuki/).<!--more-->
+Ted sempre foi um tanto marginalizado por conta das suas opiniões polêmicas sobre personagens que circulam pelo Vale do Silício. Mas, recentemente, voltou a ganhar alguma notoriedade ao [publicar um vídeo](https://www.youtube.com/watch?v=emDJTGTrEm0) em que tenta revelar — imitando Sherlock Holmes — quem seria o misterioso inventor da [Bitcoin](http://bitcoin.org/en/), Satoshi Nakamoto. [A Forbes resume melhor o assunto](http://www.forbes.com/sites/timworstall/2013/05/19/ted-nelson-says-that-bitcons-satoshi-nakamoto-is-shinichi-mochizuki/).<!--more-->
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/KdnGPQaICjk" frameborder="0" allowfullscreen></iframe>
 
