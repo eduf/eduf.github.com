@@ -1,7 +1,7 @@
 ---
 date: 2013-06-03
-title: "Domando a microdata"
-excerpt: Screencast mostra como usar a microdata para melhorar a divulgação do seu conteúdo na Internet
+title: "Domando os microdados"
+excerpt: Screencast mostra como usar os microdados para melhorar a divulgação do seu conteúdo na Internet
 layout: post
 tags: 
 - microdata
