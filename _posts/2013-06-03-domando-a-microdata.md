@@ -10,7 +10,7 @@ tags:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/kBTC1ptxQdA" frameborder="0" allowfullscreen></iframe>
 
-Hoje em dia, mesmo que ninguém preste atenção ao seu conteúdo, você tem pelo menos alguns "leitores" fiéis: os computadores. Eles classificam e organizam aquilo que você publica a partir de *metadados* ([entenda melhor o que é isso](https://speakerdeck.com/diegoeis/a-semantica-do-html)). Portanto, se você quer que seu material seja descoberto de maneira simples, rápida e contextualizada na web, precisa entender a usar ferramentas como Open Graph protocol e dados estruturados ([Schema.org](http://schema.org)). O screencast acima deve ajudá-lo. Mas, para aproveitá-lo melhor, você vai precisar entender pelo menos um pouco de HTML. Divirta-se.
+Hoje em dia, mesmo que ninguém preste atenção no seu conteúdo, você tem pelo menos alguns "leitores" fiéis: os computadores. Eles classificam e organizam aquilo que você publica a partir de *metadados* ([entenda melhor o que é isso](https://speakerdeck.com/diegoeis/a-semantica-do-html)). Portanto, se você quer que seu material seja descoberto de maneira simples, rápida e contextualizada na web, precisa entender a usar ferramentas como Open Graph protocol e dados estruturados ([Schema.org](http://schema.org)). O screencast acima deve ajudá-lo. Mas, para aproveitá-lo melhor, você vai precisar entender pelo menos um pouco de HTML. Divirta-se.
 
 ## Links citados no vídeo
 
