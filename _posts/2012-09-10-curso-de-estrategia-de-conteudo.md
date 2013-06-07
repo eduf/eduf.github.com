@@ -23,7 +23,7 @@ Como consumimos / produzimos conteúdo?
 
 ### Pensar como os computadores para que eles pensem como humanos
 
-Como e porque o conteúdo vira cada vez mais meta-conteúdo: tags, categorias, arquivos, scripts.
+Como e porque o conteúdo vira cada vez mais metaconteúdo: tags, categorias, arquivos, scripts.
 
 ### Equipes, equipamentos
 
@@ -34,7 +34,7 @@ Como e porque o conteúdo vira cada vez mais meta-conteúdo: tags, categorias, a
 
 Alguns exemplos de gerenciamento de conteúdo ao longo de minhas experiências profissionais (Universidade, Trip, Conrad Editora, Superinteressante, Telefónica).
 
-### O professor
+### O Instrutor
 
 [Eduardo Fernandes](http://caosordenado.com/info/) é sociólogo formado pela PUC-SP (foi membro dos núcleos de Arte, Mídia e Política e de Sociabilidade Libertária). Em mais de 15 anos de profissão, gerenciou e produziu conteúdo para empresas de perfís tão diferentes quanto Trip, Petrobras, Conrad Editora, Revista Superinteressante, Telefónica, Nokia, entre outras. Já editou uma revista, Radar, e vários sites na área de crítica cultural para portais como Terra, UOL e AOL.
 
