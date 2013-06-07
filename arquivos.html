@@ -16,5 +16,5 @@ title: Cenas dos capítulos anteriores
 
       {% endif %}
     {% endunless %}
-      <p><small>{{ post.date | date:"%d/%m" }}</small>&emsp;<a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p><small>{{ post.date | date:"%d/%m" }}</small>&emsp;<a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></p>
   {% endfor %}

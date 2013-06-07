@@ -15,20 +15,12 @@ title: Caos Ordenado
 				{% endif %}
 			</a>
 		</h1>
-		<time class="entry-meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">
-			{{ post.date | date: "%d.%m.%Y" }}
-		</time>
+		<time class="entry-meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%d.%m.%Y" }}</time>
 		
 		{% else %}
 
-		<h1 class="entry-title" itemprop="headline">
-			<a href="{{ post.url }}" itemprop="url">
-				{{ post.title }}
-			</a>
-		</h1>
-		<time class="entry-meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">
-			{{ post.date | date: "%d.%m.%Y" }}
-		</time>
+		<h1 class="entry-title" itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
+		<time class="entry-meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%d.%m.%Y" }}</time>
 	{% endif %}
 
 	{% if post.content contains '<!--more-->' %}
@@ -37,15 +29,13 @@ title: Caos Ordenado
 
 	{% else %}
 
-	<span itemprop="articleBody">
-		{{post.content}}
-	</span>
+	<span itemprop="articleBody">{{post.content}}</span>
 
 	{% endif %}
 	
 	{% endfor %}
 
-		<div class="pagination" itemtype="http://schema.org/SiteNavigationElement">
+		<div class="pagination">
 			<p>
 				{% if paginator.previous_page %}
 					{% if paginator.previous_page == 1 %}
