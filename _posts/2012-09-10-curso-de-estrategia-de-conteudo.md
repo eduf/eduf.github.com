@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Curso de estratégia de conteúdo
+excerpt: "Como criar e gerenciar conteúdo numa época de diversidade de contextos e consumo de informação"
 tags:
 - cursos
 - educação
