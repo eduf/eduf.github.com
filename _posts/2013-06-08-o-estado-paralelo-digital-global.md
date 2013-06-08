@@ -58,4 +58,4 @@ Assim, a política também fica a cada dia mais algorítimica, matemática, digi
 2. Quem tem maior capacidade jurídica informal ou para-Estatal — leis de classificação, distribuição e encarceramento de conteúdo.
 3. Quem consegue atrair e agregar mais gente e dados.
 
-Estamos assistindo à ascenção de um novo tipo de poder político cujas relações com Estados tradicionais ainda está nublada. Vamos ver onde isso vai dar.
+Estamos assistindo à ascensão de um novo tipo de poder político cujas relações com Estados tradicionais ainda está nublada. Vamos ver onde isso vai dar.
