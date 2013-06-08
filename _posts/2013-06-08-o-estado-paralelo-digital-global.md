@@ -3,12 +3,12 @@ date: 2013-06-08
 title: "O Estado Paralelo Digital Global"
 excerpt: "Estamos assistindo à ascensão de um novo tipo de poder político, aquele que é exercido por meio dos computadores"
 layout: post
-tags: 
-- tecnologia
+tags:
 - política
+- tecnologia
 ---
 
-Quando você produz conteúdo, qual é o seu *primeiro* público alvo? Há até algum tempo atrás, poderíamos facilmente responder: pessoas, ora. Ainda que fossem mediadores, censuradores, revisores ou editores, esperávamos gente de carne e osso. Hoje a situação mudou.
+Quando você produz conteúdo, qual é o seu *primeiro* público alvo? Há até algum tempo, poderíamos facilmente responder: pessoas, ora. Ainda que fossem mediadores, censuradores, revisores ou editores, esperávamos gente de carne e osso. Hoje a situação mudou.
 
 Como é que você tem acesso à maioria das informações que consome? Via Google e redes sociais? E quando você escreve, publica fotos ou compartilha algo? Quantas vezes teve que lidar com as regras de um certo *ecossistema* digital?
 
@@ -18,7 +18,7 @@ Hoje seu primeiro — e mais fiel — leitor, é um script, um [web crawler](htt
 
 Assim, antes de atingir um humano, cada vez mais seu conteúdo passa por filtros algorítimicos, além de adaptações de formatação, para só então ser servido de acordo com vários contextos sociais e tecnológicos. Nos ambientes digitais, esses filtros cada vez mais se tornam matemáticos, estatísticos. Mas são baseados em sistemas de catalogação e classificação constante de comportamentos humanos. Você os conhece pelos nomes: Facebook, Google, Twitter, Tumblr, entre outros.
 
-Por isso  essas empresas valem tanto dinheiro, ainda que não sejam diretamente lucrativas: elas criam um enorme banco de dados, permitindo que experts façam previsões de intenções e ajustes no resto do “sistema jurídico algorítimico”. Não é que o Google ou Facebook queiram saber do seus segredos mais íntimos. Para essas empresas, seu comportamento gera estatísticas que conferem poder a elas.
+Por isso  essas empresas valem tanto dinheiro, ainda que não sejam diretamente lucrativas: elas criam um enorme banco de dados, permitindo que experts façam previsões de intenções e ajustes no resto do “sistema jurídico algorítimico”. Não é que o Google ou Facebook queiram saber do seus segredos mais íntimos. Para essas empresas, seu comportamento gera estatísticas que lhes conferem poder.
 
 Como assim, *poder*? Explico:
 
@@ -48,7 +48,7 @@ Assim, a própria atividade de consumir e produzir conteúdo on-line leva a um p
 
 É por isso que é ridículo dizer que sites como o Tumblr “não têm modelo de negócios” e ainda assim são vendidos por US$ 1.1 bilhão, como se os investidores fossem todos trouxas e jogassem dinheiro pelos ralos. É claro que existe um modelo de negócios: vender metainformação, um dos produtos mais valiosos da atualidade. Além, é claro, do próprio conteúdo produzido gratuitamente por nós, os surfistas da cauda longa.
 
-Esse sistema político emergente não signica necessariamente que o mundo vai virar um mar de anúncios ou que o FBI vai invadir sua casa (o que, afinal, já acontece em alguns casos). Mas que sua vida vai ficar cada vez mais atrelada às regras e “ecossistemas” de certas marcas. Isso pode significar mais poder para essas companhias. E, de certa forma, o poder político sempre tende à concentração no exercício e à expansão no território, ainda que seus detentores ocasionais não enxerguem esse movimento. De modo geral, os atores políticos vêm suas atividades como a busca pelo “bem-estar”, pela conveniência ou como a luta pela defesa da liberdade.
+Esse sistema político emergente não signica necessariamente que o mundo vá virar um mar de anúncios ou que o FBI invadirá sua casa (o que, afinal, já acontece em alguns casos). Mas que sua vida vai ficar cada vez mais atrelada às regras e “ecossistemas” de certas marcas. Isso pode significar mais poder para essas companhias. E, de certa forma, o poder político sempre tende à concentração no exercício e à expansão no território, ainda que seus detentores ocasionais não enxerguem esse movimento. De modo geral, os atores políticos vêm suas atividades como a busca pelo “bem-estar”, pela conveniência ou como a luta pela defesa da liberdade.
 
 ## Política algorítimica
 
