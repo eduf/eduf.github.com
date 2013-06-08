@@ -1,7 +1,7 @@
 ---
 date: 2013-06-08
 title: "O Estado Paralelo Digital Global"
-excerpt: "Estamos assistindo à ascenção de um novo tipo de poder político, aquele que é exercido por meio dos computadores"
+excerpt: "Estamos assistindo à ascensão de um novo tipo de poder político, aquele que é exercido por meio dos computadores"
 layout: post
 tags: 
 - tecnologia
