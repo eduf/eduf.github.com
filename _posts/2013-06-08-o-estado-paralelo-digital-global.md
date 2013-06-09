@@ -23,7 +23,9 @@ Por isso  essas empresas valem tanto dinheiro, ainda que não sejam diretamente 
 Como assim, *poder*? Explico:
 
 1. Poder econômico — capacidade de oferecer / vender anúncios, crescer no mercado financeiro, promover ou derrubar certos serviços e /ou atores econômicos.
+
 2. Poder social — ter capacidade de, até certo ponto, *disciplinar* e influenciar toda a produção e consumo de informação no planeta. Isso inclui até mesmo relações familiares (Facebook), comunicação em ambientes de trabalho (Gmail) e até a distribuição de crenças morais na nossa época (redes sociais em geral).
+
 3. Poder político — como as atividades humanas cada vez mais migram para os ambientes digitais ou dependem deles, os Estados tradicionais precisam negociar com as empresas de tecnologia para continuar a “fazer seu trabalho”.
 
 Ou seja: não interessa se você tem algo a esconder ou não na internet. Basta você usar os produtos dessas megacorporações on-line para lhes conferir importância como atores políticos. E esse é um movimento irreversível: estamos assistindo ao nascimento de um novo tipo de Estado, um Estado paralelo.
@@ -48,14 +50,18 @@ Assim, a própria atividade de consumir e produzir conteúdo on-line leva a um p
 
 É por isso que é ridículo dizer que sites como o Tumblr “não têm modelo de negócios” e ainda assim são vendidos por US$ 1.1 bilhão, como se os investidores fossem todos trouxas e jogassem dinheiro pelos ralos. É claro que existe um modelo de negócios: vender metainformação, um dos produtos mais valiosos da atualidade. Além, é claro, do próprio conteúdo produzido gratuitamente por nós, os surfistas da cauda longa.
 
-Esse sistema político emergente não signica necessariamente que o mundo vá virar um mar de anúncios ou que o FBI invadirá sua casa (o que, afinal, já acontece em alguns casos). Mas que sua vida vai ficar cada vez mais atrelada às regras e “ecossistemas” de certas marcas. Isso pode significar mais poder para essas companhias. E, de certa forma, o poder político sempre tende à concentração no exercício e à expansão no território, ainda que seus detentores ocasionais não enxerguem esse movimento. De modo geral, os atores políticos vêm suas atividades como a busca pelo “bem-estar”, pela conveniência ou como a luta pela defesa da liberdade.
+Esse sistema político emergente não signica necessariamente que o mundo vá virar um mar de anúncios ou que o FBI invadirá sua casa (o que, afinal, já acontece em alguns casos). Mas que sua vida vai ficar cada vez mais atrelada às regras e “ecossistemas” de certas marcas. Isso implica em mais poder para essas companhias.
+
+De certa forma, o poder político sempre tende à concentração no exercício e à expansão no território, ainda que seus detentores ocasionais não enxerguem esse movimento. De modo geral, os atores políticos vêm suas atividades como a busca pelo “bem-estar”, pela conveniência ou como a luta pela defesa da liberdade.
 
 ## Política algorítimica
 
 Assim, a política também fica a cada dia mais algorítimica, matemática, digital. E esses novos proto Estados disputam entre si em torno de três fatores:
 
-1. Quem tem não só os “maiores computadores”, como diria [Jaron Lanier](http://www.salon.com/2013/05/12/jaron_lanier_the_internet_destroyed_the_middle_class/) — maior capacidade de armazenar, processar e distribuir dados.
-2. Quem tem maior capacidade jurídica informal ou para-Estatal — leis de classificação, distribuição e encarceramento de conteúdo.
-3. Quem consegue atrair e agregar mais gente e dados.
+1. Quem tem os “maiores computadores”, como diria [Jaron Lanier](http://www.salon.com/2013/05/12/jaron_lanier_the_internet_destroyed_the_middle_class/) — a maior capacidade de armazenar, processar e distribuir dados.
+
+2. Quem tem maior capacidade jurídica informal ou para-Estatal — ou seja, quem administra e controla as mais amplamente aceitas leis de classificação, distribuição e encarceramento de conteúdo (como SEO e microdata).
+
+3. Quem consegue atrair e agregar mais gente e, portanto, dados.
 
 Estamos assistindo à ascensão de um novo tipo de poder político cujas relações com Estados tradicionais ainda está nublada. Vamos ver onde isso vai dar.
