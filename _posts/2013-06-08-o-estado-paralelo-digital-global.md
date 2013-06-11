@@ -42,21 +42,25 @@ Se o SEO é a legislação, o PageRank e os scripts de filtragem agem como polí
 
 ## Contrato Social Digital
 
-Assim, temos também um contrato social. Baseados numa definição do que seja o “bem comum” (definidos como ausência de spam, eliminação de sites maliciosos ou de informação “irrelevante”), delegamos parte da nossa liberdade ao proto Estado paralelo tecnológico. Um Estado global, que escapa aos territórios geopolíticos, mas que ainda está muito centralizado nos EUA.
+Assim, temos também um contrato social digital. Baseados numa definição do que seja o “bem comum” (ausência de spam, eliminação de sites maliciosos ou de informação “irrelevante”), delegamos parte da nossa liberdade ao proto Estado paralelo tecnológico. Um Estado global, que escapa aos territórios geopolíticos, mas que ainda está muito centralizado nos EUA.
 
-Se esse novo poder se limitasse à área da circulação digital de informação, a mutação política seria talvez mais simples. Não implicaria numa disputa imediata de poder com os Estados territoriais tradicionais. Mas o que fazer quando boa parte das atividades humanas são exercidas via computadores e são influenciadas pelas obscuras legislações dos scripts e webcrawlers? Além disso, cada vez mais a influência digital se estende ao mundo off-line, já que as ferramentas de busca nos ajudam a decidir até mesmo em que restaurante almoçaremos.
+Se esse novo poder se limitasse à circulação digital de informação, a mutação política seria talvez mais simples. Não implicaria numa disputa imediata de poder com os Estados territoriais tradicionais. Mas o que fazer quando boa parte das atividades humanas (inclusive o mercado financeiro) é exercida via computadores e é influenciada pelas obscuras legislações dos scripts e webcrawlers?
 
-Assim, a própria atividade de consumir e produzir conteúdo on-line leva a um particular engajamento político. Podemos publicar um texto filosófico ou reclamar sobre um jogador de futebol. Não importa. Ainda assim, produziremos metainformação que, processada por algorítimos e re-significada via estatística, vai criar algum nível de distribuição de poder para o proto Estado paralelo tecnológico global.
+Não se esqueça de que cada vez mais a influência digital se estende ao mundo off-line, já que as ferramentas de busca nos ajudam a decidir até mesmo em que restaurante almoçaremos. Assim, pode ser que, em alguns anos, não pareça tão delirante sugerir que técnicas como SEO estejam intimamente ligadas ao gerenciamento do futuro da democracia.
 
-É por isso que é ridículo dizer que sites como o Tumblr “não têm modelo de negócios” e ainda assim são vendidos por US$ 1.1 bilhão, como se os investidores fossem todos trouxas e jogassem dinheiro pelos ralos. É claro que existe um modelo de negócios: vender metainformação, um dos produtos mais valiosos da atualidade. Além, é claro, do próprio conteúdo produzido gratuitamente por nós, os surfistas da cauda longa.
+## A política pensa em você
 
-Esse sistema político emergente não signica necessariamente que o mundo vá virar um mar de anúncios ou que o FBI invadirá sua casa (o que, afinal, já acontece em alguns casos). Mas que sua vida vai ficar cada vez mais atrelada às regras e “ecossistemas” de certas marcas. Isso implica em mais poder para essas companhias.
+A própria atividade de consumir e produzir conteúdo on-line leva a um particular engajamento político. Podemos publicar um texto filosófico ou reclamar sobre um jogador de futebol. Não importa. Ainda assim, produziremos metainformação que, processada por algorítimos e re-significada via estatística, vai criar algum nível de distribuição de poder para o proto Estado paralelo tecnológico global.
 
-De certa forma, o poder político sempre tende à concentração no exercício e à expansão no território, ainda que seus detentores ocasionais não enxerguem esse movimento. De modo geral, os atores políticos vêm suas atividades como a busca pelo “bem-estar”, pela conveniência ou como a luta pela defesa da liberdade.
+É por isso que é ridículo dizer que companhias como o Tumblr “não têm modelo de negócios” e, ainda assim, são misteriosamente vendidas por US$ 1.1 bilhão. Como se os investidores fossem todos trouxas e jogassem dinheiro pelos ralos. É claro que existe um modelo de negócios: vender metainformação, um dos produtos mais valiosos da atualidade. Além, é claro, da possibilidade de controlar o conteúdo produzido gratuitamente por nós, os surfistas da cauda longa.
+
+Esse sistema político emergente apenas começou a tropeçar nos poderes tradicionais. Ainda parece ser subserviente (se levarmos em conta a informação de que nossos dados são vigiados por órgãos governamentais de inteligência). Mas por quanto tempo? Cada vez mais nossas vidas estão atreladas às regras e ecossistemas de certas marcas. Isso confere mais poder para essas companhias. Portanto, talvez em breve elas não sejam tão "dóceis" aos governos tradicionais.
+
+Ainda que os detentores ocasionais de poder digital não se vejam como atores políticos e sim defensores da conveniência e do "bem comum", eles também possuem ferramentas de lobby e coerção. Assim é melhor que nós deixemos de nos ver apenas como usuários e passemos a nos considerar cidadãos.
 
 ## Política algorítimica
 
-Assim, a política também fica a cada dia mais algorítimica, matemática, digital. E esses novos proto Estados disputam entre si em torno de três fatores:
+Como vimos, a política também fica a cada dia mais algorítimica, matemática, digital. Esses novos proto Estados disputam entre si em torno de três fatores:
 
 1. Quem tem os “maiores computadores”, como diria [Jaron Lanier](http://www.salon.com/2013/05/12/jaron_lanier_the_internet_destroyed_the_middle_class/) — a maior capacidade de armazenar, processar e distribuir dados.
 
