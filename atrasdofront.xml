@@ -25,8 +25,28 @@
     <itunes:category text="Gadgets"/>
   </itunes:category>
 
-<item>
 
+<item>
+  <title>A culpa é da publicidade</title>
+  <itunes:author>Eduardo Fernandes</itunes:author>
+  <itunes:subtitle>O músico e publicitário Gustavo Mini conta como sua banda, o Walverdes, o ajudou a se preparar para as mudanças radicais que vêm acontecendo na sua profissão</itunes:subtitle>
+  
+  <itunes:summary>
+    Há 20 anos, Gustavo Mini é um homem de muitos crachás na área de comunicação: redator publicitário, blogueiro no <a href="http://www.oesquema.com.br/conector/">Conector</a> e vocalista / guitarrista do <a href="https://www.facebook.com/walverdes">Walverdes</a>. Ele foi enquadrado para uma entrevista que trata de publicidade, novas mídias e até de tutoriais para criar bebês.
+  </itunes:summary>
+  
+  <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+  <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_gustavo_mini.mp3" length="8727310" type="audio/mpeg" />
+  <guid>https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_gustavo_mini.mp3</guid>
+  <pubDate>Thu, 13 Jun 2013 19:00:00 GMT</pubDate>
+  <itunes:duration>52:07</itunes:duration>
+
+  <itunes:keywords>
+    Eduf, Eduardo Fernandes, Gustavo Mini, Walverdes, Publicidade, Conector, O Esquema
+  </itunes:keywords>
+</item>
+
+<item>
   <title>Como programadores pegam ônibus</title>
   <itunes:author>Eduardo Fernandes</itunes:author>
   <itunes:subtitle>Com o desenvolvedor para iOS e instrutor de Ruby e Ruby On Rails, Ricardo Valeriano.</itunes:subtitle>
@@ -44,13 +64,9 @@
   <itunes:keywords>
     Eduf, Eduardo Fernandes, Caos Ordenado, Ricardo Valeriano, Ruby, Ruby On Rails, webdevelopment, iOS, Apple
   </itunes:keywords>
-
 </item>
 
-
-
 <item>
-
   <title>Front End estilo Raul Gil</title>
   <itunes:author>Eduardo Fernandes</itunes:author>
   <itunes:subtitle>Com o front-end developer e instrutor, Diego Eis. Além de ser dono da conta @raulgil no Twitter, ele é o fundador do Tableless.com.br.</itunes:subtitle>
@@ -68,12 +84,10 @@
   <itunes:keywords>
     Eduf, Eduardo Fernandes, Caos Ordenado, Diego Eis, Tableless, webdevelopment, front-end.
   </itunes:keywords>
-
 </item>
 
 
 <item>
-
   <title>Meu trabalho é reclamar</title>
   <itunes:author>Eduardo Fernandes</itunes:author>
   <itunes:subtitle>Com Pablo Miyazawa, o editor-chefe da versão brasileira da revista Rolling Stone.</itunes:subtitle>
@@ -91,7 +105,6 @@
   <itunes:keywords>
     Eduf, Eduardo Fernandes, Caos Ordenado, Pablo Miyazawa, Jornalismo, Rolling Stone.
   </itunes:keywords>
-
 </item>
 
 </channel>
