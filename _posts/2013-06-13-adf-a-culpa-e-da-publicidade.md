@@ -14,6 +14,7 @@ Há 20 anos, Gustavo Mini é um homem de muitos crachás na área de comunicaç�
 
 [Ouça no Mix Cloud](http://www.mixcloud.com/eduf/a-culpa-%C3%A9-sempre-dos-publicit%C3%A1rios-entrevista-com-gustavo-mini/), [baixe o arquivo mp3](http://www.mediafire.com/?c88lvqy45cxlq9k) ou [assine no iTunes](https://itunes.apple.com/br/podcast/atras-do-front/id655119629?l=en).
 <!--more-->
+
 ## Links do episódio
 
 * [Who Owns the Future?](http://amzn.to/12DkX8x)
