@@ -10,7 +10,7 @@ category:
 
 <iframe width="100%" height="250" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Feduf%2Fa-culpa-%25C3%25A9-sempre-dos-publicit%25C3%25A1rios-entrevista-com-gustavo-mini%2F&embed_uuid=8c3c654d-aa17-437f-b5a2-89fc2a16b7f2&stylecolor=&embed_type=widget_standard" frameborder="0"></iframe>
 
-Há 20 anos, Gustavo Mini é um homem de muitos crachás na área de comunicação: redator publicitário, blogueiro no [Conector](http://www.oesquema.com.br/conector/) e vocalista / guitarrista do [Walverdes](https://www.facebook.com/walverdes). Nós o enquadramos para uma entrevista para o *Atrás do Front* que trata de publicidade, novas mídias e até de tutoriais para se criar bebês.
+Há 20 anos, Gustavo Mini é um homem de muitos crachás na área de comunicação: redator publicitário, blogueiro no [Conector](http://www.oesquema.com.br/conector/) e vocalista / guitarrista do [Walverdes](https://www.facebook.com/walverdes). Ele foi enquadrado para uma entrevista que trata de publicidade, novas mídias e até de tutoriais para criar bebês.
 
 [Ouça no Mix Cloud](http://www.mixcloud.com/eduf/a-culpa-%C3%A9-sempre-dos-publicit%C3%A1rios-entrevista-com-gustavo-mini/), [baixe o arquivo mp3](http://www.mediafire.com/?c88lvqy45cxlq9k) ou [assine no iTunes](https://itunes.apple.com/br/podcast/atras-do-front/id655119629?l=en).
 <!--more-->
