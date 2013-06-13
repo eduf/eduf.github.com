@@ -1,8 +1,10 @@
 site_name: 'Caos Ordenado'
 site_url: 'http://caosordenado.com'
+timezone: America/Sao_Paulo
 pygments: true
+lsi: true
 markdown: kramdown
 permalink: /:title
 paginate: 10
 kramdown:
-  entity_output: symbolic
+  entity_output: as_char

@@ -24,7 +24,7 @@ layout: default
 		
 	{% endif %}
 
-		<p class="excerpt" itemprop="description">{{ page.excerpt }}</p>
+		<header class="excerpt" itemprop="description">{{ page.excerpt | markdownify }}</header>
 		<time class="entry-meta" datetime="{{ page.date| date:"%Y-%m-%d" }}" itemprop="datePublished">
 			{{ page.date| date:"%d.%m.%Y" }}
 		</time>
@@ -32,7 +32,7 @@ layout: default
 				
 		<h3 class="related-posts">Tem a ver</h3>
 			<ul>
-				{% for post in site.related_posts limit: 10 %}
+				{% for post in site.related_posts limit: 5 %}
 				<li><a href="{{post.url}}" itemprop="url">{{post.title}}</a>
 				{% endfor %}
 			</ul>
