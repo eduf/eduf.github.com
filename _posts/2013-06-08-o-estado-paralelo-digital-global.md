@@ -29,6 +29,9 @@ Como assim, *poder*? Explico:
 
 Ou seja: não interessa se você tem ou não algo a esconder na internet. Basta você usar os produtos dessas megacorporações on-line para lhes conferir importância como atores políticos. E esse é um movimento irreversível: estamos apenas assistindo ao nascimento de um novo tipo de Estado, um proto Estado paralelo.
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/MaQmyhkGNm0" frameborder="0" allowfullscreen></iframe>
+<em>Acima: o marketing político do Google?</em>
+
 ## O nascimento da legislação digital
 
 Pense na evolução do SEO e no nascimento de ferramentas como Rich Snippets, microdados, entre outras. Um historiador das ideias poderia assistir aos [vídeos do Google Webmaster Tools](http://www.theshortcutts.com/) como uma espécie de documentação de como os engenheiros de sistemas estão no centro de uma mutação técnica, econômica e política no conhecimento: eles correm atrás de formas eficientes de indicar o que significa “conteúdo relevante” e como ele pode ser melhor acessado.
