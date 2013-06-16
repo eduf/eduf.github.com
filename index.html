@@ -25,7 +25,7 @@ title: Caos Ordenado
 
 	{% if post.content contains '<!--more-->' %}
     {{ post.content | split:'<!--more-->' | first }}
-    <p><a href="{{ post.url }}" itemprop="url">Continue lendo</a></p>
+    <p><a href="{{ post.url }}" itemprop="url">Continue lendo</a> <span class="next">&rarr;</span></p>
 
 	{% else %}
 
