@@ -10,11 +10,11 @@ category:
 
 Estou diligentemente evitando dar opiniões sobre as manifestações nas ruas de SP. Por um motivo simples: em épocas de comoção, as ideias raramente são analisadas cuidadosamente. São geralmente descontextualizadas, simplificadas e transformadas em algo como: "esse sujeito está contra ou à favor do protesto?" Mas quero, sim, tentar ir além da proteção do meu ego e suscitar alguns questionamentos.
 
-Primeiro: o que você considera política? Ela é apenas a dualidade entre Estado e população? Ou é exercida por meio de uma rede atores e instituições dentro de uma sociedade? Por exemplo: as corporações, as regras morais, os diversos tipos de conhecimento, as identidades sociais, entre outros fatores. Você acredita que não é só o Estado que exerce poder efetivo sobre você?<!--more-->
+Primeiro: o que você considera política? Ela é apenas a dualidade entre Estado e população? Ou é exercida por meio de uma complexa rede de atores e instituições dentro de uma sociedade? Por exemplo: as corporações, as regras morais, os diversos tipos de conhecimento, as identidades sociais. Você acredita que não é só o Estado que exerce poder efetivo sobre você?<!--more-->
 
-Se a resposta é sim, você poderá se questionar a seguir: será que o Estado é a única instituição que eu posso pressionar para baixar o preço do ônibus? E, afinal, adianta pressioná-lo? Ou, pelo contrário, apenas estou pedindo para apanhar da polícia?
+Se a resposta é sim, a questão seguinte é: será que o Estado é a única instituição que eu posso pressionar para baixar o preço do ônibus? E, afinal, adianta pressioná-lo? Ou, pelo contrário, apenas estou pedindo para apanhar da polícia?
 
-Eu sei que os protestos não são só sobre os tais 20 centavos. Trata-se de um momento de inquietação moral mais generalizado. Mas, para prosseguir na nossa análise, vamos imaginar que o problema fosse mesmo só esse.
+Eu sei que os protestos não são só sobre os tais 20 centavos. Trata-se de um momento de inquietação moral mais generalizado. Mas, para prosseguir esta análise, vamos imaginar que o problema fosse mesmo só esse.
 
 ## O Napster do transporte público
 
@@ -38,7 +38,7 @@ Mas há quem diga que, nesses casos, o Estado faz aquilo que historicamente vem 
 
 Aqueles que realmente *não confiam* no Estado fazem o possível para se tornar *invisíveis*. Não vão à praça pública, agem pelas bordas. Até serem pegos e classificados, seja como criminosos, seja como participantes de uma área desregulamentada, que precisa ser "domada" pelo Estado. Como no caso da chamada pirataria, essa ação subterrânea foi capaz de causar uma mutação no sistema institucional.
 
-Mas, enfim, protestos podem trazer mudanças? Sim e não. Pergunte para a história. Não há uma regra. A situação é bem mais complexa do que parece. Em todo caso, se você confia no Estado, pode tentar alterá-lo por dentro, participando de partidos, atuando *diariamente* dentro dos limites impostos por esse tipo de "contrato social". Agora, se você *não confia*, a visibilidade pode ser contraproducente, porque, de modo geral, invoca a truculência das instituições designadas a mantê-lo.
+Mas, enfim, protestos podem trazer mudanças? Sim e não. Pergunte para a história. Não há uma regra. A situação é bem mais complexa do que parece. Em todo caso, se você confia no Estado, pode tentar alterá-lo por dentro, participando de partidos, atuando *diariamente* dentro dos limites impostos por esse tipo de "contrato social". Agora, se você *não confia*, a visibilidade pode ser contraproducente, porque, de modo geral, estimula a truculência das instituições designadas a mantê-lo.
 
 ## Protestos também podem ser conservadores
 
@@ -56,8 +56,8 @@ No dia-a-dia exercer política é uma questão extremamente *técnica*, o que ex
 
 As redes sociais podem ser instrumentos de agrupamento e denúncia. Mas elas têm um custo embutido. Por mais sedutoras que sejam, não existem no vácuo, são estruturas físicas, comerciais, mantidas por corporações. Ao usá-las, *conferimos poder* a certas instituições, a certas forças sociais.
 
-Portanto, antes de nos vangloriarmos sobre o "poder da internet", também precisamos estudar que poder ela tem sobre nós. Quais são as regras e as corporações que controlam esse novo "espaço público"? Por que elas parecem [tão engajadas em atrair a política para os seus domínios](http://youtu.be/MaQmyhkGNm0)?
+Portanto, antes de nos vangloriarmos sobre o "poder social da internet", também precisamos estudar que poder ela tem *sobre nós*. Quais são as regras e as corporações que controlam esse novo "espaço público"? Por que elas parecem [tão engajadas em atrair a política para os seus domínios](http://youtu.be/MaQmyhkGNm0)?
 
-Não se esqueça que boa parte do que conhecemos por web hoje em dia depende de parques de servidores que coletam e processam *nossos* dados. Não se esqueça de que cada vez mais certas companhias de internet se estabelecem como mediadoras "gentís, gratuitos, imparciais e dedicadas" de praticamente todas as atividades humanas.
+Não se esqueça de que boa parte do que conhecemos por web hoje em dia depende de parques de servidores que coletam e processam *nossos* dados. Não se esqueça de que cada vez mais certas companhias de internet se estabelecem como mediadoras "gentís, gratuitos, imparciais e dedicadas" de praticamente todas as atividades humanas.
 
 Não sejamos ingênuos. *Esse jogo* é política.
