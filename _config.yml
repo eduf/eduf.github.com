@@ -2,7 +2,7 @@ site_name: 'Caos Ordenado'
 site_url: 'http://caosordenado.com'
 timezone: America/Sao_Paulo
 pygments: true
-lsi: false
+lsi: true
 markdown: kramdown
 permalink: /:title
 paginate: 10

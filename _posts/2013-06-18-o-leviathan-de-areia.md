@@ -17,7 +17,7 @@ Nossa visão da política ainda é extremamente centralizada. Nós ainda esperam
 
 Se tivermos alguma sorte, Ele dará demonstrações de boa-vontade. Tentará botar panos quentes. Mas, passadas algumas semanas, no cotidiano frio e burocrático, Papai terá que enfrentar as forças da sociedade civil. Essas que pagam nossos salários.<!--more-->
 
-É moda dizer que as manifestações revelam uma “inquietação difusa”. Pelo contrário: ela é extremamente concentrada. Concentrada no governo. Os políticos são os catalizadores de uma certa indignação moral, que até há algumas décadas alguns teóricos descreviam como “burguesa”[^1].
+É moda dizer que as manifestações revelam uma “inquietação difusa”. Pelo contrário: ela é extremamente concentrada. Concentrada no governo. Os políticos são os catalizadores de uma certa indignação moral.
 
 O problema é que o Estado, por mais poderoso que seja, não é o *Leviathan* que achávamos que fosse. Ele está eivado de pontos-fracos, que são historicamente explorados pelos poderes que emanam de inúmeros pontos da sociedade civil. Por exemplo, é exatamente esse poder constantemente em questão que permite com que surja a corrupção — uma das demonstrações mais granulares da incapacidade do Estado de regular toda a sociedade.
 
@@ -28,5 +28,3 @@ Por que fazer *uma* manifestação? Por que não *viver* em ativismo? Porque é 
 Mais: se o problema é a “ausência de moralidade” na política, por que não investigar essa própria moral e ver de que tipo de fenômenos ela desvia nossa atenção?
 
 Esse tipo de atividade política granular exige engajamento diário. Exige que você contrarie seus próprios estilos de vida. E isso vai diretamente contra o maior problema político / social da nossa época: a busca pelo conforto e pela conveniência. É isso que dá real força para as instituições da sociedade civil que exercem poder *também* via governo.
-
-[^1]: Mas é melhor não entrar nesse assunto agora, que é extremamente polêmico.
