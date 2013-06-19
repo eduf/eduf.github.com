@@ -19,7 +19,7 @@ Se tivermos alguma sorte, Ele dará demonstrações de boa-vontade. Tentará bot
 
 É moda dizer que as manifestações revelam uma “inquietação difusa”. Pelo contrário: ela é extremamente concentrada. Concentrada no governo. Os políticos são os catalizadores de uma certa indignação moral.
 
-O problema é que o Estado, por mais poderoso que seja, não é o *Leviathan* que achávamos que fosse. Ele está eivado de pontos-fracos, que são historicamente explorados pelos poderes que emanam de inúmeros pontos da sociedade civil. Por exemplo, é exatamente esse poder constantemente em questão que permite com que surja a corrupção — uma das demonstrações mais granulares da incapacidade do Estado de regular toda a sociedade.
+O problema é que o Estado, por mais poderoso que seja, não é o *Leviathan* que achávamos que fosse. Ele está eivado de pontos-fracos, que são historicamente explorados pelos poderes que emanam de inúmeros pontos da sociedade civil. É exatamente isso que permite que surja a corrupção — uma das demonstrações mais granulares da incapacidade do Estado de regular toda a sociedade.
 
 Portanto, se, por exemplo, nós queremos atacar o desvio de verbas para as obras da Copa, porque não protestar em frente das empreiteiras? Por que não boicotar os produtos de empresas que se coligam ao governo para ações questionáveis?
 
