@@ -7,15 +7,17 @@ category:
 - política
 ---
 
+![leviathan](/images/leviathan.png)
+
 Quase todos os analistas concordam: os protestos de ontem não se encaixaram nos moldes tradicionais da política. Será? Ainda me parecem completamente tradicionais.
 
-É verdade que não surgiram comícios, que as bandeiras de partidos foram evitadas e que nenhum político profissional teve coragem de capitalizar o movimento — ainda. Mas as pessoas caminhavam diretamente para *centros simbólicos* de poder: congresso etc. O alvo era claro, as instituições governamentais.
+É verdade que não surgiram comícios, que as bandeiras de partidos foram evitadas e que nenhum político profissional teve coragem de capitalizar o movimento — ainda. Mas as pessoas caminhavam diretamente para *centros simbólicos* de poder: congresso etc. O alvo era claro, as instituições governamentais.<!--more-->
 
 Por um lado, isso é louvável. Mas, por outro, mostra o quão desconectados estamos da política que é exercida concretamente, no dia-a-dia. Afinal, não marchamos para as portas das corporações. Não aparecemos na frente da Bovespa. Alguém fez manifestação em frente dos bancos?
 
 Nossa visão da política ainda é extremamente centralizada. Nós ainda esperamos que o Papai Estado se mostre arrependido de ter nos tratado mal.
 
-Se tivermos alguma sorte, Ele dará demonstrações de boa-vontade. Tentará botar panos quentes. Mas, passadas algumas semanas, no cotidiano frio e burocrático, Papai terá que enfrentar as forças da sociedade civil. Essas que pagam nossos salários.<!--more-->
+Se tivermos alguma sorte, Ele dará demonstrações de boa-vontade. Tentará botar panos quentes. Mas, passadas algumas semanas, no cotidiano frio e burocrático, Papai terá que enfrentar as forças da sociedade civil. Essas que pagam nossos salários.
 
 É moda dizer que as manifestações revelam uma “inquietação difusa”. Pelo contrário: ela é extremamente concentrada. Concentrada no governo. Os políticos são os catalizadores de uma certa indignação moral.
 
