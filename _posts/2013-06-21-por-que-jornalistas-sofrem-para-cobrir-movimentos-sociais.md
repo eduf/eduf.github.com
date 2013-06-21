@@ -13,7 +13,7 @@ category:
 
 O *Atrás do Front* recebe o professor de jornalismo da PUC-RS, [Marcelo Träsel](https://twitter.com/trasel). Ele questiona se o atual modelo de produção de notícias é capaz de dar conta da complexidade dos movimentos sociais. Como tratar de assuntos que demandam análises apuradas num cenário de histeria e confusões de opiniões?
 
-[Ouça no Mix Cloud](http://www.mixcloud.com/eduf/como-programadores-pegam-%C3%B4nibus/), [baixe o arquivo mp3](http://www.mediafire.com/?jjf303p4gljwnwp) ou [assine no iTunes](https://itunes.apple.com/br/podcast/atras-do-front/id655119629?l=en).
+[Ouça no Mix Cloud](http://www.mixcloud.com/eduf/por-que-jornalistas-sofrem-para-cobrir-movimentos-sociais/), [baixe o arquivo mp3](http://www.mediafire.com/?jjf303p4gljwnwp) ou [assine no iTunes](https://itunes.apple.com/br/podcast/atras-do-front/id655119629?l=en).
 <!--more-->
 
 ## Links do episódio
