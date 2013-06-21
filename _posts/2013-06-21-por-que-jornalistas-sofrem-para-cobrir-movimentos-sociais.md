@@ -9,7 +9,7 @@ category:
 - podcasts
 ---
 
-<iframe width="480" height="480" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Feduf%2Fpor-que-jornalistas-sofrem-para-cobrir-movimentos-sociais%2F&embed_uuid=f8b109c5-fe19-4dbc-90ff-6bc448e0b229&stylecolor=&embed_type=widget_standard" frameborder="0"></iframe>
+<iframe width="100%" height="250" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Feduf%2Fpor-que-jornalistas-sofrem-para-cobrir-movimentos-sociais%2F&embed_uuid=f8b109c5-fe19-4dbc-90ff-6bc448e0b229&stylecolor=&embed_type=widget_standard" frameborder="0"></iframe>
 
 O *Atrás do Front* recebe o professor de jornalismo da PUC-RS, [Marcelo Träsel](https://twitter.com/trasel). Ele questiona se o atual modelo de produção de notícias é capaz de dar conta da complexidade dos movimentos sociais. Como tratar de assuntos que demandam análises apuradas num cenário de histeria e confusões de opiniões?
 
