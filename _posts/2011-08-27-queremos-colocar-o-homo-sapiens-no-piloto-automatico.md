@@ -1,12 +1,15 @@
 ---
+date: 2013-06-22
+title: "Queremos colocar o homo sapiens no piloto automático?"
+excerpt: "Vídeo: The Tomorrow Project and Futurism da Intel"
 layout: post
-title: Queremos colocar o homo sapiens no piloto automático?
+category: 
+- 
 tags:
-- tecnologia
-- Vídeos
+- 
 ---
 
-Vídeo: The Tomorrow Project and Futurism at Intel.
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Y0a40vp1Uyc" frameborder="0" allowfullscreen></iframe>
 
 Engraçado. Dizem que a cultura que veio depois do Iluminismo e da Revolução Industrial enfatizava o pensamento e a capacidade de fazer escolhas racionais.
 
