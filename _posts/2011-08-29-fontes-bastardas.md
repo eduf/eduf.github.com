@@ -1,5 +1,5 @@
 ---
-date: 2013-06-22
+date: 2010-06-22
 title: "Fontes bastardas"
 excerpt: "O que acontece quando a tipografia é usada para outros fins, além da legibilidade"
 layout: post

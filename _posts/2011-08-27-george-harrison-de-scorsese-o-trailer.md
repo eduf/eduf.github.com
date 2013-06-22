@@ -1,5 +1,5 @@
 ---
-date: 2013-06-22
+date: 2011-03-22
 title: "George Harrison, de Scorsese, o trailer"
 excerpt: "Lennon leva a fama, mas George Harrison era, de longe, o personagem mais multifacetado e complexo dos Beatles"
 layout: post

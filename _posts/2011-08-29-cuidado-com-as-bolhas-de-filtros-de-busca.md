@@ -1,5 +1,5 @@
 ---
-date: 2013-06-22
+date: 2011-07-22
 title: "Cuidado com as bolhas de filtros de busca"
 excerpt: "Como funcionam os algorítimos que influenciam o que você vê na web"
 layout: post
