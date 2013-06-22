@@ -9,7 +9,7 @@ tags:
 - livros
 ---
 
-Se o [escândalo da NSA](http://gizmodo.uol.com.br/o-que-e-prism/) não tivesse aparecido na mídia, Jaron Lanier provavelmente teria sido o personagem internacional mais controverso do primeiro semestre de 2013. O músico e ativista, autor de [Gadget: Você Não é um Aplicativo](http://www.submarino.com.br/produto/7276013/livro-gadget-voce-nao-e-um-aplicativo-um-manifesto-sobre-como-a-tecnologia-interage-com-nossa-culturaAFL-03-5741), acaba de lançar mais um livro polêmico, [Who Owns the Future?](http://amzn.to/12DkX8x), no qual proclama: quando nós publicamos conteúdo de graça nas redes sociais, estamos, inadvertidamente, ajudando a consolidar um sistema econômico que pode levar a que você perca seu emprego num futuro bem próximo. Ou seja: estaríamos alegremente dando tiros nos pés.<!--more-->
+Se o [escândalo da NSA](http://gizmodo.uol.com.br/o-que-e-prism/) não tivesse aparecido na mídia, [Jaron Lanier](http://www.jaronlanier.com/) provavelmente teria sido o personagem internacional mais controverso do primeiro semestre de 2013. O músico e ativista, autor de [Gadget: Você Não é um Aplicativo](http://www.submarino.com.br/produto/7276013/livro-gadget-voce-nao-e-um-aplicativo-um-manifesto-sobre-como-a-tecnologia-interage-com-nossa-culturaAFL-03-5741), acaba de lançar mais um livro polêmico, [Who Owns the Future?](http://amzn.to/12DkX8x), no qual proclama: quando nós publicamos conteúdo de graça nas redes sociais, estamos, inadvertidamente, ajudando a consolidar um sistema econômico que pode levar a que você perca seu emprego num futuro bem próximo. Ou seja: estaríamos alegremente dando tiros nos pés.<!--more-->
 
 ![Jaron Lanier](/images/lanier.jpg)
 
