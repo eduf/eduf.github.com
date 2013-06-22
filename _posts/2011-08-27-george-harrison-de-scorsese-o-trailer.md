@@ -1,14 +1,14 @@
 ---
+date: 2013-06-22
+title: "George Harrison, de Scorsese, o trailer"
+excerpt: "Lennon leva a fama, mas George Harrison era, de longe, o personagem mais multifacetado e complexo dos Beatles"
 layout: post
-title: George Harrison, de Scorsese, o trailer
+category: 
+- música
 tags:
 - beatles
-- documentário
-- george harrison
-- martin scorsese
-- Música
-- Vídeos
 ---
+
 <iframe width="560" height="315" src="http://www.youtube.com/embed/AGMMXK-661M" frameborder="0" allowfullscreen></iframe>
 
-Lennon leva a fama, mas George Harrison era, de longe, o personagem mais multifacetado e complexo dos Beatles.
+Lennon leva a fama, mas George Harrison era, de longe, o personagem mais multifacetado e complexo dos Beatles. Saiba porque, no documentário de cerca de três horas de duração, de Martin Scorsese.
