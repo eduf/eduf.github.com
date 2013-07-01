@@ -31,7 +31,7 @@ layout: default
 				<span itemprop="articleBody">{{content}}</span>
 				
 		<h3 class="related-posts">Tem a ver</h3>
-			<ul class="related-posts">
+			<ul>
 				{% for post in site.related_posts limit: 5 %}
 				<li><a href="{{post.url}}" itemprop="url">{{post.title}}</a>
 				{% endfor %}
