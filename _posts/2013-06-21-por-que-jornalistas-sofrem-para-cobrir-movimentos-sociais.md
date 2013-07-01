@@ -7,11 +7,9 @@ tags:
 - jornalismo
 category:
 - podcasts
+image:
+- /images/trasel.jpg
 ---
-
-![Marcelo Träsel](/images/trasel.jpg)
-
-*Träsel, em foto de [Guilherme Testa](https://twitter.com/guimmytesta) para o site [Eu Sou Famecos](http://portal.eusoufamecos.net/ong-americana-oferece-programa-gratuito-de-capacitacao-virtual/).*{: small}
 
 O *Atrás do Front* recebe o professor de jornalismo da PUC-RS, [Marcelo Träsel](https://twitter.com/trasel). Ele questiona se o atual modelo de produção de notícias é capaz de dar conta da complexidade dos movimentos sociais. Como tratar de assuntos que demandam análises apuradas num cenário de histeria e confusões de opiniões?<!--more-->
 
@@ -27,3 +25,5 @@ O *Atrás do Front* recebe o professor de jornalismo da PUC-RS, [Marcelo Träsel
 * [Media Ninja](https://twitter.com/search?q=%23midianinja&src=hash)
 * [Repórter Brasil](http://reporterbrasil.org.br/)
 * [Site de Marcelo Träsel](http://trasel.com.br/)
+
+*Foto de [Guilherme Testa](https://twitter.com/guimmytesta) para o site [Eu Sou Famecos](http://portal.eusoufamecos.net/ong-americana-oferece-programa-gratuito-de-capacitacao-virtual/).*{: small}
