@@ -47,16 +47,16 @@ Nesse vídeo, Mr. Little Finger perdeu a disciplina. Esqueceu-se de que o poder 
 
 Mas o que seria o tal "poder do conhecimento"? O uso estratégico da visibilidade e da invisibilidade. Ele manipula o cenário moral vigente (no caso, a condenação social do incesto). E é eficiente na medida em que sabe publicar ou esconder certas informações.
 
-Em especial, funciona quando produz engajamento, seja popular (indignação ou apoio popular), institucional (processos jurídicos) ou individual (o chantageado acredita que está em perigo e reage a essa crença).
+Em especial, funciona quando produz engajamento, seja popular (indignação ou apoio das massas), institucional (processos jurídicos) ou individual (o chantageado acredita que está em perigo e reage a essa crença).
 
 Assim, não é que, após a demonstração da rainha, Mr. Little Finger tenha deixado de ter poder. Ele apenas foi temporariamente ineficiente em seu próprio jogo. Não conseguiu produzir o *efeito* de poder que desejava.
 
-Resumindo, a eficácia do poder é limitada pela própria dinâmica do jogo político. E a desigualdade dessa limitação é conferida pelos contextos em que ele é exercido. Assim, é necessário ficar atento tanto aos níveis *macro* quanto aos *micropolíticos*.
+Resumindo, a eficácia de cada poder é limitada pela própria dinâmica do jogo político. E a desigualdade dessa limitação é conferida pelos contextos em que ele é exercido. Assim, é necessário ficar atento tanto aos níveis *macro* quanto aos *micropolíticos*.
 
 ## Onde é que você quer chegar?
 
 Toda essa conversa — que poderia se extender bem mais — foi criada para demonstrar algo que me pareceu um pouco perdido nas manifestações que aconteceram no Brasil nas últimas semanas: uma visão relacional de poder[^1].
 
-Ou condenávamos "os" políticos, ou partíamos contra "as" corporações e "os" sistemas. A influência política pode ser tão mais dinâmica e contínua. Mas isso é assunto para um próximo post.
+Ou condenávamos "os" políticos, ou partíamos contra "as" corporações e "os" sistemas. E sair dessa mentalidade vai ser extremamente importante quando tivermos que debater o plebiscito das reformas políticas. Porque, então, o assunto vai deixar de ser apenas moral, para se tornar técnico. Mas isso é assunto para um próximo post.
 
 [^1]: Mais sobre isso em obras de Michel Foucault, como [essa](http://www.submarino.com.br/produto/111447358/livro-estrategia-poder-saber-colecao-ditos-e-escritos-vol.-4AFL-03-5741), [essa](http://www.submarino.com.br/produto/7297864/livro-em-defesa-da-sociedadeAFL-03-5741) e [essa](http://www.submarino.com.br/produto/7133520/livro-repensar-a-politica-colecao-ditos-e-escritos-vol.-viAFL-03-5741).
