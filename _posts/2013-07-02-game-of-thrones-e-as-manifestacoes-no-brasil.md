@@ -11,7 +11,7 @@ image:
 - /images/cersei.jpg
 ---
 
-Agora que as manifestações no Brasil se acalmaram, vamos conversar um pouco mais sobre *poder*? Mas vamos aos poucos. O primeiro aspecto para o qual eu queria chamar sua atenção é para a *dinâmica* da política. E, para tal, será preciso evocar a presença da rainha Cersei Lannister, do seriado *Game of Thrones*. <!--more-->
+Agora que as manifestações no Brasil se acalmaram, vamos conversar sobre *poder*. Mas vamos aos poucos. O primeiro aspecto para o qual eu queria chamar sua atenção é para a *dinâmica* da política. E, para tal, será preciso evocar a presença da rainha Cersei Lannister, do seriado *Game of Thrones*. <!--more-->
 
 Assista ao vídeo abaixo.
 
