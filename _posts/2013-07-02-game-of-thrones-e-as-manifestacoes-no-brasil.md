@@ -25,31 +25,33 @@ O poder é um jogo, uma disputa, em ebulição constante. Não há um poder que 
 
 Em contato uns com os outros, esses *núcleos de poder* sofrem mutações contínuas. Cada um deles tenta "sobreviver", manter-se estável e se reproduzir ao longo do tempo. Para isso, elabora inúmeras estratégias: leis, manifestações, instituições (como o exército etc).
 
-Mas, a partir da própria criação dessas estratégias, elas próprias se tornam núcleos concorrentes de poder. Portanto, as relações ficam cada vez mais complexas e múltiplas.
+Mas, a partir da criação dessas estratégias, elas próprias se tornam núcleos concorrentes de poder. Portanto, as relações ficam cada vez mais complexas, múltiplas. E *hackeáveis*, claro.
 
 ## A reafirmação do controle
 
-No vídeo acima, mesmo a rainha precisa reafirmar constantemente seu poder frente às possíveis ameaças que ela entende como externas — no caso, as chantagens de Mr. Little Finger. Cersei escolhe usar um dos núcleos de poder, o exército, para reafirmar seu ilusório monopólio do uso da violência. Naquele contexto, a estratégia *pareceu* funcionar: "poder é poder", ela diz.
+No vídeo acima, mesmo a rainha precisa reafirmar constantemente seu poder frente às possíveis ameaças que ela entende como externas — no caso, as chantagens de Mr. Little Finger. Cersei escolhe usar um dos núcleos de poder, o exército, para reafirmar seu ilusório monopólio do uso da violência. Naquele contexto, a estratégia *parece* funcionar: "poder é poder", ela diz.
 
-Mas havia muitas outras condições por trás daquela manobra de Cersei Lannister. Ela poderia ameaçar Mr. Little Finger, mas ainda precisaria de seus serviços. A faca no pescoço era uma espécie de confissão de que seu (digamos) Serviço de Inteligência não era suficiente para gerenciar o governo. Uma confissão de que poder, afinal, não é tão poder assim.
+Mas havia muitas outras condições limitadoras por trás da exibição de Cersei Lannister. Ela poderia ameaçar Mr. Little Finger, mas ainda precisaria de seus serviços. Assim, a faca no pescoço era uma espécie de confissão de que seu (digamos) Serviço de Inteligência não era suficiente para gerenciar o governo. Uma confissão de que poder, afinal, não é tão poder assim.
 
-Mr. Little Finger sabia que estava inserido numa rede complexa de distribuição de poderes e identidades sociais (família, cargo, simbologias etc.). E, exatamente porque essa rede não era monolítica, foi capaz de usá-la, no estilo *self-made man*, para juntar algum poder.
+Mr. Little Finger sabia que estava inserido numa rede complexa de jogos de poderes criados por meio de instituições, costumes e identidades sociais (família, cargo, simbologias etc.). E, exatamente porque essa rede não era monolítica, foi capaz de usá-la, no estilo *self-made man*, para juntar algum poder.
 
 ## Estratégia
 
-O problema é que Mr. Little Finger não compreendeu o contexto em que estava inserido. E a rainha usou a violência para se impor. Mas também poderia ter reafirmado seu controle por meio da demagogia, de concessões ornamentais etc. De qualquer forma, a visibilidade aqui aumentou a fragilidade de Mr. Little Finger.
+O problema é que Mr. Little Finger não compreendeu o contexto em que estava inserido. E a rainha usou a violência para se impor. Mas também poderia ter reafirmado seu controle por meio da demagogia, de concessões ornamentais etc. De qualquer forma, aqui, a visibilidade aumentou a fragilidade de Mr. Little Finger.
 
-A afronta direta ao poder nem sempre é uma atividade revolucionária. Muitas vezes, é conservadora, porque permite a certos núcleos de poder identificar e disciplinar as resistências.
+É que a afronta direta ao poder nem sempre é uma atividade revolucionária. Muitas vezes, é conservadora, porque permite a certos núcleos de poder identificar e disciplinar resistências.
 
-Nesse vídeo, Mr. Little Finger perdeu a disciplina. Esqueceu-se de que o poder é sempre desigual (porque depende diretamente dos contextos em que é enunciado e praticado), relacional e impermanente.
+Nesse vídeo, Mr. Little Finger perdeu a disciplina. Esqueceu-se de que o poder é sempre desigual, porque depende diretamente dos contextos em que é enunciado e, em especial, *praticado* no cotidiano. Também não se lembrou de que os poderes são relacionais e impermanentes.
 
 ## Contextos de poder
 
-Mas o que seria o tal "poder do conhecimento"? O uso estratégico da visibilidade e da invisibilidade. Lida com a compreensão e manipulação do cenário moral vigente (no caso, a condenação social do incesto).
+Mas o que seria o tal "poder do conhecimento"? O uso estratégico da visibilidade e da invisibilidade. Ele manipula o cenário moral vigente (no caso, a condenação social do incesto). E é eficiente na medida em que sabe publicar ou esconder certas informações.
 
-É eficiente na medida em que sabe publicar ou esconder certas informações. E, em especial, produzir engajamento, seja popular (indignação das massas), institucional (processo jurídico) ou individual (o chantageado acreditar que está em perigo e agir baseado nessa crença).
+Em especial, funciona quando produz engajamento, seja popular (indignação ou apoio popular), institucional (processos jurídicos) ou individual (o chantageado acredita que está em perigo e reage a essa crença).
 
-Assim, não é que, após a demonstração da rainha, Mr. Little Finger deixou de ter poder. Ele apenas foi temporariamente ineficiente em seu próprio jogo. Não conseguiu produzir o *efeito* de poder que desejava.
+Assim, não é que, após a demonstração da rainha, Mr. Little Finger tenha deixado de ter poder. Ele apenas foi temporariamente ineficiente em seu próprio jogo. Não conseguiu produzir o *efeito* de poder que desejava.
+
+Resumindo, a eficácia do poder é limitada pela própria dinâmica do jogo político. E a desigualdade dessa limitação é conferida pelos contextos em que ele é exercido. Assim, é necessário ficar atento tanto aos níveis *macro* quanto aos *micropolíticos*.
 
 ## Onde é que você quer chegar?
 
