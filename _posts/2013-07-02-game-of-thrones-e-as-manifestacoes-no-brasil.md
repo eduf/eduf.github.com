@@ -23,15 +23,17 @@ Ainda que seja uma cena de ficção e que trate de um tipo muito específico de 
 
 O poder é um jogo, uma disputa, em ebulição constante. Não há um poder que seja sempre estático e estável. Não existe "O" Estado, "A" corporação, "O" capitalismo, ou blocos monolíticos completamente coerentes. Existe uma *distribuição de poderes instáveis* ao longo de toda sociedade.
 
-Em contato uns com os outros, esses *núcleos de poder* sofrem mutações contínuas. Cada um deles tenta "sobreviver", manter-se estável e se reproduzir ao longo do tempo. Para isso, elaboram inúmeras estratégias: leis, manifestações, instituições (como o exército etc). Mas, a partir da própria criação dessas estratégias, surgem também novas ameaças contextuais, porque elas próprias se tornam núcleos concorrentes de poder.
+Em contato uns com os outros, esses *núcleos de poder* sofrem mutações contínuas. Cada um deles tenta "sobreviver", manter-se estável e se reproduzir ao longo do tempo. Para isso, elabora inúmeras estratégias: leis, manifestações, instituições (como o exército etc).
+
+Mas, a partir da própria criação dessas estratégias, elas próprias se tornam núcleos concorrentes de poder. Portanto, as relações ficam cada vez mais complexas e múltiplas.
 
 ## A reafirmação do controle
 
-No vídeo acima, mesmo a rainha precisa reafirmar constantemente seu poder frente às possíveis ameaças que ela entende como externas — no caso, as chantagens de Mr. Little Finger. Ela escolhe usar um dos núcleos de poder, o exército, para reafirmar seu ilusório monopólio do uso da violência. Naquele contexto, a estratégia *pareceu* funcionar: "poder é poder", ela diz.
+No vídeo acima, mesmo a rainha precisa reafirmar constantemente seu poder frente às possíveis ameaças que ela entende como externas — no caso, as chantagens de Mr. Little Finger. Cersei escolhe usar um dos núcleos de poder, o exército, para reafirmar seu ilusório monopólio do uso da violência. Naquele contexto, a estratégia *pareceu* funcionar: "poder é poder", ela diz.
 
-Mas havia muitas outras condições por trás daquela manobra de Cersei Lannister. Ela poderia ameaçar Mr. Little Finger, mas ainda precisaria de seus serviços. A faca no pescoço era uma espécie de confissão de que seu (digamos) Serviço de Inteligência não era suficiente para gerenciar o governo. Uma confissão de que poder não é tão poder assim.
+Mas havia muitas outras condições por trás daquela manobra de Cersei Lannister. Ela poderia ameaçar Mr. Little Finger, mas ainda precisaria de seus serviços. A faca no pescoço era uma espécie de confissão de que seu (digamos) Serviço de Inteligência não era suficiente para gerenciar o governo. Uma confissão de que poder, afinal, não é tão poder assim.
 
-Mr. Little Finger sabia que estava inserido numa rede complexa de distribuição de poderes e identidades sociais (família, seu cargo, simbologias etc.). E, exatamente porque essa rede não era monolítica, foi capaz de usá-la, no estilo *self-made man*, para juntar algum poder.
+Mr. Little Finger sabia que estava inserido numa rede complexa de distribuição de poderes e identidades sociais (família, cargo, simbologias etc.). E, exatamente porque essa rede não era monolítica, foi capaz de usá-la, no estilo *self-made man*, para juntar algum poder.
 
 ## Estratégia
 
@@ -43,7 +45,7 @@ Nesse vídeo, Mr. Little Finger perdeu a disciplina. Esqueceu-se de que o poder 
 
 ## Contextos de poder
 
-Mas o que seria o tal "poder do conhecimento"? O uso estratégico da visibilidade e da invisibilidade. Lida diretamente com a compreensão e manipulação do cenário moral vigente (no caso, a condenação social do incesto).
+Mas o que seria o tal "poder do conhecimento"? O uso estratégico da visibilidade e da invisibilidade. Lida com a compreensão e manipulação do cenário moral vigente (no caso, a condenação social do incesto).
 
 É eficiente na medida em que sabe publicar ou esconder certas informações. E, em especial, produzir engajamento, seja popular (indignação das massas), institucional (processo jurídico) ou individual (o chantageado acreditar que está em perigo e agir baseado nessa crença).
 
