@@ -55,7 +55,7 @@ Resumindo, a eficácia de cada poder é limitada pela própria dinâmica do jogo
 
 ## Onde é que você quer chegar?
 
-Toda essa conversa — que poderia se extender bem mais — foi criada para demonstrar algo que me pareceu um pouco perdido nas manifestações que aconteceram no Brasil nas últimas semanas: uma visão relacional de poder[^1].
+Toda essa conversa — que poderia se estender bem mais — foi criada para demonstrar algo que me pareceu um pouco perdido nas manifestações que aconteceram no Brasil nas últimas semanas: uma visão relacional de poder[^1].
 
 Ou condenávamos "os" políticos, ou partíamos contra "as" corporações e "os" sistemas. E sair dessa mentalidade vai ser extremamente importante quando tivermos que debater o plebiscito das reformas políticas. Porque, então, o assunto vai deixar de ser apenas moral, para se tornar técnico. Mas isso é assunto para um próximo post.
 
