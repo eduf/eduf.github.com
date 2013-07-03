@@ -26,6 +26,24 @@
   </itunes:category>
 
 <item>
+  <title>Futebol, Skrotinhos e Cientificismo</title>
+  <itunes:author>Eduardo Fernandes</itunes:author>
+  <itunes:subtitle>Eduf e Pinheiro mudam tudo no Atrás do Front</itunes:subtitle>
+  
+  <itunes:summary>Neste episódio, polemizamos sobre futebol, imprensa brasileira nos anos 90, Universidade de Nalanda e Michel Foucault.
+  </itunes:summary>
+  
+  <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+  <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_07.mp3" length="8727310" type="audio/mpeg" />
+  <guid>https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_eduardo_pinheiro.mp3</guid>
+  <pubDate>Wed, 03 Jul 2013 19:30:00 GMT</pubDate>
+  <itunes:duration>59:23</itunes:duration>
+
+  <itunes:keywords>Eduf, Eduardo Fernandes, Eduardo Pinheiro, Michel Foucault, Nalanda, Futebol</itunes:keywords>
+</item>
+
+
+<item>
   <title>A Política do Led Zeppelin</title>
   <itunes:author>Eduardo Fernandes</itunes:author>
   <itunes:subtitle>Eduardo Pinheiro conta como foi traduzir autores como Jack Kerouac e Allen Ginsberg para a LPM, além de tentar entender as ideias de Jimmy Page</itunes:subtitle>
