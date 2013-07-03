@@ -39,7 +39,7 @@ Mr. Little Finger sabia que estava inserido numa rede complexa de jogos de poder
 
 O problema é que Mr. Little Finger não compreendeu o contexto em que estava inserido. E a rainha usou a violência para se impor. Mas também poderia ter reafirmado seu controle por meio da demagogia, de concessões ornamentais etc. De qualquer forma, aqui, a visibilidade aumentou a fragilidade de Mr. Little Finger.
 
-É que a afronta direta ao poder nem sempre é uma atividade revolucionária. Muitas vezes, é conservadora, porque permite a certos núcleos de poder identificar e disciplinar resistências.
+É que a afronta direta ao poder nem sempre é uma atividade revolucionária. Muitas vezes, é conservadora, porque permite a certos núcleos de poder identificar e controlar resistências.
 
 Nesse vídeo, Mr. Little Finger perdeu a disciplina. Esqueceu-se de que o poder é sempre desigual, porque depende diretamente dos contextos em que é enunciado e, em especial, *praticado* no cotidiano. Também não se lembrou de que os poderes são relacionais e impermanentes.
 
