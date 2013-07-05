@@ -5,6 +5,8 @@ excerpt: Estamos assistindo à ascensão de um novo tipo de poder político, aqu
 layout: post
 category:
 - tecnologia
+image:
+- /images/schmidt.jpg
 ---
 
 Quando você produz conteúdo, qual é o seu *primeiro* público alvo? Há até algum tempo, poderíamos facilmente responder: pessoas, ora. Ainda que fossem mediadores, censuradores, revisores ou editores, esperávamos gente de carne e osso. Hoje a situação mudou.

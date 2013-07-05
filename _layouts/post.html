@@ -2,18 +2,6 @@
 layout: default
 ---
 
-	{% if page.link %}
-		<h1 class="entry-title" itemprop="headline">
-			<a href="{{ page.link }}" class="link" itemprop="url">
-				{% if site.titlecase %}
-				{{ page.title | titlecase }}
-				{% else %}
-				{{ page.title }}
-				{% endif %}
-			</a>
-		</h1>
-		{% else %}
-		
 		<h1 class="entry-title" itemprop="headline">
 				{% if site.titlecase %}
 				{{ page.title | titlecase }}
@@ -22,19 +10,25 @@ layout: default
 				{% endif %}
 		</h1>
 		
-	{% endif %}
-
 		<header class="excerpt" itemprop="description">{{ page.excerpt | markdownify }}</header>
-		<time class="entry-meta" datetime="{{ page.date| date:"%Y-%m-%d" }}" itemprop="datePublished">
-			{{ page.date| date:"%d.%m.%Y" }}
-		</time>
 		<img class="pageimg" src="{{ page.image }}" itemprop="image">
 
 				<span itemprop="articleBody">{{content}}</span>
-				
-		<h3 class="related-posts">Tem a ver</h3>
-			<ul>
-				{% for post in site.related_posts limit: 5 %}
-				<li><a href="{{post.url}}" itemprop="url">{{post.title}}</a>
-				{% endfor %}
-			</ul>
+
+		<footer class="entry-meta">
+			<p class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Publicado por <span itemprop="name" class="fn"><a href="{{ site.url }}/info.html" title="Sobre Eduardo Fernandes" itemprop="url">Eduardo Fernandes</a></span> em <span datetime="{{ page.date| date:"%Y-%m-%d" }}" itemprop="datePublished">{{ page.date| date:"%d.%m.%Y" }}.</span></p>
+		</footer>
+
+		<ul>
+			{% for post in site.related_posts limit:5 %}
+  			{% assign match = false %}
+			{% for category in post.categories %}
+    		{% if page.categories contains category %}
+      		{% assign match = true %}
+    		{% endif %}
+  			{% endfor %}
+  			{% if match %}
+			<li><a href="{{post.url}}" title="{{ post.title }}" itemprop="url">{{post.title}}</a>
+			{% endif %}
+			{% endfor %}
+		</ul>

@@ -35,7 +35,7 @@
   
   <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
   <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_07.mp3" length="8727310" type="audio/mpeg" />
-  <guid>https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_eduardo_pinheiro.mp3</guid>
+  <guid>https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_07.mp3</guid>
   <pubDate>Wed, 03 Jul 2013 19:30:00 GMT</pubDate>
   <itunes:duration>59:23</itunes:duration>
 

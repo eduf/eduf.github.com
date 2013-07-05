@@ -1,7 +1,7 @@
 ---
 date: 2013-06-27
 title: "A Política do Led Zeppelin"
-excerpt: "Eduardo Pinheiro conta como foi traduzir autores como Jack Kerouac e Allen Ginsberg para a LPM, além de tentar entender as ideias de Jimmy Page"
+excerpt: "Eduardo Pinheiro conta como foi traduzir autores como Jack Kerouac e Allen Ginsberg, além de tentar entender as ideias de Jimmy Page"
 layout: post
 category: 
 - podcast

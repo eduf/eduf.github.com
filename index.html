@@ -3,53 +3,36 @@ layout: default
 title: Caos Ordenado
 ---
 
-{% for post in paginator.posts %}
-			
-	{% if post.link %}
-		<h1 class="entry-title">
-			<a href="{{ post.link }}" class="link-post" itemprop="url">
-				{% if site.titlecase %}
-				{{ post.title | titlecase }}
-				{% else %}
-				{{ post.title }}
-				{% endif %}
-			</a>
-		</h1>
-		<time class="entry-meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%d.%m.%Y" }}</time>
+{% for post in paginator.posts %}					
 		
-		{% else %}
+	<article class="home">
+		<div class="feature-image">
+			<a href="{{ post.url }}" itemprop="url"><img src="{{ post.image }}"></a>
+		</div>
+		<div class="feature-text">
+			<h1 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
+			<span itemprop="articleBody">{% if post.excerpt %}{{ post.excerpt }}{% else %}{{ post.content | markdownify | strip_newlines | truncate: 130 }}{% endif %}</span>&ensp;<span class="meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%d.%m.%Y" }}</span>
+		</div>
+	</article>
 
-		<h1 class="entry-title" itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
-		<time class="entry-meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%d.%m.%Y" }}</time>
-	{% endif %}
-
-	{% if post.content contains '<!--more-->' %}
-    {{ post.content | split:'<!--more-->' | first }}
-    <p><a href="{{ post.url }}" itemprop="url">Continue lendo</a>&ensp;<span class="next">&rarr;</span></p>
-
-	{% else %}
-
-	<span itemprop="articleBody">{{post.content}}</span>
-
-	{% endif %}
-	
-	{% endfor %}
+{% endfor %}
 
 		<div class="pagination">
 			<p>
 				{% if paginator.previous_page %}
 					{% if paginator.previous_page == 1 %}
-						<a href="/" class="previous" itemprop="url">&larr;</a>
+						<a href="/" class="previous" itemprop="url">&larr;&ensp;</a>
 					{% else %}
-						<a href="/page{{paginator.previous_page}}" class="previous" itemprop="url">&larr;</a>
+						<a href="/page{{paginator.previous_page}}" class="previous" itemprop="url">&larr;&ensp;</a>
 					{% endif %}
 				{% else %}
 					<span class="previous"></span>
 				{% endif %}
 					<span class="page_number">{{paginator.page}} de {{paginator.total_pages}}</span>
 				{% if paginator.next_page %}
-					<a href="/page{{paginator.next_page}}" class="next" itemprop="url">&rarr;</a>
+					<a href="/page{{paginator.next_page}}" class="next" itemprop="url">&ensp;&rarr;</a>
 				{% else %}
-					<span class="next">&rarr;</span>
+					<span class="next">&ensp;&rarr;</span>
 				{% endif %}
+				<br><a href="/arquivos.html" itemprop="url">Arquivos</a>
 			</p>

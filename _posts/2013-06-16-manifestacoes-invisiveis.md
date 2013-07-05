@@ -6,6 +6,8 @@ layout: post
 category: 
 - política
 - tecnologia
+image:
+- /images/protestos.jpg
 ---
 
 Estou diligentemente evitando dar opiniões sobre as manifestações nas ruas de SP. Por um motivo simples: em épocas de comoção, as ideias raramente são analisadas cuidadosamente. São geralmente descontextualizadas, simplificadas e transformadas em algo como: "esse sujeito está contra ou à favor do protesto?" Mas quero, sim, tentar ir além da proteção do meu ego e suscitar alguns questionamentos.

@@ -3,7 +3,7 @@ layout: default
 title: Cenas dos capítulos anteriores
 ---
  
-<h1 class="entry-title">Este ano, no Caos Ordenado</h1>
+<h1 class="entry-curriculo">Este ano, no Caos Ordenado</h1>
   {%for post in site.posts %}
     {% unless post.next %}
 
@@ -12,9 +12,11 @@ title: Cenas dos capítulos anteriores
       {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
       {% if year != nyear %}
 
-        <h1 class="entry-title">{{ post.date | date: '%Y' }}</h1>
+        <h2>{{ post.date | date: '%Y' }}</h2>
 
       {% endif %}
     {% endunless %}
-      <p><small>{{ post.date | date:"%d/%m" }}</small>&emsp;<a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></p>
+    <ul class="arquivos">
+      <li><small>{{ post.date | date:"%d/%m" }}</small>&emsp;<a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></li>
+    </ul>
   {% endfor %}
