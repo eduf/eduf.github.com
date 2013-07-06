@@ -11,7 +11,7 @@ title: Caos Ordenado
 		</div>
 		<div class="feature-text">
 			<h1 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
-			<span itemprop="articleBody">{% if post.excerpt %}{{ post.excerpt }}{% else %}{{ post.content | markdownify | strip_newlines | truncate: 130 }}{% endif %}</span>&ensp;<span class="meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%d.%m.%Y" }}</span>
+			<span class="feature-excerpt" itemprop="articleBody">{% if post.excerpt %}{{ post.excerpt }}{% else %}{{ post.content | markdownify | strip_newlines | truncate: 130 }}{% endif %}</span>&ensp;<span class="meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%d.%m.%Y" }}</span>
 		</div>
 	</article>
 
