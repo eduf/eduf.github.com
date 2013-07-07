@@ -19,7 +19,7 @@
   </itunes:owner>
   <itunes:explicit>No</itunes:explicit>
 
-  <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg"/>
+  <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
 
   <itunes:category text="Technology">
     <itunes:category text="Gadgets"/>
