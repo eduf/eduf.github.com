@@ -21,7 +21,7 @@ Assim, já que o heroísmo é "powered by desire", funciona via desejo, usando s
 
 ## A sedução do heroísmo
 
-O heroísmo é extremamente sedutor por ser *simplista*. De alguma forma, ele torna nossa vida mais fácil, parece organizar uma realidade aparentemente caótica.
+O heroísmo é extremamente sedutor por ser *simplista*. De alguma forma, torna nossa vida mais fácil, parece organizar uma realidade aparentemente caótica.
 
 Assim, todo herói acredita que compreende a realidade melhor que “os outros”. Consciente ou inconscientemente, acha que tem uma capacidade mais ampla de calcular a imensa concatenação de causas e efeitos que resultam naquilo que chamamos de realidade. Por isso, o herói quase sempre cria algum tipo de fundamentalismo.
 
@@ -29,16 +29,26 @@ Esse casulo cognitivo sempre está sob ameaça. É que sempre surge aquilo que p
 
 Com a atual aceleração da circulação da informação, nunca foi tão fácil criar seus próprios nichos heróicos. Mas também, provavelmente, nunca foi tão difícil mantê-los. Hoje em dia, é preciso trabalhar duro para ser sectário. As bombas anti-identidades fixas, os mísseis anti-heróicos vêm de todos os lugares, de diversas formas.
 
-De repente, é por isso que escritores como [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) (foto acima) se tornaram um fenômeno de cultura pop. Quase todos seus livros se dedicam a investigar se é possível existir heróis na nossa época. [Por um lado](http://www.submarino.com.br/produto/6775080/livro-fora-de-serie-outliersAFL-03-5741), ele quer estudar o treinamento, as 10 mil horas de trabalho árduo que nos tornam experts numa determinada tarefa. [Por outro](http://www.submarino.com.br/produto/5490035/livro-blink-a-decisao-num-piscar-de-olhosAFL-03-5741), mostra como esse treinamento tem 	que [dialogar com uma série de fenômenos adventícios](http://www.submarino.com.br/produto/6884829/o-ponto-da-virada-como-pequenas-coisas-podem-fazer-uma-grande-diferencaAFL-03-5741). De uma certa forma, Gladwell descreve essa ambiguidade, essa ansiedade entre o self-made-man e o *chaos-made-man*. É um meta-romancista, narrando a atual temporada do nosso velho seriado de amor e desconfiança pelo desejo.
+## Gladwell: a construção dos heróis
 
-Outra grande característica do heroísmo é que ele não depende do “sucesso”. Histórias como, por exemplo, as de [David Geffen](https://www.youtube.com/watch?v=-lBop6xW78g), [Mark Zuckerberg](https://www.youtube.com/watch?v=2RB3edZyeYw), [Steve Jobs](http://www.submarino.com.br/produto/110064259/livro-steve-jobs-a-biografiaAFL-03-5741), (pessoas “comuns” que saíram “do nada” e mudaram o panorama da cultura no século 20 e 21), são grandes mitos heróicos da nossa época. Mas também temos os cultos românticos ao “fracasso”: o underground, o idealista que não se corrompe, o visionário incompreendido em sua época. Assim, a grande tarefa do heroísmo é produzir identidade, colocar a pessoa em algum tipo de caixa, não importa exatamente qual ela seja.
+De repente, é por isso que escritores como [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) (foto acima) se tornaram um fenômeno de cultura pop. Quase todos seus livros se dedicam a investigar se é possível existir heróis na nossa época.
 
-Como eu disse antes, não há como ser a favor ou contra o heroísmo. Tudo é uma questão de circunstância e contexto. Quando você menos percebe, a situação o coloca numa posição de herói (orientado ao mainstream ou ao underground). Outras vezes, você é *ao mesmo tempo* rei e bobo da corte. Não só no ponto de vista dos outros, mas no seu próprio.
+[Por um lado](http://www.submarino.com.br/produto/6775080/livro-fora-de-serie-outliersAFL-03-5741), Gladwell quer estudar o treinamento, as 10 mil horas de trabalho árduo que nos tornam experts numa determinada tarefa. [Por outro](http://www.submarino.com.br/produto/5490035/livro-blink-a-decisao-num-piscar-de-olhosAFL-03-5741), mostra como esse treinamento tem 	que [dialogar com uma série de fenômenos adventícios](http://www.submarino.com.br/produto/6884829/o-ponto-da-virada-como-pequenas-coisas-podem-fazer-uma-grande-diferencaAFL-03-5741).
 
-Não é que deixemos de estar no controle. Apenas a ideia de controle em si é muito limitada. Assim como seu antônimo, o descontrole. Não dá conta dos fenômenos adventícios. Parece mais acurado entender a realidade como uma sucessão contínua de sonhos. Você precisa *fazer força*, uma ginástica mental, para conectá-los numa história coerente.
+De uma certa forma, Gladwell descreve os vários aspectos dessa ambiguidade, dessa ansiedade entre o self-made-man e o *chaos-made-man*. É um meta-romancista, narrando a atual temporada do nosso velho seriado de amor e desconfiança pelo desejo.
 
-É por isso que, hoje em dia, simpatizo um pouco com a postura da *experimentação*. Ou seja: meio que aceitar que você não sabe exatamente o que está fazendo. Desde que essa ideia também não seja romantizada: não queremos transformar o experimentador em outro herói.
+## Fora de série
 
-Ainda que tenhamos objetivos, eles funcionam apenas como uma *perspectiva*. Uma limitação consciente, que inspira um caminho. E caminho é isso, um processo, não algo fechado, um resultado. O importante é o sabor da jornada, ainda que ele venha acompanhado das nossas agridoces tentativas habituais de provar a nós mesmos que estamos na estrada certa.
+Outra grande característica do heroísmo é que ele não depende do “sucesso”. Histórias como, por exemplo, as de [David Geffen](https://www.youtube.com/watch?v=-lBop6xW78g), [Mark Zuckerberg](https://www.youtube.com/watch?v=2RB3edZyeYw), [Steve Jobs](http://www.submarino.com.br/produto/110064259/livro-steve-jobs-a-biografiaAFL-03-5741), (pessoas “comuns” que saíram “do nada” e mudaram o panorama da cultura no século 20 e 21), são grandes mitos heróicos da nossa época. Mas também temos os cultos românticos ao “fracasso”: o underground, o idealista que não se corrompe, o visionário incompreendido. Em ambos os casos, a grande tarefa do heroísmo é produzir identidade, colocar a pessoa em algum tipo de caixa, não importa exatamente qual ela seja.
 
-Como diria [Wayne Coyne](https://en.wikipedia.org/wiki/Wayne_Coyne), sobre a elaboração do disco [The Terror](http://www.submarino.com.br/produto/113235105/cd-the-flaming-lips-the-terrorAFL-03-5741), do [Flaming Lips](http://www.flaminglips.com), em vez de tocar e criar canções, ele e seu parceiro [Steven Drozd](https://en.wikipedia.org/wiki/Steven_Drozd), estavam mais preocupados em ouvir os sons que saiam dos seus instrumentos. Deve ser uma sensação libertadora não precisar *sempre* ouvir sua própria voz.
+Como eu disse antes, não há como ser a favor ou contra o heroísmo. Tudo é uma questão de circunstância e contexto. Quando você menos percebe, a situação o coloca numa posição de herói (orientado ao mainstream ou ao underground). Outras vezes, você é *ao mesmo tempo* rei e bobo da corte. Não só do ponto de vista dos outros, mas do seu próprio.
+
+Não é que deixemos de estar no controle. Apenas a ideia de controle em si é muito limitada. Assim como seu antônimo, o descontrole. Não dá conta dos fenômenos adventícios. Você precisa *fazer força*, uma ginástica mental, para conectá-los numa história coerente.
+
+## Não sei o que faço
+
+É por isso que, hoje em dia, simpatizo um pouco com a *experimentação*. Ou seja: meio que aceitar que você não sabe exatamente o que está fazendo. Desde que essa ideia também não seja romantizada: não queremos transformar o experimentador em outro herói.
+
+Ainda que tenhamos objetivos, eles funcionam apenas como uma *perspectiva*. Uma limitação consciente, que inspira um caminho. E caminho é isso, um processo, não algo fechado, um resultado. O importante é o sabor da jornada, ainda que ele venha acompanhado das nossas agridoces tentativas habituais de provar para nós mesmos que estamos na estrada certa.
+
+Como diria [Wayne Coyne](https://en.wikipedia.org/wiki/Wayne_Coyne), sobre a elaboração do disco [The Terror](http://www.submarino.com.br/produto/113235105/cd-the-flaming-lips-the-terrorAFL-03-5741), do [Flaming Lips](http://www.flaminglips.com), em vez de tocar e criar canções, ele e seu parceiro [Steven Drozd](https://en.wikipedia.org/wiki/Steven_Drozd), estavam mais preocupados em ouvir os sons que saiam dos seus instrumentos. Realmente, deve ser uma sensação libertadora não ser obrigado a ouvir *sempre* sua própria voz.
