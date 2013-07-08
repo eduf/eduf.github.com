@@ -11,15 +11,17 @@ image:
 - /images/gladwell.jpg
 ---
 
-Um dos temas que mais me fascinam é o do heroísmo. Na verdade, mesmo que você não perceba, o assunto também deve fasciná-lo. Afinal, aparece em praticamente todos os produtos culturais que nos cercam. O heroísmo pode ser descrito como aquele ímpeto de direcionar toda a sua energia na busca de um único objetivo. E, claro, geralmente pagando um preço caro por isso.
+Um dos temas que mais me fascinam é o do heroísmo. Na verdade, mesmo que você não perceba, o assunto também deve fasciná-lo. Afinal, aparece em praticamente todos os produtos culturais que nos cercam. O heroísmo pode ser descrito como aquele ímpeto de direcionar toda a sua energia na busca de um único objetivo. E, claro, geralmente pagar um preço caro por isso.
 
-Esse tema é um dos mais amplamente debatidos na história das ideias. Mas, aqui, eu quero seguir por uma trilha bem particular dessa discussão: entender como nossas atividades cotidianas são influenciadas por um heroísmo nublado, difuso, muito bem espalhado por diversas camadas da sociedade. Quer dizer, como isso é vinculado a diferentes objetivos, como, por exemplo, encontrar “a pessoa certa” para amar ou a busca pela inovação tecnológica (uma das obsessões culturais da nossa época).
+Esse tema é um dos mais amplamente debatidos na história das ideias. Mas, aqui, quero seguir por um caminho bem particular: entender como nossas atividades cotidianas são influenciadas por um heroísmo nublado, difuso, muito bem espalhado por diversas camadas da sociedade. Quer dizer, como o heroísmo é vinculado a diferentes objetivos, como, por exemplo, encontrar “a pessoa certa” para amar ou a busca pela inovação tecnológica (uma das obsessões da nossa época).
 
-No fundo, heroísmo é a face mais visível do nosso velho conhecido, o desejo. Desejo é uma espécie de mecanismo autômato, um processo intelectual / emocional, cujas implicações culturais estão em mutação constante. Quer dizer, ele sempre aparece de forma complexa, multilinear, em diversos níveis intensidade. Mas, para se tornar “visível”, precisa ser atrelado a algo que pareça externo. Por exemplo, religião, cultura, política, economia, tecnologia etc.
+No fundo, heroísmo é a face mais visível do nosso velho conhecido, o desejo. Este é uma espécie de mecanismo autômato, um processo intelectual / emocional, cujas implicações culturais estão em mutação constante. Quer dizer, ele sempre aparece de forma complexa, multilinear, em diversos níveis intensidade. Mas, para se tornar “visível”, precisa ser atrelado a algo que pareça externo. Por exemplo, religião, cultura, política, economia, tecnologia etc.
 
-Não é possível ser “à favor ou contra” o heroísmo. Ele está presente em nossas vidas. Não há como negá-lo. É um hábito arraigado. Apenas podemos lidar com ele *cotidianamente*, sem grandes expectativas de “vencê-lo” (crença que implicaria, de novo, em heroísmo).
+Assim, já que o heroísmo é "powered by desire", funciona via desejo, usando suas estratégias, não é possível ser “à favor ou contra” ele. O desejo está presente em nossas vidas. Não há como negá-lo. É um hábito arraigado. Apenas podemos lidar com ele *cotidianamente*, sem grandes expectativas de “vencê-lo” (crença que implicaria, de novo, em heroísmo).
 
-Afinal, ele é extremamente sedutor por ser *simplista*. De alguma forma, ele torna nossa vida mais fácil, parece organizar uma realidade aparentemente caótica.
+## A sedução do heroísmo
+
+O heroísmo é extremamente sedutor por ser *simplista*. De alguma forma, ele torna nossa vida mais fácil, parece organizar uma realidade aparentemente caótica.
 
 Assim, todo herói acredita que compreende a realidade melhor que “os outros”. Consciente ou inconscientemente, acha que tem uma capacidade mais ampla de calcular a imensa concatenação de causas e efeitos que resultam naquilo que chamamos de realidade. Por isso, o herói quase sempre cria algum tipo de fundamentalismo.
 
