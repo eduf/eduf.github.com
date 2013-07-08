@@ -1,7 +1,7 @@
 ---
 date: 2013-07-08
 title: "Infra-herois"
-excerpt: "O livros de Malcolm Gladwell e o delicado processo de acreditar em heróis em nossa época"
+excerpt: "Malcolm Gladwell e o delicado processo de acreditar em heróis em nossa época"
 layout: post
 category: 
 - comportamento
