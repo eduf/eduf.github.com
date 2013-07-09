@@ -25,6 +25,6 @@ Também tropecei no [mais recente episódio](http://wfmu.org/playlists/shows/514
 
 >Não é meu papel criticar filmes de ação, apenas não vou gastar mais tempo com eles. E aproveito para mostrar que existem muitas alternativas.
 
-Enfim, parece que começam a surgir vários indícios dispersos de saturação aos filmes geek mainstream, via críticas e [sátiras no YouTube](https://www.youtube.com/results?search_query=Yoni+Time&oq=Yoni+Time&gs_l=youtube.3..0.34875.34875.0.35086.1.1.0.0.0.0.200.200.2-1.1.0...0.0...1ac.2.11.youtube.wQe4F3-ifZU), como o vídeo abaixo. Vamos ver onde isso vai dar. Se você quer saber qual é a minha sugestão de alternativas, comece por aqui: [The Auteurs Notebook](http://mubi.com/notebook/posts).
+Enfim, parece que começam a surgir vários indícios dispersos de saturação aos filmes geek mainstream, via críticas, blogs, sites e [sátiras no YouTube](https://www.youtube.com/results?search_query=Yoni+Time&oq=Yoni+Time&gs_l=youtube.3..0.34875.34875.0.35086.1.1.0.0.0.0.200.200.2-1.1.0...0.0...1ac.2.11.youtube.wQe4F3-ifZU), como o vídeo abaixo. Vamos ver onde isso vai dar. Se você quer saber qual é a minha sugestão de alternativas, comece por aqui: [The Auteurs Notebook](http://mubi.com/notebook/posts).
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/HOMbo-7ksAc" frameborder="0" allowfullscreen></iframe>
