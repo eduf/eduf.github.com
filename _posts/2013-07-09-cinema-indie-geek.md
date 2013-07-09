@@ -1,7 +1,7 @@
 ---
 date: 2013-07-09
 title: "Cinema Indie Geek"
-excerpt: "Já estamos cansados de filmes de super zumbís explosivos do futuro?"
+excerpt: "Em busca de alternativas aos filmes de super zumbís explosivos do futuro"
 layout: post
 category: 
 - cinema
