@@ -15,7 +15,7 @@ A hegemonia dos filmes de super-heróis, zumbís e [ficção gadgética](http://
 
 O que me inspirou essa ideia foi o anúncio de que os editores do [Pitchfork](http://pitchfork.com/) devem lançar amanhã, 10/07/13, [The Dissolve](http://thedissolve.com/), uma revista on-line sobre cinema.
 
-Pitchfork é uma verdadeira instituição internacional da música *indie*. Nasceu em 1995 como um webzine nos EUA e manteve a consistência ao longo dos anos. Hoje atende a cerca de 240 mil leitores por dia e promove [festivais de música](http://pitchforkmusicfestival.com/) até em [Paris](http://pitchforkmusicfestival.fr/). Gostando ou não do site, é preciso reconhecer sua importância cultural.
+Pitchfork é uma verdadeira instituição internacional da música *indie*. Nasceu em 1995 como um webzine nos EUA e manteve a consistência ao longo dos anos. Hoje, atende a cerca de 240 mil leitores por dia e promove [festivais de música](http://pitchforkmusicfestival.com/) até em [Paris](http://pitchforkmusicfestival.fr/). Gostando ou não do site, é preciso reconhecer sua importância cultural.
 
 Portanto, se os seus criadores enxergaram uma demanda por uma "maneira Pitchfork" de falar sobre cinema, é bom ficar de olho. O editor, Keith Phipps, [explicou o projeto, no Mashable](http://mashable.com/2013/07/08/pitchfork-the-dissolve-launch/):
 
@@ -29,6 +29,6 @@ Enquanto pensava sobre isso, acabei tropeçando no [mais recente episódio](http
 
 E fez uma edição especial sobre [The Act of Killing](http://theactofkilling.com/), um dos documentários mais perturbadores de 2012, sobre assassinos pop-star na Indonésia ([trailer aqui](https://www.youtube.com/watch?v=tQhIRBxbchU)).
 
-Enfim, parece que começam a surgir vários indícios dispersos de saturação aos filmes geek mainstream, via críticas, blogs, sites e [sátiras no YouTube](https://www.youtube.com/results?search_query=Yoni+Time&oq=Yoni+Time&gs_l=youtube.3..0.34875.34875.0.35086.1.1.0.0.0.0.200.200.2-1.1.0...0.0...1ac.2.11.youtube.wQe4F3-ifZU). Vamos ver onde isso vai dar. Se você quer saber qual é a minha sugestão de alternativas, comece por aqui: [The Auteurs Notebook](http://mubi.com/notebook/posts).
+Enfim, parece que começam a surgir vários indícios dispersos de saturação dos filmes geek mainstream, via críticas, blogs, sites e [sátiras no YouTube](https://www.youtube.com/results?search_query=Yoni+Time&oq=Yoni+Time&gs_l=youtube.3..0.34875.34875.0.35086.1.1.0.0.0.0.200.200.2-1.1.0...0.0...1ac.2.11.youtube.wQe4F3-ifZU). Vamos ver onde isso vai dar. Se você quer saber qual é a minha sugestão de alternativas, comece por aqui: [The Auteurs Notebook](http://mubi.com/notebook/posts).
 
 [^1]: Eu diria o mesmo a respeito da área de tecnologia.
