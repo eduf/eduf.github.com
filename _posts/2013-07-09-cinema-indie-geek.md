@@ -27,7 +27,7 @@ Enquanto pensava sobre isso, acabei tropeçando no [mais recente episódio](http
 
 >Não é meu papel criticar filmes de ação, apenas não vou gastar mais tempo com eles. E aproveito para mostrar que existem muitas alternativas.
 
-E fez uma edição especial sobre [The Act of Killing](http://theactofkilling.com/), um dos documentários mais perturbadores de 2012, sobre assassinos pop-star na Indonésia ([trailer aqui](https://www.youtube.com/watch?v=tQhIRBxbchU)).
+E fez uma edição especial sobre documentários, como [The Act of Killing](http://theactofkilling.com/), um dos filmes mais perturbadores de 2012, sobre assassinos pop-star na Indonésia ([trailer aqui](https://www.youtube.com/watch?v=tQhIRBxbchU)).
 
 Enfim, parece que começam a surgir vários indícios dispersos de saturação dos filmes geek mainstream, via críticas, blogs, sites e [sátiras no YouTube](https://www.youtube.com/results?search_query=Yoni+Time&oq=Yoni+Time&gs_l=youtube.3..0.34875.34875.0.35086.1.1.0.0.0.0.200.200.2-1.1.0...0.0...1ac.2.11.youtube.wQe4F3-ifZU). Vamos ver onde isso vai dar. Se você quer saber qual é a minha sugestão de alternativas, comece por aqui: [The Auteurs Notebook](http://mubi.com/notebook/posts).
 
