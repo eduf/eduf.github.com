@@ -24,6 +24,23 @@
     </itunes:category>
 
     <item>
+      <title>Tecnologias do amor</title>
+      <itunes:author>Eduardo Fernandes & Eduardo Pinheiro</itunes:author>
+      <itunes:subtitle>Como a tecnologia mudou os relacionamentos amorosos</itunes:subtitle>
+      
+      <itunes:summary>Nesta semana, investigamos as mudanças que vêm acontecendo na área dos relacionamentos amorosos. Ouça com generosidade. <a href="http://atrasdofront.tumblr.com/post/55171912985/tecnologias-do-amor">Show notes no site do Atrás do Front</a>
+      </itunes:summary>
+      
+      <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+      <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_08.mp3" length="8727310" type="audio/mpeg" />
+      <guid>https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_07.mp3</guid>
+      <pubDate>Wed, 11 Jul 2013 23:30:00 GMT</pubDate>
+      <itunes:duration>46:39</itunes:duration>
+
+      <itunes:keywords>Eduf, Eduardo Fernandes, Eduardo Pinheiro, Monogamish, Dan Savage, Defense of Marriage Act, Bang With Friends, Wilhelm Reich, Christopher Lasch</itunes:keywords>
+    </item>
+
+    <item>
       <title>Futebol, Skrotinhos e Cientificismo</title>
       <itunes:author>Eduardo Fernandes</itunes:author>
       <itunes:subtitle>Eduf e Pinheiro mudam tudo no Atrás do Front</itunes:subtitle>
