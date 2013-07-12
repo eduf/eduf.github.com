@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-	
+
 <h1 class="entry-title" itemprop="headline">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
 <header class="excerpt" itemprop="description">{{ page.excerpt | markdownify }}</header>
-
 <span itemprop="articleBody">{{content}}</span>
 
 <footer class="entry-meta">
-	<p class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">por <span itemprop="name" class="fn"><a href="{{ site.url }}/info.html" title="Sobre Eduardo Fernandes" itemprop="url">Eduardo Fernandes</a></span> em <span datetime="{{ page.date| date:"%Y-%m-%d" }}" itemprop="datePublished">{{ page.date| date:"%d.%m.%Y" }}.</span></p>
+	<p class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Por <span itemprop="name" class="fn"><a href="{{ site.url }}/info.html" title="Sobre Eduardo Fernandes" itemprop="url">Eduardo Fernandes</a></span> em <span datetime="{{ page.date| date:"%Y-%m-%d" }}" itemprop="datePublished">{{ page.date| date:"%d.%m.%Y" }}</span></p>
 	<p>Compartilhar:&ensp;
 	<a href="mailto:?subject={{ page.title }}&body=http://caosordenado.com{{ page.url }}">E-mail</a>&ensp;.&ensp;
 	<a target="_blank" href="http://twitter.com/home?status={{ page.title }}&#160;http://caosordenado.com{{ page.url }}">Tweet</a>&ensp;.&ensp; 
