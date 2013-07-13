@@ -24,6 +24,22 @@
     </itunes:category>
 
     <item>
+      <title>Diletantes no cinema</title>
+      <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
+      <itunes:subtitle>6 filmes para ativar sua paranóia</itunes:subtitle>
+      
+      <itunes:summary>6 filmes para ativar sua paranóia</itunes:summary>
+      
+      <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+      <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_09.mp3" length="8727310" type="audio/mpeg" />
+      <guid>https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_09.mp3</guid>
+      <pubDate>Sat, 13 Jul 2013 18:00:00 GMT</pubDate>
+      <itunes:duration>18:09</itunes:duration>
+
+      <itunes:keywords>Eduf, Eduardo Fernandes, Eduardo Pinheiro, Monogamish, Dan Savage, Defense of Marriage Act, Bang With Friends, Wilhelm Reich, Christopher Lasch</itunes:keywords>
+    </item>
+
+    <item>
       <title>Tecnologias do amor</title>
       <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
       <itunes:subtitle>Como a tecnologia mudou os relacionamentos amorosos</itunes:subtitle>
