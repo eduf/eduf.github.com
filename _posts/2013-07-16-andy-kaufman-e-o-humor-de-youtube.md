@@ -53,11 +53,11 @@ E a brincadeira não para por aí: Kaufman andava com um microgravador o tempo t
 
 Estranhamente, Kaufman parece ter antevisto o que viria a ser parte humor praticado em 2013. Ele enxergou que existe uma tensão nos limites entre coisas tidas como privadas (como amadorismo, vergonha alheia, estrionismo, angústia da solidão) e coisas consideradas públicas (como o uso “profissional” da mídia).
 
-Pense em certo tipo de vídeos postados diariamente no Youtube. Um sujeito liga a câmera à sua frente, fala à toda velocidade, implica com o universo, em monólogos com um tom, às vezes, estilo Tony Clifton.
+Pense em certo tipo de vídeos postados diariamente no YouTube. Um sujeito liga a câmera à sua frente, fala à toda velocidade, implica com o universo, em monólogos com um tom, às vezes, estilo Tony Clifton.
 
 Mas há, aqui, duas diferenças fundamentais:
 
-1. Kaufman colocava o próprio pescoço em risco, constantemente. Se questionava conceitos ou identidades sociais consideradas seguras, não fugia das consequências. Inclusive incluía as reações acaloradas ao seu trabalho como parte do show.
+1. Kaufman colocava o próprio pescoço em risco, constantemente. Se questionava conceitos ou identidades sociais consideradas seguras, não fugia das consequências. Incluía as reações acaloradas ao seu trabalho como parte do show.
 
 2. Kaufman enxergava tão bem a tensão entre criatura e criador que era capaz de confundir a platéia. No humor de YouTube, às vezes, os criadores é que se deixam confundir pelos seus personagens. Muitos passam a acreditar neles e a tentar viver como eles viveriam.
 
@@ -67,7 +67,7 @@ Mas há, aqui, duas diferenças fundamentais:
 
 Há algum tempo, talvez pudéssemos afirmar que Clifton dizia aquilo que não teríamos coragem de dizer. Ou que certas performances de Kaufman (como a do vídeo acima) representavam nosso lado perdedor, que não gostaríamos de ver em público.
 
-Mas hoje é um tanto diferente: não só temos coragem de Cliftar, como de Latkar por aí. O tempo todo. E fazemos um esforço enorme para viralizar esse material, que transformamos em conteúdo a ser atrelado a marcas. [Somos produtores, consumidores e produtos de nós mesmos.](http://caosordenado.com/consumindo-a-si-mesmo/)
+Mas hoje é um tanto diferente: não só temos coragem de Cliftar, como de Latkar por aí. O tempo todo. E fazemos um esforço enorme para viralizar esse material, que transformamos em "conteúdo" a ser atrelado a marcas. [Somos produtores, consumidores e produtos de nós mesmos.](http://caosordenado.com/consumindo-a-si-mesmo/)
 
 É por isso que eu adoraria acreditar que Andy Kaufman ainda circula por aí, que sua morte teria sido mais uma das suas “pegadinhas”. Não sei de você, mas eu gostaria de ver do que ele seria capaz hoje em dia, em sua incansável tarefa de colocar o dedo em nossas feridas.
 
