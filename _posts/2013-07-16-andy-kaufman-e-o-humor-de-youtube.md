@@ -51,7 +51,7 @@ E a brincadeira não para por aí: Kaufman andava com um microgravador o tempo t
 
 ## Kaufman, um visionário?
 
-Estranhamente, Kaufman parece ter antevisto o que viria a ser parte humor praticado em 2013. Ele enxergou que existe uma tensão nos limites entre coisas tidas como privadas (como amadorismo, vergonha alheia, estrionismo, angústia da solidão) e coisas consideradas públicas (como o uso “profissional” da mídia).
+Estranhamente, Kaufman parece ter antevisto o que viria a ser parte humor praticado em 2013. Ele enxergou que existe uma tensão nos limites entre coisas tidas como privadas (como amadorismo, vergonha alheia, histrionismo, angústia da solidão) e coisas consideradas públicas (como o uso “profissional” da mídia).
 
 Pense em certo tipo de vídeos postados diariamente no YouTube. Um sujeito liga a câmera à sua frente, fala à toda velocidade, implica com o universo, em monólogos com um tom, às vezes, estilo Tony Clifton.
 
