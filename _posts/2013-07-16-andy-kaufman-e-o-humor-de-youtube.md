@@ -23,15 +23,13 @@ Kaufman era um artista extremamente versátil. Mas o que o tornou famoso foi exa
 
 As explorações de Kaufman no reino da incerteza começaram num plano bem seguro, com um sujeito chamado Latka. Toda a “graça” do personagem estava em brincar com a empatia da platéia.
 
-No início, Latka era um imigrante tentando ser artista. Ele parecia tão amador, tão incapaz de ser engraçado, tão frágil, que causava nos espectadores um enorme sentimento de vergonha alheia e um alívio catártico quando finalmente acertava uma piada.
-
-Mais adiante na carreira de Kaufman, as aparições de Latka ficaram mais diversificadas, em especial no seriado [Taxi](http://goo.gl/s6oLC).
+No início, Latka era um imigrante tentando ser artista. Ele parecia tão amador, tão incapaz de ser engraçado, tão frágil, que causava nos espectadores um enorme sentimento de vergonha alheia e um alívio catártico quando finalmente acertava uma piada[^3].
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/viRVZQeRumQ" frameborder="0" allowfullscreen></iframe>
 
 Já Tony Clifton lidava com outros instintos. Os de atacar e fugir, a autodefesa e a agressividade. O cantor texano tentava insultar a platéia ao máximo, com a desculpa de manter sua pose de artista. Mas isso ainda era caricatural, seguro demais para Kaufman. Clifton foi uma "droga de entrada" que possibilitou a Kaufman radicalizar ainda mais seus experimentos comportamentais.
 
-Primeiro, tentou negar que Clifton fosse um personagem. Kaufman insistia que o cantor era “real” e poderia subir ao palco junto com ele, a qualquer momento. Em talk shows, desafiava produtores a agendar o encontro, que Kaufman produziu mais tarde.
+Primeiro, tentou negar que Clifton fosse um personagem. Kaufman insistia que o cantor era “real” e que poderia subir ao palco com ele, a qualquer momento. Em talk shows, desafiava produtores a agendar o encontro — [que Kaufman produziu mais tarde](https://www.youtube.com/watch?v=O4Fx0yREdvc), no Carnegie Hall.
 
 Mas a questão fundamental era: como poderíamos aceitar a existência de uma pessoa como Clifton? Como tolerá-lo, sem a proteção do humor?
 
@@ -78,3 +76,4 @@ Thank you, very much.
 
 [^1]: NSA, Prism, paranóia burocrática, sistema político que parece além de nossa compreensão e influência.
 [^2]: [Efeito V](https://en.wikipedia.org/wiki/Distancing_effect) é uma ideia do dramaturgo alemão [Bertolt Brecht](https://en.wikipedia.org/wiki/Bertolt_Brecht). Funciona em torno de técnicas de atuação e produção teatral destinadas a impedir a platéia de se identificar completamente com os personagens e com a história.
+[^3]: Mais adiante na carreira de Kaufman, as aparições de Latka ficaram mais diversificadas, em especial no seriado [Taxi](http://goo.gl/s6oLC).
