@@ -13,9 +13,9 @@ image:
 
 [Dia desses](http://atrasdofront.tumblr.com/post/55171912985/tecnologias-do-amor), no podcast [Atrás do Front](http://atrasdofront.tumblr.com/), [Eduardo Pinheiro](http://tzal.org/), brincou que eu tenho um tipo de humor meio [Andy Kaufman](https://en.wikipedia.org/wiki/Andy_Kaufman). Provavelmente, só queria dizer que sou sem graça. Mas a frase já foi suficiente para causar um revival por aqui. Revi boa parte dos [vídeos clássicos](http://goo.gl/2jINe) de Kaufman e o filme [Man on The Moon](http://www.imdb.com/title/tt0125664/).
 
-Aos poucos, tive a impressão de que, se, por um lado, vivemos numa era Kafkaniana[^1], por outro, ela também é Kaufmaniana. Nunca o *hoax*, as "pegadinhas" e certas provocações públicas estiveram tão disseminadas, aparecendo em diversos contextos: manifestações políticas (como no Ocuppy Wall Street), propagandas publicitárias, [diversões urbanas coletivas](http://improveverywhere.com/) e até no humor de Youtube — esses que trazem monólogos em frente a uma câmera.
+Aos poucos, tive a impressão de que, se, por um lado, vivemos numa era Kafkaniana[^1], por outro, ela também é Kaufmaniana. Nunca o *hoax*, as "pegadinhas" e certas provocações públicas estiveram tão disseminadas, aparecendo em diversos contextos: manifestações políticas (como no Ocuppy Wall Street), propagandas publicitárias, [diversões urbanas coletivas](http://improveverywhere.com/) e até no humor de Youtube — esse que traz monólogos em frente a uma câmera.
 
-Kaufman era um artista extremamente versátil. Cantava, imitava Elvis, dançava etc. Mas o que o tornou famoso foi exatamente essa tensão entre os limites entre sua “vida real” e os seus personagens. Seus expectadores nunca sabiam exatamente quando ele atuava e quando dizia “a verdade”. Nem mesmo sua esposa escapava dessa incerteza.
+Kaufman era um artista extremamente versátil. Mas o que o tornou famoso foi exatamente essa tensão entre os limites entre sua “vida real” e os seus personagens. Seus expectadores nunca sabiam exatamente quando ele atuava e quando dizia “a verdade”. Nem mesmo sua esposa escapava da incerteza.
 
 ## Criador x Personagem
 
@@ -37,7 +37,7 @@ Mas a questão fundamental era: como poderíamos aceitar a existência de uma pe
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/BhrXrjb3RWg" frameborder="0" allowfullscreen></iframe>
 
-Foi então que Kaufman percebeu que, afinal, ele não precisava de personagens: seria muito mais contundente transformar sua própria vida num “show”.
+Foi então que Kaufman percebeu que, afinal, ele não precisava de personagens: seria muito mais contundente transformar sua própria vida num show.
 
 A partir de então, seguiram-se experimentos cada vez mais polêmicos, como desafiar mulheres para partidas de Luta Livre (num momento em que o feminismo estava em voga), atazanar lutadores profissionais (e levar uma surra em público), anarquizar programas de TV, atacar orgulhos locais (imitando sotaques de caipiras norte-americanos) etc.
 
