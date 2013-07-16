@@ -37,7 +37,7 @@ Mas a questão fundamental era: como poderíamos aceitar a existência de uma pe
 
 Foi então que Kaufman percebeu que, afinal, não precisava de personagens: seria muito mais contundente transformar sua própria vida num show.
 
-Seguiram-se experimentos cada vez mais polêmicos, como desafiar mulheres para partidas de Luta Livre (num momento em que o feminismo estava em voga), atazanar lutadores profissionais (e levar uma surra em público), anarquizar programas de TV, atacar orgulhos locais (imitando sotaques de caipiras norte-americanos) etc.
+Seguiram-se experimentos cada vez mais polêmicos, como desafiar mulheres para partidas de Luta Livre (num momento em que o feminismo estava em voga), atazanar lutadores profissionais (e levar uma surra em público), [anarquizar programas de TV](https://www.youtube.com/watch?v=PmHCx8lCl8Y), atacar orgulhos locais ([imitando sotaques](https://www.youtube.com/watch?v=1uQlB99WCuk) de caipiras norte-americanos) etc.
 
 A audácia do humorista parecia não ter limites. Mas teve: ele foi diagnosticado com câncer no pulmão, em 1983, e morreu um ano depois.
 
