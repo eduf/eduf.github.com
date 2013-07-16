@@ -15,7 +15,7 @@ image:
 
 Aos poucos, tive a impressão de que, se, por um lado, vivemos numa era Kafkaniana[^1], por outro, ela também é Kaufmaniana. Nunca o *hoax*, as "pegadinhas" e certas provocações públicas estiveram tão disseminadas, aparecendo em diversos contextos: manifestações políticas (como no Ocuppy Wall Street), propagandas publicitárias, [diversões urbanas coletivas](http://improveverywhere.com/) e até no humor de Youtube — esse que traz monólogos em frente a uma câmera.
 
-Kaufman era um artista extremamente versátil. Mas o que o tornou famoso foi exatamente essa tensão entre os limites entre sua “vida real” e os seus personagens. Seus expectadores nunca sabiam exatamente quando ele atuava e quando dizia “a verdade”. Nem mesmo sua esposa escapava da incerteza.
+Kaufman era um artista extremamente versátil. Mas o que o tornou famoso foi exatamente essa tensão que ele criava nos limites entre sua “vida real” e os seus personagens. Seus expectadores nunca sabiam exatamente quando ele atuava e quando dizia “a verdade”. Nem mesmo sua esposa escapava da incerteza.
 
 ## Criador x Personagem
 
@@ -29,7 +29,7 @@ Mais adiante na carreira de Kaufman, as aparições de Latka ficaram mais divers
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/viRVZQeRumQ" frameborder="0" allowfullscreen></iframe>
 
-Já Tony Clifton lidava com outros instintos. Os de atacar, fugir, a autodefesa e a agressividade. O cantor texano tentava insultar a platéia ao máximo possível, com a desculpa de manter sua pose de artista. Mas isso ainda era caricatural, seguro demais para Kaufman. Clifton foi uma "droga de entrada" que possibilitou a Kaufman radicalizar ainda mais seus experimentos comportamentais.
+Já Tony Clifton lidava com outros instintos. Os de atacar e fugir, a autodefesa e a agressividade. O cantor texano tentava insultar a platéia ao máximo, com a desculpa de manter sua pose de artista. Mas isso ainda era caricatural, seguro demais para Kaufman. Clifton foi uma "droga de entrada" que possibilitou a Kaufman radicalizar ainda mais seus experimentos comportamentais.
 
 Primeiro, tentou negar que Clifton fosse um personagem. Kaufman insistia que o cantor era “real” e poderia subir ao palco junto com ele, a qualquer momento. Em talk shows, desafiava produtores a agendar o encontro, que Kaufman produziu mais tarde.
 
@@ -37,11 +37,11 @@ Mas a questão fundamental era: como poderíamos aceitar a existência de uma pe
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/BhrXrjb3RWg" frameborder="0" allowfullscreen></iframe>
 
-Foi então que Kaufman percebeu que, afinal, ele não precisava de personagens: seria muito mais contundente transformar sua própria vida num show.
+Foi então que Kaufman percebeu que, afinal, não precisava de personagens: seria muito mais contundente transformar sua própria vida num show.
 
-A partir de então, seguiram-se experimentos cada vez mais polêmicos, como desafiar mulheres para partidas de Luta Livre (num momento em que o feminismo estava em voga), atazanar lutadores profissionais (e levar uma surra em público), anarquizar programas de TV, atacar orgulhos locais (imitando sotaques de caipiras norte-americanos) etc.
+Seguiram-se experimentos cada vez mais polêmicos, como desafiar mulheres para partidas de Luta Livre (num momento em que o feminismo estava em voga), atazanar lutadores profissionais (e levar uma surra em público), anarquizar programas de TV, atacar orgulhos locais (imitando sotaques de caipiras norte-americanos) etc.
 
-A audácia do humorista parecia não ter limites. Mas teve: ele foi diagnosticado com câncer em 1983 e morreu um ano depois.
+A audácia do humorista parecia não ter limites. Mas teve: ele foi diagnosticado com câncer no pulmão, em 1983, e morreu um ano depois.
 
 ## Gravando todo o cotidiano
 
@@ -55,19 +55,19 @@ E a brincadeira não para por aí: Kaufman andava com um microgravador o tempo t
 
 Estranhamente, Kaufman parece ter antevisto o que viria a ser parte humor praticado em 2013. Ele enxergou que existe uma tensão nos limites entre coisas tidas como privadas (como amadorismo, vergonha alheia, estrionismo, angústia da solidão) e coisas consideradas públicas (como o uso “profissional” da mídia).
 
-Pense em certo tipo de vídeos postados no Youtube. Um sujeito liga a câmera à sua frente, fala à toda velocidade, implica com o universo, em monólogos com um tom, às vezes, estilo Tony Clifton.
+Pense em certo tipo de vídeos postados diariamente no Youtube. Um sujeito liga a câmera à sua frente, fala à toda velocidade, implica com o universo, em monólogos com um tom, às vezes, estilo Tony Clifton.
 
 Mas há, aqui, duas diferenças fundamentais:
 
-1. Kaufman colocava o próprio pescoço em risco, constantemente. Se questionava conceitos ou identidades sociais consideradas seguras, não fugia das consequências. Inclusive usava essas reações como parte do show.
+1. Kaufman colocava o próprio pescoço em risco, constantemente. Se questionava conceitos ou identidades sociais consideradas seguras, não fugia das consequências. Inclusive incluía as reações acaloradas ao seu trabalho como parte do show.
 
-2. Kaufman enxergava tão bem a tensão entre criatura e criador que era capaz de confundir a platéia. No humor de YouTube, às vezes, os criadores é que se deixam confundir com os seus personagens. Muitos passam a acreditar neles.
+2. Kaufman enxergava tão bem a tensão entre criatura e criador que era capaz de confundir a platéia. No humor de YouTube, às vezes, os criadores é que se deixam confundir pelos seus personagens. Muitos passam a acreditar neles e tentar viver como eles viveriam.
 
 É como se Clifton tivesse se tornado real mesmo. Ou melhor: Clifton quer ficar *ainda mais real*. Tanto que usa técnicas de SEO, estabelece parcerias com agências de publicidade e companhias de mídia para viabilizar-se comercialmente. Enquanto que Kaufman vivia colocando seu ganha-pão em risco.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/6p0sr2BejUk" frameborder="0" allowfullscreen></iframe>
 
-Há algum tempo, talvez pudéssemos dizer que Clifton dizia aquilo que não teríamos coragem de dizer em público. Ou que certas performances de Kaufman (como a do vídeo acima) representavam nosso lado perdedor, que não gostaríamos de ver surgir em público.
+Há algum tempo, talvez pudéssemos dizer que Clifton dizia aquilo que não teríamos coragem de dizer em público. Ou que certas performances de Kaufman (como a do vídeo acima) representavam nosso lado perdedor, que não gostaríamos de ver em público.
 
 Mas hoje é um tanto diferente: não só temos coragem de Cliftar, como de Latkar por aí. O tempo todo. E fazemos um esforço enorme para viralizar esse material, que transformamos em conteúdo a ser atrelado a marcas. [Somos produtores, consumidores e produtos de nós mesmos.](http://caosordenado.com/consumindo-a-si-mesmo/)
 
