@@ -5,8 +5,7 @@
 <title>{{ page.title }}</title>
 <!-- TradeDoubler site verification 2294572 -->
   
-  <meta name="author" content="Eduardo Fernandes">
-  <meta name="description" content="Blog sobre nerdismo Apple, produção de conteúdo, privacidade, tecnologia e jornalismo.">
+  <meta name="description" content="{{ page.excerpt }}">
   <link href="http://caosordenado.com/feed.xml" rel="alternate" title="Caos Ordenado Feed" type="application/atom+xml" /> 
   <link rel="shortcut icon" href="https://s3-sa-east-1.amazonaws.com/caosordenado/images/favicon.ico">
   <link rel="canonical" href="http://caosordenado.com{{ page.url }}/">
@@ -26,17 +25,13 @@
   <meta property="og:type"   content="article"> 
   <meta property="og:url"    content="http://caosordenado.com{{ page.url }}/">
   <meta property="og:image"  content="http://caosordenado.com{{ page.image }}">
+  <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:site_name"  content="Caos Ordenado">
   <meta property="og:description"  content="{{ page.excerpt }}">
   <meta property="article:section" content="blog">
-  <meta property="article:tag"   content="{{ page.tags | join: ', ' }}">
+  <meta property="article:tag"   content="tecnologia">
+  <meta property="article:tag"   content="caos ordenado">
   <meta property="og:locale" content="pt_BR">
-
-  <meta itemprop="name" content="{{ page.title }}" />
-  <meta itemprop="headline" content="{{ page.title }}" />
-  <meta itemprop="author" content="Eduardo Fernandes" />
-  <link itemprop="url" href="http://caosordenado.com{{ page.url }}/" />
-  <link itemprop="thumbnailUrl" href="http://caosordenado.com{{ page.image }}" />
 
 <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:700' rel='stylesheet' type='text/css'>
 
