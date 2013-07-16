@@ -13,9 +13,9 @@ image:
 
 [Dia desses](http://atrasdofront.tumblr.com/post/55171912985/tecnologias-do-amor), no podcast [Atrás do Front](http://atrasdofront.tumblr.com/), [Eduardo Pinheiro](http://tzal.org/), brincou que eu tenho um tipo de humor meio [Andy Kaufman](https://en.wikipedia.org/wiki/Andy_Kaufman). Provavelmente, só queria dizer que sou sem graça. Mas a frase já foi suficiente para causar um revival por aqui. Revi boa parte dos [vídeos clássicos](http://goo.gl/2jINe) de Kaufman e o filme [Man on The Moon](http://www.imdb.com/title/tt0125664/).
 
-Aos poucos, tive a impressão de que, se, por um lado, vivemos numa era Kafkaniana[^1], por outro, ela também é Kaufmaniana. Nunca o *hoax*, as "pegadinhas" e certas provocações públicas estiveram tão disseminadas, aparecendo em diversos contextos: manifestações políticas (como no Ocuppy Wall Street), propagandas publicitárias, [diversões urbanas coletivas](http://improveverywhere.com/) e até no humor de Youtube — esse que traz monólogos em frente a uma câmera.
+Aos poucos, tive a impressão de que, se, por um lado, vivemos numa era Kafkaniana[^1], por outro, ela também é Kaufmaniana. Nunca o *hoax*, as "pegadinhas" e certas provocações públicas estiveram tão disseminadas, aparecendo em diversos contextos: manifestações políticas (como no Ocuppy Wall Street), propagandas publicitárias, [diversões urbanas coletivas](http://improveverywhere.com/) e até no humor de YouTube — esse que traz monólogos em frente a uma câmera.
 
-Kaufman era um artista extremamente versátil. Mas o que o tornou famoso foi exatamente essa tensão que ele criava nos limites entre sua “vida real” e os seus personagens. Seus expectadores nunca sabiam exatamente quando ele atuava e quando dizia “a verdade”. Nem mesmo sua esposa escapava da incerteza.
+Kaufman era um artista extremamente versátil. Mas o que o tornou famoso foi exatamente essa tensão que ele criava nos limites entre sua “vida real” e os seus personagens. Seus espectadores nunca sabiam exatamente quando ele atuava e quando dizia “a verdade”. Nem mesmo sua esposa escapava da incerteza.
 
 ## Criador x Personagem
 
@@ -23,7 +23,7 @@ Kaufman era um artista extremamente versátil. Mas o que o tornou famoso foi exa
 
 As explorações de Kaufman no reino da incerteza começaram num plano bem seguro, com um sujeito chamado Latka. Toda a “graça” do personagem estava em brincar com a empatia da platéia.
 
-No início, Latka era um imigrante tentando ser artista. Ele parecia tão amador, tão incapaz de ser engraçado, tão frágil, que causava nos expectadores um enorme sentimento de vergonha alheia e um alívio catártico quando finalmente acertava uma piada.
+No início, Latka era um imigrante tentando ser artista. Ele parecia tão amador, tão incapaz de ser engraçado, tão frágil, que causava nos espectadores um enorme sentimento de vergonha alheia e um alívio catártico quando finalmente acertava uma piada.
 
 Mais adiante na carreira de Kaufman, as aparições de Latka ficaram mais diversificadas, em especial no seriado [Taxi](http://goo.gl/s6oLC).
 
