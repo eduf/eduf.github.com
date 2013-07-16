@@ -61,13 +61,13 @@ Mas há, aqui, duas diferenças fundamentais:
 
 1. Kaufman colocava o próprio pescoço em risco, constantemente. Se questionava conceitos ou identidades sociais consideradas seguras, não fugia das consequências. Inclusive incluía as reações acaloradas ao seu trabalho como parte do show.
 
-2. Kaufman enxergava tão bem a tensão entre criatura e criador que era capaz de confundir a platéia. No humor de YouTube, às vezes, os criadores é que se deixam confundir pelos seus personagens. Muitos passam a acreditar neles e tentar viver como eles viveriam.
+2. Kaufman enxergava tão bem a tensão entre criatura e criador que era capaz de confundir a platéia. No humor de YouTube, às vezes, os criadores é que se deixam confundir pelos seus personagens. Muitos passam a acreditar neles e a tentar viver como eles viveriam.
 
 É como se Clifton tivesse se tornado real mesmo. Ou melhor: Clifton quer ficar *ainda mais real*. Tanto que usa técnicas de SEO, estabelece parcerias com agências de publicidade e companhias de mídia para viabilizar-se comercialmente. Enquanto que Kaufman vivia colocando seu ganha-pão em risco.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/6p0sr2BejUk" frameborder="0" allowfullscreen></iframe>
 
-Há algum tempo, talvez pudéssemos dizer que Clifton dizia aquilo que não teríamos coragem de dizer em público. Ou que certas performances de Kaufman (como a do vídeo acima) representavam nosso lado perdedor, que não gostaríamos de ver em público.
+Há algum tempo, talvez pudéssemos afirmar que Clifton dizia aquilo que não teríamos coragem de dizer. Ou que certas performances de Kaufman (como a do vídeo acima) representavam nosso lado perdedor, que não gostaríamos de ver em público.
 
 Mas hoje é um tanto diferente: não só temos coragem de Cliftar, como de Latkar por aí. O tempo todo. E fazemos um esforço enorme para viralizar esse material, que transformamos em conteúdo a ser atrelado a marcas. [Somos produtores, consumidores e produtos de nós mesmos.](http://caosordenado.com/consumindo-a-si-mesmo/)
 
