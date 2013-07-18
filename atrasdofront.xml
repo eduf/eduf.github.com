@@ -24,6 +24,22 @@
     </itunes:category>
 
     <item>
+      <title>ADF#11 Diletantes no Cinema 02</title>
+      <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
+      <itunes:subtitle>Três filmes com Gene Wilder, um de Takeshi Kitano e outro de Russ Meyer. Consuma com moderação</itunes:subtitle>
+      
+      <itunes:summary>Três filmes com Gene Wilder, um de Takeshi Kitano e outro de Russ Meyer. Consuma com moderação</itunes:summary>
+      
+      <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+      <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_11.mp3" length="8727310" type="audio/mpeg" />
+      <guid>https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_11.mp3</guid>
+      <pubDate>Fri, 18 Jul 2013 18:00:00 GMT</pubDate>
+      <itunes:duration>20:52</itunes:duration>
+
+      <itunes:keywords>Eduf, Eduardo Fernandes, Eduardo Pinheiro, Gene Wilder, Humor, Takeshi Kitano, Russ Meyer, Mel Brooks</itunes:keywords>
+    </item>
+
+    <item>
       <title>Edição Zorra Total</title>
       <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
       <itunes:subtitle>O ego de Eduf invade o programa. Pinheiro teoriza sobre humor, gatos e parasitas</itunes:subtitle>
