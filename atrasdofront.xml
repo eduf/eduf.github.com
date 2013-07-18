@@ -24,6 +24,22 @@
     </itunes:category>
 
     <item>
+      <title>Edição Zorra Total</title>
+      <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
+      <itunes:subtitle>O ego de Eduf invade o programa. Pinheiro teoriza sobre humor, gatos e parasitas</itunes:subtitle>
+      
+      <itunes:summary>O ego de Eduf invade o programa. Pinheiro teoriza sobre humor, gatos e parasitas</itunes:summary>
+      
+      <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+      <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_10.mp3" length="8727310" type="audio/mpeg" />
+      <guid>https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_10.mp3</guid>
+      <pubDate>Wed, 17 Jul 2013 18:00:00 GMT</pubDate>
+      <itunes:duration>43:32</itunes:duration>
+
+      <itunes:keywords>Eduf, Eduardo Fernandes, Eduardo Pinheiro, Andry Kaufman, Humor, Richard Pryor</itunes:keywords>
+    </item>
+
+    <item>
       <title>Diletantes no cinema</title>
       <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
       <itunes:subtitle>6 filmes para ativar sua paranóia</itunes:subtitle>
