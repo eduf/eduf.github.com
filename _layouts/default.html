@@ -8,7 +8,7 @@
 
   {% include nav.html %}
   {% if page.image %}
-  <div class="pageimg" style="background-image: url({{ page.image }})" itemprop="image"></div>
+  <div class="pageimg" style="background-image: url({{ page.image }});"></div>
   <article role="main" id="main" itemscope itemtype="http://schema.org/Article" itemprop="blogPost">
       {{ content }}
   </article>
