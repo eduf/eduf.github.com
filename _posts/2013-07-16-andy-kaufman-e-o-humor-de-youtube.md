@@ -7,6 +7,7 @@ category:
 - humor
 image:
 - /images/kaufman.jpg
+comments: true
 ---
 
 
