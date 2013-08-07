@@ -5,20 +5,17 @@
 <html lang="pt-BR">
 <!--<![endif]-->
   {% include head.html %}
-
   {% include nav.html %}
   {% if page.image %}
   <div class="pageimg" style="background-image: url({{ page.image }});"></div>
   <article role="main" id="main" itemscope itemtype="http://schema.org/Article" itemprop="blogPost">
-      {{ content }}
+    {{ content }}
   </article>
   {% else %}
   <article role="main" id="main" itemscope itemtype="http://schema.org/Article" itemprop="blogPost">
       {{ content }}
   </article>
   {% endif %}
-
-    {% include footer.html %}
-    {% include scripts.html %}
-
+  {% include footer.html %}
+  {% include scripts.html %}
 </html>
