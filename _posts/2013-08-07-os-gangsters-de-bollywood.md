@@ -45,4 +45,4 @@ Em especial nessa época em que os filmes Hollywoodianos ficam cada vez mais vio
 
 Será um verdadeiro crime se o filme deixar de entrar para a história dos documentários como uma inovação no gênero.
 
-[^1]: Por exemplo, um dos assassinos, obeso, vaidoso e completamente delusional, adora vestir-se de mulher. Ou com coisas parecidas com deidades do hinduísmo, conforme elas aparecem na televisão e cinema.
+[^1]: Por exemplo, um dos assassinos, obeso, vaidoso e completamente delusório, adora vestir-se de mulher. Ou com coisas parecidas com deidades do hinduísmo, conforme elas aparecem na televisão e cinema.
