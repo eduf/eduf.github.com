@@ -26,6 +26,51 @@
     </itunes:category>
 
   <item>
+      <title>ADF#19 Diletantes no Cinema 06</title>
+      <link>http://atrasdofront.tumblr.com/post/58331972759/adf-19-diletantes-no-cinema-06</link>
+      <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
+      <itunes:subtitle>Filmes para você sentir-se claustrofóbico.</itunes:subtitle>
+      <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/diletantes.jpg" />
+      <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_19.mp3" length="8727310" type="audio/mpeg" />
+      <guid>http://atrasdofront.tumblr.com/post/58331972759/adf-19-diletantes-no-cinema-06</guid>
+      <pubDate>Thu, 15 Aug 2013 07:00:00 GMT</pubDate>
+      <itunes:duration>21:59</itunes:duration>
+      <itunes:keywords>Eduf, Eduardo Pinheiro, Das Boot, Apolo 13, Dark Star, John Carpenter, Fuga de Nova Iorque, Rope, Dark City, Jennifer Connelly, O Anjo Exterminador</itunes:keywords>     
+      <itunes:summary>
+        <![CDATA[
+          <h1>Citados no episódio</h1>
+          <ul>
+            <li><a href="https://en.wikipedia.org/wiki/Das_Boot">Das Boot</a></li>
+            <li><a href="http://goo.gl/jsCyhK">Apolo 13</a></li>
+            <li><a href="http://goo.gl/LBQAuy">Dark Star</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/John_Carpenter">John Carpenter</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Escape_from_New_York">Fuga de Nova Iorque</a></li>
+            <li><a href="http://goo.gl/efU8si">Rope</a></li>
+            <li><a href="http://goo.gl/kKRfCQ">Dark City</a></li>
+            <li><a href="http://goo.gl/IRiJ3M">Jennifer Connelly</a></li>
+            <li><a href="https://pt.wikipedia.org/wiki/O_Anjo_Exterminador">O Anjo Exterminador</a></li>
+          </ul>
+        ]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[
+          <h1>Citados no episódio</h1>
+          <ul>
+            <li><a href="https://en.wikipedia.org/wiki/Das_Boot">Das Boot</a></li>
+            <li><a href="http://goo.gl/jsCyhK">Apolo 13</a></li>
+            <li><a href="http://goo.gl/LBQAuy">Dark Star</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/John_Carpenter">John Carpenter</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Escape_from_New_York">Fuga de Nova Iorque</a></li>
+            <li><a href="http://goo.gl/efU8si">Rope</a></li>
+            <li><a href="http://goo.gl/kKRfCQ">Dark City</a></li>
+            <li><a href="http://goo.gl/IRiJ3M">Jennifer Connelly</a></li>
+            <li><a href="https://pt.wikipedia.org/wiki/O_Anjo_Exterminador">O Anjo Exterminador</a></li>
+          </ul>
+        ]]>        
+      </description>
+  </item>
+
+  <item>
       <title>ADF#18 Gameficação da Política</title>
       <link>http://atrasdofront.tumblr.com/post/58143443458/adf-18-gameficacao-da-politica</link>
       <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
