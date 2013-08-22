@@ -26,6 +26,59 @@
     </itunes:category>
 
   <item>
+      <title>ADF#21 Diletantes no Cinema 07</title>
+      <link>http://atrasdofront.tumblr.com/post/59023926524/diletantes-no-cinema-07</link>
+      <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
+      <itunes:subtitle>Alguns filmes e autores conspiratórios, de matemáticos e médicos a políticos.</itunes:subtitle>
+      <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/diletantes.jpg" />
+      <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_21.mp3" length="8727310" type="audio/mpeg" />
+      <guid>http://atrasdofront.tumblr.com/post/59023926524/diletantes-no-cinema-07</guid>
+      <pubDate>Thu, 22 Aug 2013 07:00:00 GMT</pubDate>
+      <itunes:duration>19:40</itunes:duration>
+      <itunes:keywords>Eduf, Eduardo Pinheiro, Conspiratorial movies</itunes:keywords>     
+      <itunes:summary>
+        <![CDATA[
+          <p>Alguns filmes e autores conspiratórios, de matemáticos e médicos a políticos.</p>
+          <ul>
+            <li><a href="http://www.imdb.com/title/tt2053463/">Side Effects</a></li>
+            <li><a href="http://www.imdb.com/title/tt0071360/?ref_=sr_1">The Conversation</a></li>
+            <li><a href="https://pt.wikipedia.org/wiki/Das_Leben_der_Anderen">A Vida dos Outros</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Oliver_Stone">Oliver Stone</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Costa-Gavras">Costa Gavras</a></li>
+            <li><a href="https://pt.wikipedia.org/wiki/The_Wrong_Man">O Homem Errado</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Silkwood">Silkwood</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Capricorn_One">Capricorn One</a></li>
+            <li><a href="http://goo.gl/rNz3m">Pi</a></li>
+            <li><a href="http://topdocumentaryfilms.com/dangerous-knowledge/">Dangerous Knowledge, que o Pinheiro chamou de Dangerous Minds, documentário sobre matemáticos</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Grigori_Perelman">Grigori Perelman, matemático que ganhou um milhão de dólares mas disse que não estava nem aí porque controlava o universo</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Kurt_g%C3%B6del#Later_years_and_death">Morte paranoica do Gödel</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Robert_Anton_Wilson">Robert Anton Wilson, escritor de conspiração</a></li>
+          </ul>
+        ]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[
+          <p>Alguns filmes e autores conspiratórios, de matemáticos e médicos a políticos.</p>
+          <ul>
+            <li><a href="http://www.imdb.com/title/tt2053463/">Side Effects</a></li>
+            <li><a href="http://www.imdb.com/title/tt0071360/?ref_=sr_1">The Conversation</a></li>
+            <li><a href="https://pt.wikipedia.org/wiki/Das_Leben_der_Anderen">A Vida dos Outros</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Oliver_Stone">Oliver Stone</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Costa-Gavras">Costa Gavras</a></li>
+            <li><a href="https://pt.wikipedia.org/wiki/The_Wrong_Man">O Homem Errado</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Silkwood">Silkwood</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Capricorn_One">Capricorn One</a></li>
+            <li><a href="http://goo.gl/rNz3m">Pi</a></li>
+            <li><a href="http://topdocumentaryfilms.com/dangerous-knowledge/">Dangerous Knowledge, que o Pinheiro chamou de Dangerous Minds, documentário sobre matemáticos</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Grigori_Perelman">Grigori Perelman, matemático que ganhou um milhão de dólares mas disse que não estava nem aí porque controlava o universo</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Kurt_g%C3%B6del#Later_years_and_death">Morte paranoica do Gödel</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Robert_Anton_Wilson">Robert Anton Wilson, escritor de conspiração</a></li>
+          </ul>
+        ]]>        
+      </description>
+  </item>
+
+  <item>
       <title>ADF#20 Conexões</title>
       <link>http://atrasdofront.tumblr.com/post/58781367548/adf-20-conexoes</link>
       <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
