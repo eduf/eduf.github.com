@@ -26,6 +26,39 @@
     </itunes:category>
 
   <item>
+      <title>#24: Você vai morrer</title>
+      <link>http://atrasdofront.tumblr.com/post/60175581234/24-voce-vai-morrer</link>
+      <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
+      <itunes:subtitle>Os diletantes enfrentam mais um tema espinhoso: a morte. Dessa vez, contamos com a presença de Clovis Inoue, um dos nossos ouvintes mais fiéis.</itunes:subtitle>
+      <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+      <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_24.mp3" length="8727310" type="audio/mpeg" />
+      <guid>http://atrasdofront.tumblr.com/post/60175581234/24-voce-vai-morrer</guid>
+      <pubDate>Tue, 03 Sep 2013 07:00:00 GMT</pubDate>
+      <itunes:duration>40:59</itunes:duration>
+      <itunes:keywords>Eduf, Eduardo Pinheiro, Morte, House MD</itunes:keywords>     
+      <itunes:summary>
+        <![CDATA[
+          <p>Os diletantes enfrentam mais um tema espinhoso: a morte. Dessa vez, contamos com a presença de Clovis Inoue, um dos nossos ouvintes mais fiéis.</p>
+          <h1>Citados no episódio</h1>
+          <ul>
+            <li><a href="http://goo.gl/lvdJPU">House MD</a></li>
+            <li><a href="http://br.chagdud.org/s-ema-chagdud-tulku-rinpoche/">Chagdud Tulku Rinpoche</a></li>
+          </ul>
+        ]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[
+          <p>Os diletantes enfrentam mais um tema espinhoso: a morte. Dessa vez, contamos com a presença de Clovis Inoue, um dos nossos ouvintes mais fiéis.</p>
+          <h1>Citados no episódio</h1>
+          <ul>
+            <li><a href="http://goo.gl/lvdJPU">House MD</a></li>
+            <li><a href="http://br.chagdud.org/s-ema-chagdud-tulku-rinpoche/">Chagdud Tulku Rinpoche</a></li>
+          </ul>
+        ]]>      
+      </description>
+  </item>
+
+  <item>
       <title>#23: Diletantes no Cinema 08: É o fim do mundo</title>
       <link>http://atrasdofront.tumblr.com/post/59762374097/23-diletantes-no-cinema-08-e-o-fim-do-mundo</link>
       <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
