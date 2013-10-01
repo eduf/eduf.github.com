@@ -22,7 +22,7 @@ Geralmente, as aparições improvisadas de Reggie Watts tratam das expectativas 
 
 É capaz de fazer palestras intermináveis sobre como regular um pedestal de microfone. Fala obviedades como se recitasse Shakespeare. Começa uma frase com sotaque britânico e vocabulário de acadêmico e a termina com a linguagem dos rappers dos becos dos EUA ("d'you know what I'm sayiiing?"). Basicamente, gosta de dar nós no cérebro da platéia. Sem nenhuma promessa de desatá-los.
 
-E aí é que está o problema: esse tipo de humor pode vir a ser limitado. A não ser que você seja um Buñuel, um Felini ou um Dali. Que leve sua investigação sobre expectativas para níveis cada vez mais profundos. E é provável que você vá chegar a lugares não muito bonitos, populares, simples e engraçados. Pergunte ao Samuel Beckett.
+E aí é que está o problema: esse tipo de humor pode vir a ser limitado. A não ser que você seja um Buñuel, um Fellini ou um Dali. Que leve sua investigação sobre expectativas para níveis cada vez mais profundos. E é provável que você vá chegar a lugares não muito bonitos, populares, simples e engraçados. Pergunte ao Samuel Beckett.
 
 De qualquer forma, a carreira de Reggie Watts apenas começou — e, como tal, ainda se mostra um tanto insegura, em atividades como a sua participação no seriado [Comedy Bang Bang](http://www.comedybangbang.com/). Assistimos à formação do anti-espetáculo de Reggie Watts, enquanto ouvimos sua incrível música.
 
