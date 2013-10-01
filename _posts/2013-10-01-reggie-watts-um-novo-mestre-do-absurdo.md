@@ -12,7 +12,7 @@ image:
 
 Há algum tempo, [escrevi sobre Andy Kaufman](http://caosordenado.com/andy-kaufman-e-o-humor-de-youtube/). No texto, minha tese era a de que o artista norte-americano era uma espécie de crítico das identidades sociais. Atacava qualquer uma que aparecesse à sua frente. E que tipo de técnicas ele usava para lançar suas bombas de efeito moral? O humor, o *hoax* e a música. Essencialmente, o espetáculo, a performance. Mas e se você quisesse questionar até mesmo essas técnicas? Ou a própria necessidade de *ser* platéia e de *ser entretido* por um artista? Então você teria que agir como [Reggie Watts](https://en.wikipedia.org/wiki/Reggie_Watts).
 
-Assim como Kaufman, Watts não pode ser facilmente classificado. É franco-norte-americano, mas nasceu na Alemanha, em 1972. É negro, mas raramente faz piadas sobre raças. É geek a ponto de se apresentar com uma camiseta na qual se lê "hidrogênio". É músico[^1], mas geralmente cria canções por meio de beatboxes e efeitos de sequenciadores (quer dizer, faz e *não faz* música eletrônica). Quer dizer: Watts é um praticante diligente da performance. Mas que tipo de performance? Veja por si mesmo.
+Assim como Kaufman, Watts não pode ser facilmente classificado. É franco-norte-americano, mas nasceu na Alemanha, em 1972. É negro, mas raramente faz piadas sobre raças. É geek a ponto de se apresentar com uma camiseta na qual se lê "hidrogênio". É músico[^1], mas geralmente cria canções por meio de beatboxes e efeitos de sequenciadores (faz e *não faz* música eletrônica). Quer dizer: Watts é um praticante diligente da performance. Mas que tipo de performance? Veja por si mesmo.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/BdHK_r9RXTc" frameborder="0" allowfullscreen></iframe>
 
