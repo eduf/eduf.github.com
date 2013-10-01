@@ -16,15 +16,15 @@ Assim como Kaufman, Watts não pode ser facilmente classificado. Tem família fr
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/BdHK_r9RXTc" frameborder="0" allowfullscreen></iframe>
 
-Você entende que língua ele está falando? Não? A do absurdo. No vídeo, Watts parece explicar algo muito sério e importante. Afinal, ele está no palco do TED, um "Evento", um espaço supostamente criado para espalhar ideias relevantes. No entanto, aparentemente, Watts diz *nada*. E seu texto não é compatível com o tom de voz ou com o contexto da palestra. O músico parece se divertir com toda a cerimônia do compartilhamento do conhecimento. Não é exatamente engraçado. É um mais constrangimento do que humor.
+Você entende que língua ele está falando? Não? A do absurdo. No vídeo, Watts parece explicar algo muito sério e importante. Afinal, ele está no palco do TED, um "Evento", um espaço supostamente criado para espalhar ideias relevantes. No entanto, aparentemente, Watts diz *nada*. E seu texto não é compatível com o tom de voz ou com o contexto da palestra. O músico parece se divertir com toda a cerimônia do compartilhamento do conhecimento. Não é exatamente engraçado. É mais constrangimento do que humor.
 
-Geralmente, as aparições improvisadas de Reggie Watts tratam das expectativas entre platéia e artista. Ele começa músicas e, quando parece que o ritmo vai *pegar*, o músico para tudo, bruscamente. E  continua com um ar de professor universitário. Ou agradece à platéia como se tivesse acabado de tocar um megahit. É o mestre do *coitus interruptus*.
+Geralmente, suas aparições improvisadas brincam com as expectativas entre platéia e artista. Watts começa músicas e, quando parece que o ritmo vai *pegar*, para tudo, bruscamente. E  continua a falar com um ar de professor universitário. Ou agradece à platéia como se tivesse acabado de tocar um megahit. É o mestre do *coitus interruptus*.
 
-É capaz de fazer palestras intermináveis sobre como regular um pedestal de microfone. Fala obviedades como se recitasse Shakespeare. Começa uma frase com sotaque britânico e vocabulário de acadêmico e a termina com a linguagem dos rappers dos becos dos EUA ("d'you know what I'm sayiiing?"). Basicamente, gosta de dar nós no cérebro da platéia. Sem nenhuma promessa de desatá-los.
+É capaz de fazer palestras intermináveis sobre como regular um pedestal de microfone. Fala obviedades como se recitasse Shakespeare. Começa uma frase com sotaque britânico e vocabulário de acadêmico e a termina com gírias dos becos dos EUA ("d'you know what I'm sayiiing?"). Basicamente, gosta de dar nós no cérebro da platéia. Sem qualquer promessa de desatá-lo, nem mesmo via humor.
 
-E aí é que está o problema: esse tipo de humor pode vir a ser limitado. A não ser que você seja um Buñuel, um Fellini ou um Dali. Que leve sua investigação sobre expectativas para níveis cada vez mais profundos. E é provável que você vá chegar a lugares não muito bonitos, populares, simples e engraçados. Pergunte ao Samuel Beckett.
+E aí é que está o problema: esse tipo de humor pode vir a ser limitado. A não ser que você seja um Buñuel, um Fellini ou um Dalí. A não ser que leve sua investigação sobre expectativas para níveis cada vez mais profundos. E é provável que, então, vá chegar a lugares não muito bonitos, populares, simples ou engraçados. Pergunte a Samuel Beckett.
 
-De qualquer forma, a carreira de Reggie Watts apenas começou — e, como tal, ainda se mostra um tanto insegura, em atividades como a sua participação no seriado [Comedy Bang Bang](http://www.comedybangbang.com/). Assistimos à formação do anti-espetáculo de Reggie Watts, enquanto ouvimos sua incrível música.
+De qualquer forma, a carreira de Reggie Watts apenas começou — e, como tal, ainda se mostra um tanto insegura, maconhística, em atividades como a sua participação no seriado [Comedy Bang Bang](http://www.comedybangbang.com/). Assistimos à formação do anti-espetáculo de Reggie Watts, enquanto ouvimos sua incrível música.
 
 Estou otimista.
 
