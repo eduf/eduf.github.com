@@ -26,11 +26,64 @@
     </itunes:category>
 
   <item>
+      <title>#32 Season Finale Nuclear</title>
+      <link>http://atrasdofront.tumblr.com/post/62819599508/32-season-finale-nuclear</link>
+      <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
+      <itunes:subtitle>Season Finale do ADF, que voltará em 2014. Debatemos sobre desastres nucleares, ciência, teísmo e outros assuntos simples e nada polêmicos.</itunes:subtitle>
+      <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+      <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_32.mp3" length="8727310" type="audio/mpeg" />
+      <guid>http://atrasdofront.tumblr.com/post/62819599508/32-season-finale-nuclear</guid>
+      <pubDate>Tue, 01 Oct 2013 07:00:00 GMT</pubDate>
+      <itunes:duration>46:11</itunes:duration>
+      <itunes:keywords>Eduf, Eduardo Pinheiro, Breaking Bad, desastres nucleares</itunes:keywords>
+      <itunes:summary>
+        <![CDATA[
+          <p>Season Finale do ADF, que voltará em 2014. Debatemos sobre desastres nucleares, ciência, teísmo e outros assuntos simples e nada polêmicos.</p>
+          <h1>Citados no episódio</h1>
+          <ul>
+            <li><a href="http://upload.wikimedia.org/wikipedia/commons/2/20/Radiation_Dose_Chart_by_Xkcd.png">XKCD radiation dose chart</a></li>
+            <li><a href="http://www.youtube.com/watch?v=X9IePKlgj_g">The battle for <em>of</em> chernobyl</a></li>
+            <li><a href="http://www.youtube.com/watch?v=pNvmShXD0vw">Discovery: disaster at chernobyl</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Into_Eternity_%28film%29">Into Eternity</a></li>
+            <li><a href="http://www.youtube.com/watch?v=LLCF7vPanrY">Mapa temporal das bombas - A Time-Lapse Map of Every Nuclear Explosion Since 1945</a></li>
+            <li><a href="http://tzal.org/nuclear-nostalgia/">Nuclear Nostalgia</a></li>
+            <li><a href="http://www.slate.com/articles/health_and_science/science/2013/09/fukushima_disaster_new_information_about_worst_case_scenarios.html">Tudo que você ouviu sobre Fukushima até agora está errado — artigo bom, mas que no fundo faz lobby da energia atômica, o que é errado</a></li>
+            <li><a href="http://fleetmaull.com/">Fleet Maul, Tonglen em "Lugares que nos Assustam"</a></li>
+            <li><a href="http://www.imdb.com/title/tt0093817/?ref_=fn_al_tt_1">Radio bikini</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Trinity_and_Beyond">Trinity and Beyond</a></li>
+            <li><a href="http://www.imdb.com/title/tt0267626/?ref_=sr_1">K19, the Widowmaker</a></li>
+          </ul>
+          <p>Durante o episódio, divagamos sobre teísmo. Tentando esclarecer um pouco melhor, a ideia é que não basta negar a existência de um deus para ser ateu. O teísmo tem consequências e pressupostos filosóficos mais profundos, que estão arraigados na cultura, mesmo que não percebamos. Inclusive influênciando a ciência.</p>
+        ]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[
+          <p>Season Finale do ADF, que voltará em 2014. Debatemos sobre desastres nucleares, ciência, teísmo e outros assuntos simples e nada polêmicos.</p>
+          <h1>Citados no episódio</h1>
+          <ul>
+            <li><a href="http://upload.wikimedia.org/wikipedia/commons/2/20/Radiation_Dose_Chart_by_Xkcd.png">XKCD radiation dose chart</a></li>
+            <li><a href="http://www.youtube.com/watch?v=X9IePKlgj_g">The battle for <em>of</em> chernobyl</a></li>
+            <li><a href="http://www.youtube.com/watch?v=pNvmShXD0vw">Discovery: disaster at chernobyl</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Into_Eternity_%28film%29">Into Eternity</a></li>
+            <li><a href="http://www.youtube.com/watch?v=LLCF7vPanrY">Mapa temporal das bombas - A Time-Lapse Map of Every Nuclear Explosion Since 1945</a></li>
+            <li><a href="http://tzal.org/nuclear-nostalgia/">Nuclear Nostalgia</a></li>
+            <li><a href="http://www.slate.com/articles/health_and_science/science/2013/09/fukushima_disaster_new_information_about_worst_case_scenarios.html">Tudo que você ouviu sobre Fukushima até agora está errado — artigo bom, mas que no fundo faz lobby da energia atômica, o que é errado</a></li>
+            <li><a href="http://fleetmaull.com/">Fleet Maul, Tonglen em "Lugares que nos Assustam"</a></li>
+            <li><a href="http://www.imdb.com/title/tt0093817/?ref_=fn_al_tt_1">Radio bikini</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Trinity_and_Beyond">Trinity and Beyond</a></li>
+            <li><a href="http://www.imdb.com/title/tt0267626/?ref_=sr_1">K19, the Widowmaker</a></li>
+          </ul>
+          <p>Durante o episódio, divagamos sobre teísmo. Tentando esclarecer um pouco melhor, a ideia é que não basta negar a existência de um deus para ser ateu. O teísmo tem consequências e pressupostos filosóficos mais profundos, que estão arraigados na cultura, mesmo que não percebamos. Inclusive influênciando a ciência.</p>
+        ]]>
+      </description>
+  </item>
+
+  <item>
       <title>#31 Diletantes no Cinema - Reuniões de Família</title>
       <link>http://atrasdofront.tumblr.com/post/62323988656/31-diletantes-no-cinema-12-reunioes-de-familia</link>
       <itunes:author>Eduardo Fernandes e Eduardo Pinheiro</itunes:author>
       <itunes:subtitle>Juntar parentes sempre traz problemas. Pelo menos nesses filmes.</itunes:subtitle>
-      <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/atras-do-front.jpg" />
+      <itunes:image href="https://s3-sa-east-1.amazonaws.com/atrasdofront/diletantes.jpg" />
       <enclosure url="https://s3-sa-east-1.amazonaws.com/atrasdofront/adf_31.mp3" length="8727310" type="audio/mpeg" />
       <guid>http://atrasdofront.tumblr.com/post/62323988656/31-diletantes-no-cinema-12-reunioes-de-familia</guid>
       <pubDate>Thu, 26 Sep 2013 07:00:00 GMT</pubDate>
