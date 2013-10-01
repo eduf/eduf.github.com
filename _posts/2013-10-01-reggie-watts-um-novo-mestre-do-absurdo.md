@@ -18,7 +18,7 @@ Assim como Kaufman, Watts não pode ser facilmente classificado. Tem família fr
 
 Você entende que língua ele está falando? Não? A do absurdo. No vídeo, Watts parece explicar algo muito sério e importante. Afinal, ele está no palco do TED, um "Evento", um espaço supostamente criado para espalhar ideias relevantes. No entanto, aparentemente, Watts diz *nada*. E seu texto não é compatível com o tom de voz ou com o contexto da palestra. O músico parece se divertir com toda a cerimônia do compartilhamento do conhecimento. Não é exatamente engraçado. É um mais constrangimento do que humor.
 
-Geralmente, as aparições improvisadas de Reggie Watts tratam das expectativas entre platéia e artista. Ele começa músicas e, quando a coisa parece que o ritmo vai *pegar*, o músico para tudo, bruscamente. E  continua com um ar de professor universitário. Ou agradece à platéia como se tivesse acabado de tocar um megahit. É o mestre do *coitus interruptus*.
+Geralmente, as aparições improvisadas de Reggie Watts tratam das expectativas entre platéia e artista. Ele começa músicas e, quando parece que o ritmo vai *pegar*, o músico para tudo, bruscamente. E  continua com um ar de professor universitário. Ou agradece à platéia como se tivesse acabado de tocar um megahit. É o mestre do *coitus interruptus*.
 
 É capaz de fazer palestras intermináveis sobre como regular um pedestal de microfone. Fala obviedades como se recitasse Shakespeare. Começa uma frase com sotaque britânico e vocabulário de acadêmico e a termina com a linguagem dos rappers dos becos dos EUA ("d'you know what I'm sayiiing?"). Basicamente, gosta de dar nós no cérebro da platéia. Sem nenhuma promessa de desatá-los.
 
