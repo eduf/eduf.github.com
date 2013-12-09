@@ -1,7 +1,7 @@
 ---
 date: 2013-12-09
 title: "Método Pelé de Subjetividade"
-excerpt: "Por que deveríamos parar de pegar no pé de quem fala sobre si na terceira pessoa"
+excerpt: "Deveríamos parar de pegar no pé de quem fala sobre si na terceira pessoa"
 layout: post
 comments: true
 tags:
