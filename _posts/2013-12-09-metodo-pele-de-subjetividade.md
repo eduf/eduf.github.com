@@ -28,7 +28,7 @@ Na verdade, um jeito melhor ainda de falar de si seria se tivéssemos uma claque
 
 De alguma forma, deveríamos ter noção da *maluquice* que é falar sobre si. Porque, de modo geral, além de nos considerarmos como uma entidade única, imutável, separada do resto do ambiente, da sociedade, das pessoas e das circunstâncias, ainda tendemos a *acreditar que somos precisos* nos nossos diagnósticos e automedicações.
 
-É por isso que o mestre zen budista [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Thich_Nhat_Hanh) prefere usar a expressão [interbeing](https://www.youtube.com/watch?v=azOZ8d0UvVs) no lugar de "being"[^4]. É um termo que dá melhor conta da complexidade do assunto. Mas imagino que não vão aceita-lo nas aulas de redação.
+É por isso que o mestre zen budista [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Thich_Nhat_Hanh) prefere usar a expressão [interbeing](https://www.youtube.com/watch?v=azOZ8d0UvVs) no lugar de "being"[^4]. É um termo que dá melhor conta da complexidade do assunto. Mas imagino que não vão aceita-lo na prova do ENEM.
 
 De qualquer forma, por que deveríamos achar que quem fala de si na primeira pessoa é "mais autêntico" ou "humilde"? Ainda mais nessa época em que cada vez mais pressupomos que a construção de nossa — digamos — identidade, deva ser algo minuciosamente documentado e publicado em servidores na internet. E até mesmo quantificada cientificamente, medida via Estatística, gravada com câmeras, [mapeada via ressonância magnética](http://www.nytimes.com/2013/11/30/books/arnon-grunberg-is-writing-while-connected-to-electrodes.html?_r=1&). Somos cada vez mais coletivos. E *industrialmente* coletivos. Science!, [diria Thomas Dolby](https://www.youtube.com/watch?v=V83JR2IoI8k).
 
