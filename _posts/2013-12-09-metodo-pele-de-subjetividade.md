@@ -26,17 +26,17 @@ O uso do MPC causa um efeito estranho, certo distanciamento, que pode ser útil,
 
 Na verdade, um jeito melhor ainda de falar de si seria se tivéssemos uma claque[^3], ao final de cada frase. "Hoje estou me sentindo ansioso". HAHAHAHA. "Eu não me sinto compreendido nesse trabalho". HAHAHA. "Eu te amo". HAHAHA. "Eu" quem? Por quanto tempo? A partir de que ponto-de-vista complexo e temporário?
 
-De alguma forma, deveríamos ter noção da *maluquice* que é falar sobre si. Porque, de modo geral, além de nos considerarmos como uma entidade única, imutável, separada do resto do ambiente, da sociedade, das pessoas e das circunstâncias, ainda tendemos a *acreditar que somos precisos* nos nossos diagnósticos e auto-medicações.
+De alguma forma, deveríamos ter noção da *maluquice* que é falar sobre si. Porque, de modo geral, além de nos considerarmos como uma entidade única, imutável, separada do resto do ambiente, da sociedade, das pessoas e das circunstâncias, ainda tendemos a *acreditar que somos precisos* nos nossos diagnósticos e automedicações.
 
 É por isso que o mestre zen budista [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Thich_Nhat_Hanh) prefere usar a expressão [interbeing](https://www.youtube.com/watch?v=azOZ8d0UvVs) no lugar de "being"[^4]. É um termo que dá melhor conta da complexidade do assunto. Mas imagino que não vão aceita-lo nas aulas de redação.
 
 De qualquer forma, por que deveríamos achar que quem fala de si na primeira pessoa é "mais autêntico" ou "humilde"? Ainda mais nessa época em que cada vez mais pressupomos que a construção de nossa — digamos — identidade, deva ser algo minuciosamente documentado e publicado em servidores na internet. E até mesmo quantificada cientificamente, medida via Estatística, gravada com câmeras, [mapeada via ressonância magnética](http://www.nytimes.com/2013/11/30/books/arnon-grunberg-is-writing-while-connected-to-electrodes.html?_r=1&). Somos cada vez mais coletivos. E *industrialmente* coletivos. Science!, [diria Thomas Dolby](https://www.youtube.com/watch?v=V83JR2IoI8k).
 
-Dizem que no final do Renascimento / começo da Modernidade entramos na Era da Subjetividade, quando ficamos obsessivos com ideias como identidade, amor romântico, satisfação pessoal no trabalho, missão pessoal, entre outras. A época mudou, as coisas aceleraram. Hoje em dia, cada vez mais automatizamos e industrializamos a tal subjetividade, a ponto de transforma-la em dados, meta-dados, tendências.
+Dizem que no final do Renascimento / começo da Modernidade entramos na Era da Subjetividade, quando ficamos obsessivos com ideias como identidade, amor romântico, satisfação pessoal no trabalho, missão pessoal, entre outras. A época mudou, as coisas aceleraram. Hoje em dia, cada vez mais automatizamos e industrializamos a tal subjetividade, a ponto de transforma-la em dados, metadados, tendências.
 
 Nunca foi, ao mesmo tempo, tão fácil, tão difícil e um tanto engraçado falar em primeira pessoa. Pelo jeito, Edson Arantes do Nascimento foi um virtuose não só no futebol, mas um visionário da gramática.
 
-[^1]: O Pelé, que é o exemplo mais clássico dessa prática de "terceirizar" a pessoa (note a ambiguidade da expressão).
+[^1]: O Pelé, que é o exemplo mais clássico dessa prática de "terceirizar" a pessoa.
 [^2]: "Plantar" no mesmo sentido em que usamos quando nos referimos a policiais que forjam flagrantes.
 [^3]: Aqueles risos coletivos, usados em siticoms.
 [^4]: *Being* significa "Ser", em inglês (como em "Ser Humano").
