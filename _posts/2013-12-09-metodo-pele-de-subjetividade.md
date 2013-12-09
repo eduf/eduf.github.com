@@ -22,7 +22,7 @@ Em que manual de psicologia isso foi definido mesmo? O diagnóstico me parece ma
 
 Mas, veja bem, o MPS (Método Pelé de Subjetividade) talvez seja o jeito *menos errado* de falar sobre si. Porque, pelo menos, implica uma certa compreensão de que, em alguma medida, sempre somos personagens de nós mesmos.
 
-O uso do MPC causa um efeito estranho, certo distanciamento, que pode ser útil, já que impede que nos reifiquemos completamente. Afinal, todo discurso sobre nós mesmos é uma tentativa de organizar um caos de "outros", de conceitos incompletos, mal-formados ou temporários.
+O uso do MPS causa um efeito estranho, certo distanciamento, que pode ser útil, já que impede que nos reifiquemos completamente. Afinal, todo discurso sobre nós mesmos é uma tentativa de organizar um caos de "outros", de conceitos incompletos, mal-formados ou temporários.
 
 Na verdade, um jeito melhor ainda de falar de si seria se tivéssemos uma claque[^3], ao final de cada frase. "Hoje estou me sentindo ansioso". HAHAHAHA. "Eu não me sinto compreendido nesse trabalho". HAHAHA. "Eu te amo". HAHAHA. "Eu" quem? Por quanto tempo? A partir de que ponto-de-vista complexo e temporário?
 
