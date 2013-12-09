@@ -20,7 +20,7 @@ Parece que existe uma tendência meio ranheta na imprensa brasileira de implicar
 
 Em que manual de psicologia isso foi definido mesmo? O diagnóstico me parece mais coisa da geração influenciada pela revista Bizz / Ilustrada dos anos 80 e 90: um tanto moralista, que adora procurar (ou plantar[^2]) pelo em ovo.
 
-Mas, veja bem, o MPC (Método Pelé de Conjugação) talvez seja o jeito *menos errado* de falar sobre si. Porque, pelo menos, implica uma certa compreensão de que, em alguma medida, sempre somos personagens de nós mesmos.
+Mas, veja bem, o MPS (Método Pelé de Subjetividade) talvez seja o jeito *menos errado* de falar sobre si. Porque, pelo menos, implica uma certa compreensão de que, em alguma medida, sempre somos personagens de nós mesmos.
 
 O uso do MPC causa um efeito estranho, certo distanciamento, que pode ser útil, já que impede que nos reifiquemos completamente. Afinal, todo discurso sobre nós mesmos é uma tentativa de organizar um caos de "outros", de conceitos incompletos, mal-formados ou temporários.
 
