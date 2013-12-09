@@ -10,9 +10,9 @@ image:
 - /images/pele.jpg
 ---
 
-Semana passada, num desses ciclos de cliques escorregadios induzidos por títulos pegajosos, aterrizei numa entrevista de Paulo Miklos. Lá pelas tantas, o entrevistador informa que o cantor do Titãs usa o plural para falar de si: em vez de "eu", tende a dizer "nós". O jornalista não se aguentou e perguntou porquê. Resposta: "É mesmo? Falo no plural? Nem tinha reparado".
+Semana passada, num desses ciclos de cliques escorregadios induzidos por títulos pegajosos, aterrizei numa [entrevista de Paulo Miklos](http://revistatrip.uol.com.br/revista/227/paginas-negras/paulo-miklos.html). Lá pelas tantas, o entrevistador informa que o cantor do Titãs usa o plural para falar de si: em vez de "eu", tende a dizer "nós". O jornalista não se aguentou e perguntou porquê. Resposta: "É mesmo? Falo no plural? Nem tinha reparado".
 
-Dias depois, uma amiga me perguntou sobre um artigo que escrevi há um tempo. Brincando, respondi: "ah, aqueles textos chorosos do eduf". Ela brincou de volta: "você sempre fala de si na terceira pessoa?" Tive um momento Miklos: "em que pessoa falo mesmo?" Uou, pode até ser que, eventualmente, eu banque o Edson Arantes do Nascimento[^1].
+Dias depois, uma amiga me perguntou sobre um artigo que escrevi há um tempo. Brincando, respondi: "ah, aqueles textos chorosos do eduf". Ela brincou de volta: "você sempre fala de si na terceira pessoa?" Tive um momento Miklos: "em que pessoa falo mesmo?" *Uou*, pode até ser que, eventualmente, eu banque o Edson Arantes do Nascimento[^1].
 
 O fato é que nunca reparo nisso. E reparar parece uma tremenda perda de tempo, não é? Vejamos.
 
@@ -28,9 +28,9 @@ Na verdade, um jeito melhor ainda de falar de si seria se tivéssemos uma claque
 
 De alguma forma, deveríamos ter noção da *maluquice* que é falar sobre si. Porque, de modo geral, além de nos considerarmos como uma entidade única, imutável, separada do resto do ambiente, da sociedade, das pessoas e das circunstâncias, ainda tendemos a *acreditar que somos precisos* nos nossos diagnósticos e auto-medicações.
 
-É por isso que o mestre zen budista Thich Nhat Hanh prefere usar a expressão "inter-being" no lugar de "being"[^3]. É um termo que dá melhor conta da complexidade do assunto. Mas imagino que não vão aceita-lo nas aulas de redação.
+É por isso que o mestre zen budista [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Thich_Nhat_Hanh) prefere usar a expressão [interbeing](https://www.youtube.com/watch?v=azOZ8d0UvVs) no lugar de "being"[^3]. É um termo que dá melhor conta da complexidade do assunto. Mas imagino que não vão aceita-lo nas aulas de redação.
 
-De qualquer forma, por que deveríamos achar que quem fala de si na primeira pessoa é "mais autêntico" ou "humilde"? Ainda mais nessa época em que cada vez mais pressupomos que a construção de nossa — digamos — identidade, deva ser algo minuciosamente documentado e publicado em servidores na internet. E até mesmo quantificada cientificamente, medida via Estatística, gravada com câmeras, mapeada via ressonância magnética. Somos cada vez mais coletivos. E *industrialmente* coletivos. "Science!", diria Thomas Dolby.
+De qualquer forma, por que deveríamos achar que quem fala de si na primeira pessoa é "mais autêntico" ou "humilde"? Ainda mais nessa época em que cada vez mais pressupomos que a construção de nossa — digamos — identidade, deva ser algo minuciosamente documentado e publicado em servidores na internet. E até mesmo quantificada cientificamente, medida via Estatística, gravada com câmeras, mapeada via ressonância magnética. Somos cada vez mais coletivos. E *industrialmente* coletivos. Science!, [diria Thomas Dolby](https://www.youtube.com/watch?v=V83JR2IoI8k).
 
 Dizem que no final do Renascimento / começo da Modernidade entramos na Era da Subjetividade, quando ficamos obsessivos com ideias como identidade, amor romântico, satisfação pessoal no trabalho, missão pessoal, entre outras. A época mudou, as coisas aceleraram. Hoje em dia, cada vez mais automatizamos e industrializamos a tal subjetividade, a ponto de transforma-la em dados, meta-dados, tendências.
 
