@@ -6,7 +6,6 @@ layout: post
 comments: true
 tags:
 - conteúdo
-- facebook
 image:
 - /images/timeline.jpg
 ---
