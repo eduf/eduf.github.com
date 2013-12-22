@@ -10,17 +10,17 @@ title: Caos Ordenado
 		<div class="feature-image" style="background-image: url({{ post.image }})" itemprop="image"></div>
 		<div class="feature-text">
 			<h1 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
-			<span class="feature-excerpt" itemprop="description">{% if post.excerpt %}{{ post.excerpt }}{% else %}{{ post.content | markdownify | strip_newlines | truncate: 130 }}{% endif %}</span>&ensp;<span class="meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%d.%m.%Y" }}</span>
+			<span class="feature-excerpt" itemprop="description">{% if post.excerpt %}{{ post.excerpt }}{% else %}{{ post.content | markdownify | strip_newlines | truncate: 130 }}{% endif %}</span>
 		</div>
 	{% else %}
 		<h1 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
-		<span class="feature-excerpt" itemprop="description">{% if post.excerpt %}{{ post.excerpt }}{% else %}{{ post.content | markdownify | strip_newlines | truncate: 130 }}{% endif %}</span>&ensp;<span class="meta" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%d.%m.%Y" }}</span>
+		<span class="feature-excerpt" itemprop="description">{% if post.excerpt %}{{ post.excerpt }}{% else %}{{ post.content | markdownify | strip_newlines | truncate: 130 }}{% endif %}</span>
 	{% endif %}
 	</article>
 
 {% endfor %}
 
-		<div class="pagination">
+		<section class="pagination">
 			<p>
 				{% if paginator.previous_page %}
 					{% if paginator.previous_page == 1 %}
@@ -37,5 +37,5 @@ title: Caos Ordenado
 				{% else %}
 					<span class="next">&ensp;&rarr;</span>
 				{% endif %}
-				<br><a href="/arquivos.html" itemprop="url">Arquivos</a>
 			</p>
+		</section>
