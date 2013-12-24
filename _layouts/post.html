@@ -6,12 +6,10 @@ layout: default
 
 {% if page.excerpt %}
 	<header class="excerpt" itemprop="description">{{ page.excerpt | markdownify }}</header>
-	{% include author.html %}
-	<span itemprop="articleBody">{{content}}</span>
 {% else %}
+{% endif %}
 	{% include author.html %}
 	<span itemprop="articleBody">{{content}}</span>
-{% endif %}
 
 <footer class="entry-meta">
 	<p>Compartilhar:&ensp;
