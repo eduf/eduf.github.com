@@ -2,14 +2,17 @@
 layout: default
 ---
 
-<h1 class="entry-title" itemprop="headline">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
-<header class="excerpt" itemprop="description">{{ page.excerpt | markdownify }}</header>
+<h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
 
-<div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-	Por <span itemprop="name" class="fn"><a href="{{ site.url }}/info.html" title="Sobre Eduardo Fernandes" itemprop="url">Eduardo Fernandes</a></span> em <span datetime="{{ page.date| date:"%Y-%m-%d" }}" itemprop="datePublished">{{ page.date| date:"%d.%m.%Y" }}</span>
-</div>
-
-<span itemprop="articleBody">{{content}}</span>
+{% if page.excerpt %}
+	<header class="excerpt" itemprop="description">{{ page.excerpt | markdownify }}</header>
+	{% include author.html %}
+	<span itemprop="articleBody">{{content}}</span>
+{% else %}
+	<p>Teste</p>
+	{% include author.html %}
+	<span itemprop="articleBody">{{content}}</span>
+{% endif %}
 
 <footer class="entry-meta">
 	<p>Compartilhar:&ensp;
