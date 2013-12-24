@@ -1,7 +1,7 @@
 ---
 date: 2013-05-03
 title: "Digital versus analógico: uma falsa disputa"
-excerpt: "Brian Eno: a maior parte da música boa do século 21 ainda é criada em instrumentos analógicos"
+description: "Brian Eno: a maior parte da música boa do século 21 ainda é criada em instrumentos analógicos"
 layout: post
 tags: 
 - música

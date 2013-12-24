@@ -1,7 +1,7 @@
 ---
 date: 2013-05-24
 title: "Como parar de perder tempo nas redes sociais"
-excerpt: Como funcionam as interfaces de scroll infinito e por que elas são tão eficientes em nos manter compulsivamente ocupados
+description: Como funcionam as interfaces de scroll infinito e por que elas são tão eficientes em nos manter compulsivamente ocupados
 layout: post
 tags: 
 - tecnologia

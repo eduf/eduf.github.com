@@ -1,7 +1,7 @@
 ---
 date: 2011-04-22
 title: "A festa para ouvir o disco de Tom Waits"
-excerpt: "O músico norte-americano faz piada sobre a ansiedade de ouvir álbuns que vazam via internet"
+description: "O músico norte-americano faz piada sobre a ansiedade de ouvir álbuns que vazam via internet"
 layout: post
 category: 
 - música

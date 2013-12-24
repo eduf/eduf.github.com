@@ -1,7 +1,7 @@
 ---
 date: 2013-04-05
 title: Facebook Home, um barraco sem quartos
-excerpt: 'Celular novo, processo velho: intimidade nas redes sociais'
+description: 'Celular novo, processo velho: intimidade nas redes sociais'
 layout: post
 tags: 
 - facebook

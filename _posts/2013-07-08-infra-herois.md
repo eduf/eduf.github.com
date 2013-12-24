@@ -1,7 +1,7 @@
 ---
 date: 2013-07-08
 title: "Infra-herois"
-excerpt: "Malcolm Gladwell e o delicado processo de acreditar em heróis"
+description: "Malcolm Gladwell e o delicado processo de acreditar em heróis"
 layout: post
 category: 
 - comportamento

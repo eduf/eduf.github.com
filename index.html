@@ -10,32 +10,13 @@ title: Caos Ordenado
 		<div class="feature-image" style="background-image: url({{ post.image }})" itemprop="image"></div>
 		<div class="feature-text">
 			<h1 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
-			<span class="feature-excerpt" itemprop="description">{% if post.excerpt %}{{ post.excerpt }}{% else %}{{ post.content | markdownify | strip_newlines | truncate: 130 }}{% endif %}</span>
+			<span class="feature-excerpt" itemprop="description">{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | markdownify }}{% endif %}</span>
 		</div>
 	{% else %}
 		<h1 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
-		<span class="feature-excerpt" itemprop="description">{% if post.excerpt %}{{ post.excerpt }}{% else %}{{ post.content | markdownify | strip_newlines | truncate: 130 }}{% endif %}</span>
+		<span class="feature-excerpt" itemprop="description">{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | markdownify }}{% endif %}</span>
 	{% endif %}
 	</article>
 
 {% endfor %}
-
-		<section class="pagination">
-			<p>
-				{% if paginator.previous_page %}
-					{% if paginator.previous_page == 1 %}
-						<a href="/" class="previous" itemprop="url">&larr;&ensp;</a>
-					{% else %}
-						<a href="/page{{paginator.previous_page}}" class="previous" itemprop="url">&larr;&ensp;</a>
-					{% endif %}
-				{% else %}
-					<span class="previous"></span>
-				{% endif %}
-					<span class="page_number">{{paginator.page}} de {{paginator.total_pages}}</span>
-				{% if paginator.next_page %}
-					<a href="/page{{paginator.next_page}}" class="next" itemprop="url">&ensp;&rarr;</a>
-				{% else %}
-					<span class="next">&ensp;&rarr;</span>
-				{% endif %}
-			</p>
-		</section>
+{% include pagination.html %}

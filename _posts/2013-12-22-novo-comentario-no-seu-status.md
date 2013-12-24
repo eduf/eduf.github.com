@@ -1,7 +1,7 @@
 ---
 date: 2013-12-22
 title: "Novo comentário no seu status"
-excerpt: "As notificações são as novas linhas do tempo. Por enquanto"
+description: "As notificações são as novas linhas do tempo. Por enquanto"
 layout: post
 comments: true
 tags:

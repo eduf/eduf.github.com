@@ -1,7 +1,7 @@
 ---
 date: 2013-06-15
 title: "Vídeo: Os novos editores"
-excerpt: "Primeira parte do Curso de Estratégia de Conteúdo para Damas & Cavalheiros"
+description: "Primeira parte do Curso de Estratégia de Conteúdo para Damas & Cavalheiros"
 layout: post
 category: 
 - tecnologia

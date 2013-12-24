@@ -1,7 +1,7 @@
 ---
 date: 2013-08-07
 title: "Os gangsters de Bollywood"
-excerpt: "Como o diretor dinamarquês Joshua Oppenheimer deve mudar a história dos documentários com seu filme The Act of Killing"
+description: "Como o diretor dinamarquês Joshua Oppenheimer deve mudar a história dos documentários com seu filme The Act of Killing"
 layout: post
 comments: true
 tags:

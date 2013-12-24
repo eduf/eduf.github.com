@@ -5,7 +5,7 @@
 <title>{{ page.title }}</title>
 <!-- TradeDoubler site verification 2294572 -->
   
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
+  <meta name="description" content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
   <link href="http://caosordenado.com/feed.xml" rel="alternate" title="Caos Ordenado Feed" type="application/atom+xml" /> 
   <link rel="shortcut icon" href="http://caosordenado.com/images/favicon.ico">
   <link rel="canonical" href="http://caosordenado.com{{ page.url }}/">
@@ -21,7 +21,7 @@
   <meta property="og:image" content="http://caosordenado.com{{ page.image }}" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:site_name" content="Caos Ordenado" />
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 130 }}{% endif %}" />
+  <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}" />
   <meta property="article:tag" content="{{ page.tags }}" />
   <meta property="og:locale" content="pt_BR" />
 
@@ -29,7 +29,7 @@
   <meta name="twitter:site" content="@eduf">
   <meta name="twitter:creator" content="@eduf">
   <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 130 }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
   <meta name="twitter:image" content="http://caosordenado.com{{ page.image }}">
   <meta name="twitter:domain" content="http://caosordenado.com">
 

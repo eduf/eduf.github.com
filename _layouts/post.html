@@ -3,9 +3,8 @@ layout: default
 ---
 
 <h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
-
-{% if page.excerpt %}
-	<header class="excerpt" itemprop="description">{{ page.excerpt | markdownify }}</header>
+{% if page.description %}
+	<header class="excerpt" itemprop="description">{{ page.description | markdownify }}</header>
 {% else %}
 {% endif %}
 	{% include author.html %}

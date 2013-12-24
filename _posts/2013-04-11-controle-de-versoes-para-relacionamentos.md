@@ -1,7 +1,7 @@
 ---
 date: 2013-04-11
 title: Git<3, controle de versões para relacionamentos
-excerpt: Por que nossas lembranças quase sempre parecem ter saído do Wayback Machine?
+description: Por que nossas lembranças quase sempre parecem ter saído do Wayback Machine?
 layout: post
 tags: 
 - comportamento

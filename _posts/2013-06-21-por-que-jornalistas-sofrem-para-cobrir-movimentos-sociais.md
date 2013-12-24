@@ -1,7 +1,7 @@
 ---
 date: 2013-06-21
 title: "Por que jornalistas sofrem para cobrir movimentos sociais?"
-excerpt: "O professor de jornalismo da PUC-RS, Marcelo Träsel, fala sobre o papel dos repórteres nos protestos que se espalham pelo Brasil"
+description: "O professor de jornalismo da PUC-RS, Marcelo Träsel, fala sobre o papel dos repórteres nos protestos que se espalham pelo Brasil"
 layout: post
 tags: 
 - jornalismo

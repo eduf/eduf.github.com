@@ -1,7 +1,7 @@
 ---
 date: 2013-04-24
 title: "Muito longo. Quero ler"
-excerpt: O que o Eduf está fazendo no Medium?
+description: O que o Eduf está fazendo no Medium?
 layout: post
 tags: 
 - tecnologia

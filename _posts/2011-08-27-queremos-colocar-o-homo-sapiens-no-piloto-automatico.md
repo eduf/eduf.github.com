@@ -1,7 +1,7 @@
 ---
 date: 2011-06-22
 title: "Queremos colocar o homo sapiens no piloto automático?"
-excerpt: "Vídeo: The Tomorrow Project and Futurism da Intel"
+description: "Vídeo: The Tomorrow Project and Futurism da Intel"
 layout: post
 category: 
 - 

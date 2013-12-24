@@ -1,7 +1,7 @@
 ---
 date: 2013-04-12
 title: O fim do sono
-excerpt: Trabalhar sem dormir pode revelar os traços mais remotos das nossas personalidades
+description: Trabalhar sem dormir pode revelar os traços mais remotos das nossas personalidades
 layout: post
 tags: 
 - comportamento

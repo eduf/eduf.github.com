@@ -1,7 +1,7 @@
 ---
 date: 2013-06-16
 title: "Manifestações invisíveis"
-excerpt: "O complexo jogo da política, que vai além dos protestos em praças públicas"
+description: "O complexo jogo da política, que vai além dos protestos em praças públicas"
 layout: post
 category: 
 - política

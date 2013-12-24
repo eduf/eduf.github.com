@@ -1,7 +1,7 @@
 ---
 date: 2013-07-02
 title: "Game of Thrones e as manifestações no Brasil"
-excerpt: "O que a rainha Cersei Lannister pode nos ensinar sobre a dinâmica da política?"
+description: "O que a rainha Cersei Lannister pode nos ensinar sobre a dinâmica da política?"
 layout: post
 category: 
 - política

@@ -1,7 +1,7 @@
 ---
 date: 2013-04-22
 title: "Tocando o Caos no Gizmodo"
-excerpt: Textos vão tratar de assuntos mais espinhosos na área de tecnologia
+description: Textos vão tratar de assuntos mais espinhosos na área de tecnologia
 layout: post
 tags: 
 - gizmodo

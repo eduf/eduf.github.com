@@ -1,7 +1,7 @@
 ---
 date: 2013-04-23
 title: "Detector de jornalismo ruim"
-excerpt: Sunlight Foundation lança ferramenta para detectar quando uma notícia é copiada do press release
+description: Sunlight Foundation lança ferramenta para detectar quando uma notícia é copiada do press release
 layout: post
 tags: 
 - tecnologia

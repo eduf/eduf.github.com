@@ -1,7 +1,7 @@
 ---
 date: 2013-04-16
 title: Shepard Fairey e a arte de chamar atenção
-excerpt: Curta mostra como o criador de Obey the Giant conseguiu formar um público para o seu trabalho
+description: Curta mostra como o criador de Obey the Giant conseguiu formar um público para o seu trabalho
 layout: post
 tags: 
 - comportamento

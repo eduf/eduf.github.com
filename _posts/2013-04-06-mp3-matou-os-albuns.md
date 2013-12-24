@@ -1,7 +1,7 @@
 ---
 date: 2013-04-06
 title: Mp3 matou os álbuns?
-excerpt: Talvez ouvir discos inteiros sempre tenha sido coisa para poucos
+description: Talvez ouvir discos inteiros sempre tenha sido coisa para poucos
 layout: post
 tags: 
 - música

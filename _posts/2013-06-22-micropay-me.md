@@ -1,7 +1,7 @@
 ---
 date: 2013-06-22
 title: "F**k you, micropay me"
-excerpt: "O escritor Jaron Lanier quer que o Google pague pelas nossas buscas e que o Facebook deposite os direitos autorais das nossas fotos de gatos"
+description: "O escritor Jaron Lanier quer que o Google pague pelas nossas buscas e que o Facebook deposite os direitos autorais das nossas fotos de gatos"
 layout: post
 category: 
 - tecnologia

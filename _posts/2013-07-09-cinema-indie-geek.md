@@ -1,7 +1,7 @@
 ---
 date: 2013-07-09
 title: "Cinema Indie Geek"
-excerpt: "Em busca de alternativas aos filmes de super zumbís explosivos do futuro"
+description: "Em busca de alternativas aos filmes de super zumbís explosivos do futuro"
 layout: post
 category: 
 - cinema

@@ -1,7 +1,7 @@
 ---
 date: 2013-05-29
 title: "ADF – Como programadores pegam ônibus"
-excerpt: "O Atrás do Front recebe Ricardo Valeriano, um dos pioneiros em desenvolver aplicativos para iOS no Brasil e instrutor de Ruby e Ruby On Rails"
+description: "O Atrás do Front recebe Ricardo Valeriano, um dos pioneiros em desenvolver aplicativos para iOS no Brasil e instrutor de Ruby e Ruby On Rails"
 layout: post
 tags: 
 - webdevelopment

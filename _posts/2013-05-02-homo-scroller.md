@@ -1,7 +1,7 @@
 ---
 date: 2013-05-02
 title: "Homo Scroller"
-excerpt: A ancestral arte de rolar telas
+description: A ancestral arte de rolar telas
 layout: post
 tags: 
 - estratégia de conteúdo

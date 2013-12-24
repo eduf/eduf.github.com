@@ -1,7 +1,7 @@
 ---
 date: 2013-05-27
 title: "Matutando sobre as redes sociais"
-excerpt: Quando foi que a construção da identidade passou a ser tarefa para máquinas?
+description: Quando foi que a construção da identidade passou a ser tarefa para máquinas?
 layout: post
 tags: 
 - sociologia

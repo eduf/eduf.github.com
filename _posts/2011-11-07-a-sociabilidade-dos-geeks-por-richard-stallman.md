@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A sociabilidade dos geeks, por Richard Stallman
-excerpt: "O guia para contratar palestras do ativista do software livre contém pérolas como: deixe-me atravessar a rua sozinho"
+description: "O guia para contratar palestras do ativista do software livre contém pérolas como: deixe-me atravessar a rua sozinho"
 tags:
 - Comportamento
 - psicologia

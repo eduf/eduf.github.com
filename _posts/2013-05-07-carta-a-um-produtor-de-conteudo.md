@@ -1,7 +1,7 @@
 ---
 date: 2013-05-07
 title: "Carta a um produtor de conteúdo"
-excerpt: "Afinal, qual é sua prioridade: criar ou publicar?"
+description: "Afinal, qual é sua prioridade: criar ou publicar?"
 layout: post
 tags: 
 - comportamento

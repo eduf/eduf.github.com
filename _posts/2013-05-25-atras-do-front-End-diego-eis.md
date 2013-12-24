@@ -1,7 +1,7 @@
 ---
 date: 2013-05-25
 title: "Atrás do Front(End): Diego Eis"
-excerpt: "Entrevistamos o font-end developer e professor, Diego Eis. Além de ser dono da conta @raulgil no Twitter, ele é o fundador do Tableless, um dos primeiros sites a ensinar web semântica no Brasil"
+description: "Entrevistamos o font-end developer e professor, Diego Eis. Além de ser dono da conta @raulgil no Twitter, ele é o fundador do Tableless, um dos primeiros sites a ensinar web semântica no Brasil"
 layout: post
 tags: 
 - webdevelopment

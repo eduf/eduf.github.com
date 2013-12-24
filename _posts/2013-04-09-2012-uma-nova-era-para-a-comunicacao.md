@@ -1,7 +1,7 @@
 ---
 date: 2013-04-09
 title: 2012, uma nova era para a comunicação
-excerpt: O ano em que a humanidade passou para um novo patamar de produção e consumo de informação
+description: O ano em que a humanidade passou para um novo patamar de produção e consumo de informação
 layout: post
 tags: 
 - comunicação

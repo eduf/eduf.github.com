@@ -1,7 +1,7 @@
 ---
 date: 2013-10-01
 title: "Reggie Watts, um novo mestre do absurdo?"
-excerpt: "Como confundir as pessoas por meio de beatboxes"
+description: "Como confundir as pessoas por meio de beatboxes"
 layout: post
 comments: true
 tags:

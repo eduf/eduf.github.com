@@ -1,7 +1,7 @@
 ---
 date: 2013-05-31
 title: "Narcisismo no hiperespaço"
-excerpt: "Ou, sendo bem direto, como você geralmente faz merda quando olha apenas para seu umbigo"
+description: "Ou, sendo bem direto, como você geralmente faz merda quando olha apenas para seu umbigo"
 layout: post
 tags: 
 - comportamento

@@ -1,7 +1,7 @@
 ---
 date: 2013-09-22
 title: "Ficando mau. Ficando mal"
-excerpt: "Assistir a Breaking Bad me deixa um tanto intoxicado. Acontece com você?"
+description: "Assistir a Breaking Bad me deixa um tanto intoxicado. Acontece com você?"
 layout: post
 comments: true
 tags:

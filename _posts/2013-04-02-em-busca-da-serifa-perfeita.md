@@ -1,7 +1,7 @@
 ---
 date: 2013-04-02
 title: Em busca da serifa perfeita
-excerpt: Sugestões para a hora de escolher fontes serifadas para websites
+description: Sugestões para a hora de escolher fontes serifadas para websites
 layout: post
 tags: 
 - tipografia

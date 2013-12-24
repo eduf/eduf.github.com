@@ -1,7 +1,7 @@
 ---
 date: 2013-05-13
 title: "Cheque e-mails como um geek"
-excerpt: Como automatizar, organizar e até gameficar sua caixa postal
+description: Como automatizar, organizar e até gameficar sua caixa postal
 layout: post
 tags: 
 - tecnologia

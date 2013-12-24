@@ -2,7 +2,7 @@
 date: 2013-03-27
 title: Você não vai criar sua própria revista
 layout: post
-excerpt: Por que agregar conteúdo é muito diferente de criar
+description: Por que agregar conteúdo é muito diferente de criar
 tags: 
 - tecnologia
 - revistas

@@ -1,7 +1,7 @@
 ---
 date: 2013-05-28
 title: "O outro TED"
-excerpt: "Série Computadores para Cínicos, do sociólogo Ted Nelson, mostra porque é importante conhecer os bastidores políticos das últimas criações tecnológicas"
+description: "Série Computadores para Cínicos, do sociólogo Ted Nelson, mostra porque é importante conhecer os bastidores políticos das últimas criações tecnológicas"
 layout: post
 tags: 
 - tecnologia

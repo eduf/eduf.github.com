@@ -1,7 +1,7 @@
 ---
 date: 2013-04-17
 title: Mude o layout dos seus sites favoritos
-excerpt: Extensão para Chrome ajuda os não-webdesigners a criar e salvar estilos personalizados de CSS
+description: Extensão para Chrome ajuda os não-webdesigners a criar e salvar estilos personalizados de CSS
 layout: post
 tags: 
 - aplicativos

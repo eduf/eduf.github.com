@@ -1,7 +1,7 @@
 ---
 date: 2013-04-04
 title: Alec Baldwin versus Tom Yorke –  não seja um obstáculo
-excerpt: O ator e o vocalista do Radiohead conversam sobre as incertezas do trabalho criativo
+description: O ator e o vocalista do Radiohead conversam sobre as incertezas do trabalho criativo
 layout: post
 tags: 
 - música

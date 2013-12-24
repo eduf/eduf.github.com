@@ -1,7 +1,7 @@
 ---
 date: 2013-05-16
 title: "Atrás do Front: Pablo Miyazawa"
-excerpt: "Novo podcast traz entrevista com pessoas que trabalham nos bastidores da comunicação. Neste episódio: o diretor de redação da Rolling Stone Brasil"
+description: "Novo podcast traz entrevista com pessoas que trabalham nos bastidores da comunicação. Neste episódio: o diretor de redação da Rolling Stone Brasil"
 layout: post
 tags: 
 - jornalismo

@@ -1,7 +1,7 @@
 ---
 date: 2013-04-26
 title: "Tecnologias que se recusam a morrer"
-excerpt: Durante o Record Store Day, colecionadores de vinil fizeram filas nas portas das lojas de discos
+description: Durante o Record Store Day, colecionadores de vinil fizeram filas nas portas das lojas de discos
 layout: post
 tags: 
 - 

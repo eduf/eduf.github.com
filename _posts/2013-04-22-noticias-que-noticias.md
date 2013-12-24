@@ -1,7 +1,7 @@
 ---
 date: 2013-04-22
 title: "Notícias? Que notícias?"
-excerpt: Quando usamos as redes sociais para manter os mesmos vícios da mídia de massas
+description: Quando usamos as redes sociais para manter os mesmos vícios da mídia de massas
 layout: post
 tags: 
 - comportamento

@@ -2,7 +2,7 @@
 date: 2013-04-01
 title: Primeiro de abril, o feriado digital
 layout: post
-excerpt: Já que só publicam idiotices nesse dia, o melhor é se desconectar
+description: Já que só publicam idiotices nesse dia, o melhor é se desconectar
 tags: 
 - comportamento
 - tecnologia

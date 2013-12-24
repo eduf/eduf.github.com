@@ -1,7 +1,7 @@
 ---
 date: 2013-05-06
 title: "Gadget fiction"
-excerpt: Os atuais filmes de ficção científica mostram que desumanizamos o gênero
+description: Os atuais filmes de ficção científica mostram que desumanizamos o gênero
 layout: post
 tags: 
 - tecnologia

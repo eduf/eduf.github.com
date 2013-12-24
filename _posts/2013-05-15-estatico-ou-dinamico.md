@@ -1,7 +1,7 @@
 ---
 date: 2013-05-15
 title: "Estático ou dinâmico?"
-excerpt: Devo abandonar o Wordpress e usar um gerador de blogs estáticos?
+description: Devo abandonar o Wordpress e usar um gerador de blogs estáticos?
 layout: post
 tags: 
 - tecnologia

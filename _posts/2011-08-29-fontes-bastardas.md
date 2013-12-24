@@ -1,7 +1,7 @@
 ---
 date: 2010-06-22
 title: "Fontes bastardas"
-excerpt: "O que acontece quando a tipografia é usada para outros fins, além da legibilidade"
+description: "O que acontece quando a tipografia é usada para outros fins, além da legibilidade"
 layout: post
 category: 
 - design

@@ -1,7 +1,7 @@
 ---
 date: 2013-04-20
 title: "Profissionais apaixonados"
-excerpt: Por que alguns anúncios de emprego se parecem com textos de autoajuda?
+description: Por que alguns anúncios de emprego se parecem com textos de autoajuda?
 layout: post
 tags: 
 - tecnologia

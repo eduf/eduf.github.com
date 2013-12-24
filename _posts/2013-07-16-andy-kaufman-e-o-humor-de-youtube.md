@@ -1,7 +1,7 @@
 ---
 date: 2013-07-16
 title: "Andy Kaufman e o humor de YouTube"
-excerpt: "No humor, a fronteira entre criador e personagem nunca esteve tão nublada"
+description: "No humor, a fronteira entre criador e personagem nunca esteve tão nublada"
 layout: post
 category:
 - humor

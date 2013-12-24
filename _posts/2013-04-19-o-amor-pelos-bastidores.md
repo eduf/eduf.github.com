@@ -1,7 +1,7 @@
 ---
 date: 2013-04-19
 title: "O amor pelos bastidores"
-excerpt: O que é mais divertido? Show ou making of?
+description: O que é mais divertido? Show ou making of?
 layout: post
 tags: 
 - música
