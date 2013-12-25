@@ -1,0 +1,24 @@
+---
+layout: default
+title: Tipografia
+---
+
+<h1 class="entry-curriculo">Tipografia</h1>
+
+<ul class="arquivos">
+{% assign count = 0 %}
+{% for post in site.posts %}
+  {% if post.tags contains 'tipografia' %}
+    {% if count < 80 %}
+      {% assign count = count|plus:1 %}
+        <li>
+          <span datetime="{{ page.date| date:"%Y-%m-%d" }}" itemprop="datePublished"><small>{{ post.date | date:"%d/%m/%Y" }}</small></span>&emsp;<a href="{{ post.url }}"  itemprop="url">{{ post.title }}</a>
+        </li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+<footer class="entry-meta">
+	<p>Confira também os <a href="arquivos.html" rel="bookmark"  itemprop="url">arquivos completos do Caos</a></p>
+</footer>
