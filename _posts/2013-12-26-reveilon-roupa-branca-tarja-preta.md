@@ -18,7 +18,7 @@ Por exemplo: às vezes, ligam aqui perguntando se "fazemos batizados". E eu tenh
 
 Do outro lado do telefone, geralmente o interlocutor fica desapontado. Diz algo como "mas é uma tradição na minha família, eu só quero que meu filho tome *uma benção*". O que significa: levar o filho para um lugar considerado especial, na frente da família e dos amigos e, juntos, aspirar que tudo dê certo para a criança. Quer dizer, tentar esquecer que a vida é incerta, perigosa e, no mínimo, cheia de *mumunhas*.
 
-Outra situação comum: encontrar alguém espalhando cinzas de mortos pelo terreno do centro budista. Às vezes, é como [naquela cena do Big Lebowski](): os restos mortais voam na cara do parente / amigo. Do ponto de vista de certas tradições do budismo, não é lá muito respeitoso sair jogando cinzas por aí, sem um contexto. Então, educadamente, sou obrigado a desencorajar as pessoas de fazê-lo. Mais decepção. Elas só queriam um lugar tido como especial para fazer seu ritual. Sem compromisso.
+Outra situação comum: encontrar alguém espalhando cinzas de mortos pelo terreno do centro budista. Às vezes, é como [naquela cena do Big Lebowski](https://www.youtube.com/watch?v=_4ezPvzKe5M): os restos mortais voam na cara do parente / amigo. Do ponto de vista de certas tradições do budismo, não é lá muito respeitoso sair jogando cinzas por aí, sem um contexto. Então, educadamente, sou obrigado a desencorajar as pessoas de fazê-lo. Mais decepção. Elas só queriam um lugar tido como especial para fazer seu ritual. Sem compromisso.
 
 Estão aí exemplos de que muitas pessoas não conhecem ou não se importam com coerência teórica, certo? Assim, poderíamos ter um batismo ateu. Por que não? Ou rezar para as deidades de Wall Street. Ou para objetos em que não acreditamos ou nem mesmo sabemos para que servem.
 
@@ -28,7 +28,7 @@ Ou seja: ocasiões e lugares tido como especiais podem funcionar como uma espéc
 
 Costumo brincar que aí está uma excelente oportunidade de negócios: *rituais religiosos leigos*. Alguém que pareça sagrado, num lugar inspirador, executaria certos rituais para acalmar nossos medos e dar-nos algumas esperanças. Mas, por favor, que a pessoa não fale demais, não exija compromisso, não tente mudar demais nossas vidas. Muita gente pagaria — e paga — por isso.
 
-Mesmo o "consumismo", que nessa época do ano vira o [sparring]() mais amado do mundo, é apenas uma exploração, um subproduto, um agregado cultural dessa necessidade de estar em comunidade, de tentar controlar o futuro e de passar durepox no que está rachado. Desse ponto de vista, é uma gambiarra tão legítima quanto as promovidas por alguns procedimentos religiosos. O problema é que paliativos não duram muito tempo.
+Mesmo o "consumismo", que nessa época do ano vira o [sparring](http://www.expertboxing.com/boxing-sparring) mais amado do mundo, é apenas uma exploração, um subproduto, um agregado cultural dessa necessidade de estar em comunidade, de tentar controlar o futuro e de passar durepox no que está rachado. Desse ponto de vista, é uma gambiarra tão legítima quanto as promovidas por alguns procedimentos religiosos. O problema é que paliativos não duram muito tempo.
 
 Portanto, não é que os rituais de fim de ano perderam o significado. Pelo contrário, mesmo que diluídos, eles têm um significado muito específico. Continuam tentando gerenciar aqueles dois velhos problema que nos acompanham desde sempre: esperança e, consequentemente, medo. Quanto tempo até termos uma festa anual na qual as pessoas troquem antidepressivos[^2] como presentes?
 
