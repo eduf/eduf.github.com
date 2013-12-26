@@ -10,17 +10,19 @@ image:
 - /images/reveilon.jpg
 ---
 
-Todo fim de ano, ouvimos a mesma reclamação: o Natal (ou outras festas) perderam o significado. Há sempre alguém — religioso ou não — acreditando que, em algum lugar do passado, tivemos uma visão mais humanitária de certos ritos de passagem. Agora, o único ritual possível seria o de passagem do cartão de crédito na máquina registradora. É mesmo?
+Todo fim de ano, ouvimos a mesma reclamação: o Natal (ou outras festas) perderam o significado. Há sempre alguém — religioso ou não — acreditando que, em algum lugar do passado, tivemos uma visão mais humanitária de certos ritos de passagem. Agora, o único ritual possível seria o de passagem do cartão de crédito na máquina registradora. Não sei.
 
-Mr. Carma me colocou numa posição bastante peculiar para pensar sobre rituais. Fui antropólogo. Vivo num centro de budismo tibetano [^1]. Ajudo a "produzir" ou executar certos rituais "religiosos" diariamente. E, para melhorar, às vezes, quebro um galho na recepção do tal centro, atendendo a pessoas que sabem quase nada sobre as nossas tradições.
+Mr. Carma me colocou numa posição bastante peculiar para pensar sobre rituais. Fui antropólogo. Vivo num centro de budismo tibetano [^1]. Ajudo a "produzir" e executar certos rituais "religiosos" diariamente. E, para melhorar, às vezes, quebro um galho na recepção do tal centro, atendendo a pessoas que sabem quase nada sobre as nossas tradições.
 
-Por exemplo: às vezes, ligam aqui perguntando se "fazemos batizados". E eu tenho que explicar que esse é um ritual judáico-cristão, cuja versão mais popular é uma espécie de demonstração pública e religiosa de que a criança se tornou cristã. Ou seja: em tese, o assunto tem nada a ver com budismo.
+Por exemplo: às vezes, ligam aqui perguntando se "fazemos batizados". E tenho que explicar que esse é um ritual judáico-cristão, cuja versão mais popular é uma espécie de demonstração pública de que a criança se tornou cristã. Ou seja: em tese, o assunto tem nada a ver com budismo.
 
-Do outro lado do telefone, geralmente o interlocutor fica desapontado. Diz algo como "mas é uma tradição na minha família, eu só quero que meu filho tome *uma benção*". O que significa: levar o filho para um lugar considerado especial, na frente da família e dos amigos e, juntos, aspirar que tudo dê certo para a criança. Quer dizer, tentar esquecer que a vida é incerta, perigosa e, no mínimo, cheia de *mumunhas*.
+Do outro lado do telefone, geralmente o interlocutor fica desapontado. Diz algo como "mas é uma tradição na minha família, eu só quero que meu filho tome *uma benção*". O que significa: levá-lo para um lugar considerado especial, com família e amigos para que, juntos, possam aspirar que tudo dê certo para a criança. Quer dizer, durante um tempo, tentar coletivamente esquecer de que a vida é incerta, perigosa e, no mínimo, cheia de *mumunhas*.
 
-Outra situação comum: encontrar alguém espalhando cinzas de mortos pelo terreno do centro budista. Às vezes, é como [naquela cena do Big Lebowski](https://www.youtube.com/watch?v=_4ezPvzKe5M): os restos mortais voam na cara do parente / amigo. Do ponto de vista de certas tradições do budismo, não é lá muito respeitoso sair jogando cinzas por aí, sem um contexto. Então, educadamente, sou obrigado a desencorajar as pessoas de fazê-lo. Mais decepção. Elas só queriam um lugar tido como especial para fazer seu ritual. Sem compromisso.
+Parece ridículo, mas não é. É coisa do tio *sapiens*. E é só o que nos resta, às vezes. Tanto que já aconteceu de os lamas darem a tal benção, em respeito à ingenuidade e/ou desespero do solicitante. Ainda que acrescentando algo como "…mas não se esqueça que felicidade e sofrimento são impermanentes".
 
-Estão aí exemplos de que muitas pessoas não conhecem ou não se importam com coerência teórica, certo? Assim, poderíamos ter um batismo ateu. Por que não? Ou rezar para as deidades de Wall Street. Ou para objetos em que não acreditamos ou nem mesmo sabemos para que servem.
+Outra situação comum: encontrar alguém espalhando cinzas de mortos pelo terreno do centro budista. Às vezes, é como [naquela cena do Big Lebowski](https://www.youtube.com/watch?v=_4ezPvzKe5M): os restos mortais voam na cara do parente / amigo. Do ponto de vista de certas tradições do budismo, não é lá muito respeitoso sair jogando cinzas por aí, sem um contexto e um, oops, ritual. Então, educadamente, sou obrigado a desencorajar as pessoas de jogar os despojos. Mais decepção. Elas só queriam um lugar tido como especial para fazer sua parte. Sem compromisso.
+
+Ok. Estão aí exemplos de que muitas pessoas não conhecem ou não se importam com coerência teórica, certo? Assim, poderíamos ter um batismo ateu. Por que não? Ou rezar para as deidades de Wall Street. Ou para objetos em que não acreditamos ou nem mesmo sabemos para que servem.
 
 Flexibilidade. Pós-modernismo. Explique como quiser. Mas, embora pareça que não, esses rituais desteorizados são extremamente coerentes. Mostram algo muito simples: "queremos celebrar a nós mesmos, nossas famílias e amigos. E controlar forças que nos parecem indomáveis. Mas sem pagar um preço muito alto por isso".
 
