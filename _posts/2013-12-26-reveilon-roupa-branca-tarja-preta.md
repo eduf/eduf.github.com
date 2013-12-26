@@ -1,6 +1,6 @@
 ---
 date: 2013-12-26
-title: "Reveilon: roupa branca, tarja preta"
+title: "Réveillon: roupa branca, tarja preta"
 description: "Não me venha com essa conversa de que os rituais de fim de ano perderam o significado"
 layout: post
 comments: true
