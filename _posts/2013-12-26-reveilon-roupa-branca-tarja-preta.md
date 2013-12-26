@@ -22,7 +22,7 @@ Outra situação comum: encontrar alguém espalhando cinzas de mortos pelo terre
 
 Estão aí exemplos de que muitas pessoas não conhecem ou não se importam com coerência teórica, certo? Assim, poderíamos ter um batismo ateu. Por que não? Ou rezar para as deidades de Wall Street. Ou para objetos em que não acreditamos ou nem mesmo sabemos para que servem.
 
-Flexibilidade. Pós-modernismo. Explique como quiser. Mas, embora pareça que não, esses rituais desteorizados são extremamente coerentes. Mostram algo muito simples: "queremos celebrar a nós mesmos, nossas famílias e amigos. E controlar forças que nos parecem indomáveis. Mas sem pagar um preço muito alto por isso". Black (friday) magic.
+Flexibilidade. Pós-modernismo. Explique como quiser. Mas, embora pareça que não, esses rituais desteorizados são extremamente coerentes. Mostram algo muito simples: "queremos celebrar a nós mesmos, nossas famílias e amigos. E controlar forças que nos parecem indomáveis. Mas sem pagar um preço muito alto por isso".
 
 Ou seja: ocasiões e lugares tido como especiais podem funcionar como uma espécie de reafirmação do cotidiano. Nesse caso, seriam elementos conservadores. No máximo, pequenas correções de curso. De modo geral, as pessoas executam rituais ou visitam lugares "sagrados" esperando manter o cotidiano como está. Ou talvez melhorá-lo um pouco. Sem muita imaginação, sem mudanças radicais. Em especial, não querem uma dose alta de desconhecido. Quero batizar meu filho, quero que ele seja cristão, mas não um monge franciscano, entende?
 
