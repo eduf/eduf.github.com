@@ -10,9 +10,9 @@ image:
 - /images/reveilon.jpg
 ---
 
-Todo fim de ano, ouvimos a mesma reclamação: o Natal (ou outras festas) perderam o significado. Há sempre alguém — religioso ou não — acreditando que, em algum lugar do passado, tivemos uma visão mais humanitária de certos ritos de passagem. Agora, o único ritual possível é o de passagem do cartão de crédito na máquina registradora.
+Todo fim de ano, ouvimos a mesma reclamação: o Natal (ou outras festas) perderam o significado. Há sempre alguém — religioso ou não — acreditando que, em algum lugar do passado, tivemos uma visão mais humanitária de certos ritos de passagem. Agora, o único ritual possível seria o de passagem do cartão de crédito na máquina registradora. É mesmo?
 
-Mr. Carma me colocou numa posição bastante peculiar para pensar sobre rituais. Fui antropólogo. Vivo num centro budista tibetano [^1]. Ajudo a "produzir" ou executar certos rituais "religiosos" diariamente. E, para melhorar, às vezes, quebro um galho na recepção do tal centro, atendendo a pessoas que sabem quase nada sobre as nossas tradições.
+Mr. Carma me colocou numa posição bastante peculiar para pensar sobre rituais. Fui antropólogo. Vivo num centro de budismo tibetano [^1]. Ajudo a "produzir" ou executar certos rituais "religiosos" diariamente. E, para melhorar, às vezes, quebro um galho na recepção do tal centro, atendendo a pessoas que sabem quase nada sobre as nossas tradições.
 
 Por exemplo: às vezes, ligam aqui perguntando se "fazemos batizados". E eu tenho que explicar que esse é um ritual judáico-cristão, cuja versão mais popular é uma espécie de demonstração pública e religiosa de que a criança se tornou cristã. Ou seja: em tese, o assunto tem nada a ver com budismo.
 
