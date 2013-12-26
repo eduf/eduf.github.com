@@ -7,7 +7,7 @@ comments: true
 tags:
 - comportamento
 image:
-- /images/
+- /images/reveilon.jpg
 ---
 
 Todo fim de ano, ouvimos a mesma reclamação: o Natal (ou outras festas) perderam o significado. Há sempre alguém — religioso ou não — acreditando que, em algum lugar do passado, tivemos uma visão mais humanitária de certos ritos de passagem. Agora, o único ritual possível é o de passagem do cartão de crédito na máquina registradora.
