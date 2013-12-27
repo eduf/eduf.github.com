@@ -42,7 +42,5 @@ Mas dei toda essa volta para dizer que os rituais de fim de ano não perderam se
 
 Se você quer uma tendência para observar nos rituais da nossa época, eu diria que é a sua progressiva mistura com a ideia de eficiência capitalista. Cada vez mais tentamos eliminar as partes chatas / difíceis e inconvenientes dos ritos e maximizar seus resultados. Se continuarmos nesse caminho, quanto tempo passará até termos uma festa na qual as pessoas troquem antidepressivos[^2] como presentes?
 
-Ah… Antes que eu me esqueça, feliz 2014.
-
 [^1]: Mas, por favor, não pense que tenho alguma autoridade para falar sobre budismo. Ou mesmo sobre antropologia.
 [^2]: Ou alguma versão disso que seja melhor aceita socialmente.
