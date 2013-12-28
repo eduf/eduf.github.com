@@ -16,7 +16,7 @@ O fato é que, quanto mais fico velho, menos acompanho lançamentos. E por que d
 
 É que a fruição da música depende muito do contexto emocional do ouvinte. Por exemplo, neste ano, saiu disco novo de Nick Cave. Mas tive a mínima vontade de ouvi-lo *seriamente*. Não estava no clima. Então, como poderia classificá-lo como um dos melhores do ano? Por costume ou devoção. É o Nick Cave, pô. Supostamente, o álbum é bom. Porém, a verdade: tive preguiça de escutá-lo.
 
-Ao longo dos anos, tenho abandonado o treinamento a que me submeti durante toda uma vida: o de enxergar o mundo como um jornalista. Não me preocupo muito mais com novidades, produtos culturais "quentes", "frios", na moda, ultrapassados, para machos, para bichas, para jovens, para velhos etc. Não me sinto mais como alguém que tem que cumprir certas periodicidades ou manter regularidades. É tão melhor assim.
+Ao longo dos anos, tenho abandonado o treinamento a que me submeti durante toda uma vida: o de enxergar o mundo como um jornalista. Não me preocupo muito mais com novidades, produtos culturais "quentes", "frios", na moda, ultrapassados, para héteros, para homos, para jovens, para velhos etc. Não me sinto mais como alguém que tem que cumprir certas periodicidades ou manter regularidades. É tão melhor assim.
 
 Também sofro de fases obsessivas, quando tenho vontade de dragar a discografia de um só artista. Ou múltiplas versões de uma mesma música. Isso pode durar meses. E, assim, os lançamentos ficam para depois. Ou são esquecidos.
 
