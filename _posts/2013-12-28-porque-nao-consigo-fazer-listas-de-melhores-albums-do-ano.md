@@ -1,6 +1,6 @@
 ---
 date: 2013-12-28
-title: "Porque não consigo fazer listas de melhores álbums do ano"
+title: "Por que não consigo fazer listas de melhores álbums do ano"
 description: "As minhas seriam mais parecidas com listas de espera"
 layout: post
 comments: true
