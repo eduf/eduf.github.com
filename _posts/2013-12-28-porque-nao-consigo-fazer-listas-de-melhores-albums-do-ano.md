@@ -14,7 +14,7 @@ Não sei como é para você, mas, para mim, as listas de melhores discos do ano 
 
 O fato é que, quanto mais fico velho, menos acompanho lançamentos. E por que deveria? Há tanta música para ser re-ouvida. Ainda mais para quem gosta de assuntos como produção, timbres, masterings, remasterings etc. E o tempo é sempre escasso. Assim, meio que me programo para encaixar alguns lançamentos aqui e ali. Mas sem muito entusiasmo.
 
-É que a fruição da música depende muito do contexto emocional do ouvinte. Por exemplo, neste ano, saiu disco novo de Nick Cave. Mas tive a mínima vontade de ouvi-lo *seriamente*. Não estava no clima. Então, como eu poderia classificá-lo como um dos melhores do ano? Por costume ou devoção. É o Nick Cave, pô. Supostamente, o álbum é bom. Porém, a verdade: tive preguiça de escutá-lo.
+É que a fruição da música depende muito do contexto emocional do ouvinte. Por exemplo, neste ano, saiu disco novo de Nick Cave. Mas tive a mínima vontade de ouvi-lo *seriamente*. Não estava no clima. Então, como poderia classificá-lo como um dos melhores do ano? Por costume ou devoção. É o Nick Cave, pô. Supostamente, o álbum é bom. Porém, a verdade: tive preguiça de escutá-lo.
 
 Ao longo dos anos, tenho abandonado o treinamento a que me submeti durante toda uma vida: o de enxergar o mundo como um jornalista. Não me preocupo muito mais com novidades, produtos culturais "quentes", "frios", na moda, ultrapassados, para machos, para bichas, para jovens, para velhos etc. Não me sinto mais como alguém que tem que cumprir certas periodicidades ou manter regularidades. É tão melhor assim.
 
@@ -28,7 +28,7 @@ Mas e se eu quisesse mesmo fazer uma lista? Seria algo mais como lista de espera
 
 Agora, me pergunte que lançamento ficou no *repeat* por aqui neste ano. Você não vai gostar da resposta: [Carcass, Surgical Steel](http://goo.gl/7qQYWR). Sim, a banda de metal. Os caras continuam fazendo as mesmas piadas de legistas, que não são, exatamente, meu assunto preferido. Mas, depois de uma pausa de quase 17 anos na carreira, voltaram com um dos seus melhores trabalhos. Bateram no meu iPod e ficaram.
 
-[Daniel Wilding](https://en.wikipedia.org/wiki/Daniel_Wilding), é certamente um dos melhores bateristas do metal na atualidade. Seus arranjos complexos são executados de um jeito tão natural e sem esforço que parece que os tambores é que tocam o instrumentista e não o contrário. Já as músicas em si, me soam como uma versão extrema de [Rust In Peace](https://en.wikipedia.org/wiki/Rust_in_Peace), o clássico do Megadeth: as harmonias de guitarras, as quebradeiras de andamento, os desafios de solos, os fraseados e, claro, as *melodias*.
+[Daniel Wilding](https://en.wikipedia.org/wiki/Daniel_Wilding) é certamente um dos melhores bateristas do metal na atualidade. Seus arranjos complexos são executados de um jeito tão natural e sem esforço que parece que os tambores é que tocam o instrumentista e não o contrário. Já as músicas, em si, me soam como uma versão extrema de [Rust In Peace](https://en.wikipedia.org/wiki/Rust_in_Peace), o clássico do Megadeth: as harmonias de guitarras, as quebradeiras de andamento, os desafios de solos, os fraseados e, claro, as *melodias*.
 
 O ponto fraco é que as produções do metal da atualidade são limpas demais. Ainda que o Carcass não tenha sofrido *tanto* com isso. Mas os problemas estão lá: baixo cristalino, guitarras com muito ganho na distorção mas pouco peso *orgânico*[^1]. Gosto de ouvir a sonoridade das cordas e não somente um zumbido elétrico perfeitamente uniforme e controlado.
 
