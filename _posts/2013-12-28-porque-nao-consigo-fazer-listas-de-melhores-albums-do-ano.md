@@ -34,6 +34,6 @@ O ponto fraco é que as produções do metal da atualidade são limpas demais. A
 
 Enfim…
 
-Aí está, antes que eu comece a nerdiar mais sobre equipamentos e mixagem. É o mais perto que eu consigo chegar de fazer uma lista de melhores álbuns de 2013. Valeu a tentativa.
+Aí está, antes que eu comece a nerdear mais sobre equipamentos e mixagem. É o mais perto que eu consigo chegar de fazer uma lista de melhores álbuns de 2013. Valeu a tentativa.
 
 [^1]: Aliás, foi um ano interessante para a música pesada. O Sepultura [também fez um disco interessante](https://en.wikipedia.org/wiki/The_Mediator_Between_Head_and_Hands_Must_Be_the_Heart), esse, com timbres bem menos digitais.
