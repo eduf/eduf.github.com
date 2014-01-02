@@ -56,7 +56,7 @@ Mastodon + Baroness - virtuosismo.
 ### Voivod
 <iframe width="560" height="315" src="//www.youtube.com/embed/SyvR6kOy5p4" frameborder="0" allowfullscreen></iframe>
 
-*Target Earth* é o primeiro álbum totalmente composto sem a participação do falecido Piggy, o guitarrista que arquitetou o particularíssimo som da banda canadense. Mas o disco é digno dos clássicos *Nothing Face* e *Dimension Hatröss*. Mas ainda sem muito carisma. O próximo lançamento deve ser matador.
+*Target Earth* é o primeiro álbum totalmente composto sem a participação do falecido Piggy, o guitarrista que arquitetou o particularíssimo som da banda canadense. Mas o disco é digno dos clássicos *Nothing Face* e *Dimension Hatröss*. Ainda que sem muito carisma. O próximo lançamento deve ser matador.
 
 ### Sepultura
 <iframe width="420" height="315" src="//www.youtube.com/embed/zJsZoiFmpjc" frameborder="0" allowfullscreen></iframe>
@@ -71,7 +71,7 @@ Mastodon + Baroness - virtuosismo.
 ### Melvins
 <iframe width="420" height="315" src="//www.youtube.com/embed/fQN7GyxQ9Ag" frameborder="0" allowfullscreen></iframe>
 
-Todo ano é a mesma coisa. Melvins (foto acima) lança disco e ele sempre é, no mínimo, divertido. *Tres Cabrones* traz o lado mais experimental da banda à tona, com efeitos e até alguns teclados acrescentando camadas de estranheza ao som.
+Todo ano é a mesma coisa. Melvins (foto acima) lança disco. E ele sempre é, no mínimo, divertido. *Tres Cabrones* traz o lado mais experimental da banda à tona, com efeitos e até alguns teclados acrescentando camadas de estranheza ao som.
 
 ### Mas faltou…
 
