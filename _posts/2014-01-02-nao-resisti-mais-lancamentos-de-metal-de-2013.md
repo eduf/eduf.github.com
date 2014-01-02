@@ -26,12 +26,12 @@ A melhor palavra para descrever o álbum *Soma* é "áspero". Há fuzz para todo
 ### ASG
 <iframe width="560" height="315" src="//www.youtube.com/embed/BIL6oPojtQU" frameborder="0" allowfullscreen></iframe>
 
-Stoner metal pesadão. Interessante, mas não deve mudar a sua vida.
+Stoner metal pesadão. *Blood Drive* é interessante, mas não deve mudar a sua vida.
 
 ### Russian Circles
 <iframe width="560" height="315" src="//www.youtube.com/embed/klVU-O5M-jA" frameborder="0" allowfullscreen></iframe>
 
-Trio de Chicago que trafega pelas fronteiras do pós-metal. Músicas instrumentais, claro. Lembram as composições mais tensas e "cinematográficas" dos primórdios do Deftones.
+Trio de Chicago que trafega pelas fronteiras do pós-metal. *Memorial* traz músicas instrumentais, claro. Lembram as composições mais tensas e "cinematográficas" dos primórdios do Deftones. Sem o lado new metal.
 
 ### Castevet
 <iframe width="420" height="315" src="//www.youtube.com/embed/BYywN2tDXhE" frameborder="0" allowfullscreen></iframe>
