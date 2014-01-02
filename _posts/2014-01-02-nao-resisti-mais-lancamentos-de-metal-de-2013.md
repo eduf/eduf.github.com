@@ -36,17 +36,17 @@ Trio de Chicago que trafega pelas fronteiras do pós-metal. Músicas instrumenta
 ### Castevet
 <iframe width="420" height="315" src="//www.youtube.com/embed/BYywN2tDXhE" frameborder="0" allowfullscreen></iframe>
 
-[Dizem que a banda faz math metal](http://pitchfork.com/reviews/albums/18549-castevet-obsian/). Faz certo sentido. É lento, absurdamente pesado, ambiência de catedral na bateria e muitos acordes dissonantes.
+[Dizem que a banda faz math metal](http://pitchfork.com/reviews/albums/18549-castevet-obsian/). Faz certo sentido. *Obsian* é lento, absurdamente pesado, ambiência de catedral na bateria e muitos acordes dissonantes.
 
 ### Magic Circle
 <iframe width="560" height="315" src="//www.youtube.com/embed/WhxgTjzCtcY" frameborder="0" allowfullscreen></iframe>
 
-O clima é Black Sabbath da época do Dio. A produção tem um clima setecentista, que funciona bem.
+O clima é Black Sabbath da época do Dio. A produção de *Magic Circle* tem um clima setecentista, que funciona bem.
 
 ### Deafheaven
 <iframe width="560" height="315" src="//www.youtube.com/embed/GfbLWHT7vUU" frameborder="0" allowfullscreen></iframe>
 
-A ideia era juntar My Bloody Valentine com metal. Não me convenceu, sobretudo por conta do vocal e dos blastbeats. Mas a banda meio que entrou em moda, em alguns sites gringos influentes. Então, conferi para entender. Não acho vá acompanhar a carreira da banda.
+A ideia era juntar My Bloody Valentine com metal. *Sunbather* não me convenceu, sobretudo por conta do vocal e dos blastbeats. Mas a banda meio que entrou em moda, em alguns sites gringos influentes. Então, conferi para entender. Não acho vá acompanhar a carreira da banda.
 
 ### Anciients
 <iframe width="560" height="315" src="//www.youtube.com/embed/bZtfts0dQEI" frameborder="0" allowfullscreen></iframe>
