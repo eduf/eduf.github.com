@@ -41,7 +41,7 @@ Trio de Chicago que trafega pelas fronteiras do pós-metal. *Memorial* traz mús
 ### Magic Circle
 <iframe width="560" height="315" src="//www.youtube.com/embed/WhxgTjzCtcY" frameborder="0" allowfullscreen></iframe>
 
-O clima é Black Sabbath da época do Dio. A produção de *Magic Circle* tem um clima setecentista, que funciona bem.
+O clima é Black Sabbath da época do Dio. A produção de *Magic Circle* tem um clima setentista, que funciona bem.
 
 ### Deafheaven
 <iframe width="560" height="315" src="//www.youtube.com/embed/GfbLWHT7vUU" frameborder="0" allowfullscreen></iframe>
