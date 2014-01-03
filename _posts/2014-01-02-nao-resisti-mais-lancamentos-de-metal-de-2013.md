@@ -11,7 +11,7 @@ image:
 ---
 
 
-2013 foi um ano cheio para os fãs do metal. Muitos álbuns importantes saindo. Bandas clássicas lançaram material novo (Motorhead, por exemplo), houve voltas triunfantes (como a do Carcass, com [Surgical Steel](http://goo.gl/7qQYWR)) e inúmeras micromutações no gênero. A seguir, apenas alguns lançamentos de 2013 que se destacaram no meu radar.
+2013 foi um ano cheio para os fãs do metal. Muitos álbuns importantes saindo. Bandas clássicas lançaram material novo (Motorhead, por exemplo), voltas triunfantes (como a do Carcass, com [Surgical Steel](http://goo.gl/7qQYWR)) e inúmeras micromutações no gênero. A seguir, apenas alguns lançamentos de 2013 que se destacaram no meu radar.
 
 ### Windhand
 <iframe width="560" height="315" src="//www.youtube.com/embed/XC0MQog6Omg" frameborder="0" allowfullscreen></iframe>
@@ -21,7 +21,7 @@ A melhor palavra para descrever o álbum *Soma* é "áspero". Há fuzz para todo
 ### In Solitude
 <iframe width="560" height="315" src="//www.youtube.com/embed/PzELLDh5D0s" frameborder="0" allowfullscreen></iframe>
 
-*Sister* está entre os meus álbuns preferidos do ano. Lembra um pouco os trabalhos recentes do Baroness, mas tem uma influência clara de rock gótico, no estilo Sisters of Mercy e Killing Joke.
+*Sister* está entre os meus álbuns preferidos do ano. Lembra um pouco os trabalhos recentes do Baroness, mas tem uma influência clara de rock gótico, estilo Sisters of Mercy e Killing Joke.
 
 ### ASG
 <iframe width="560" height="315" src="//www.youtube.com/embed/BIL6oPojtQU" frameborder="0" allowfullscreen></iframe>
@@ -31,12 +31,12 @@ Stoner metal pesadão. *Blood Drive* é interessante, mas não deve mudar a sua 
 ### Russian Circles
 <iframe width="560" height="315" src="//www.youtube.com/embed/klVU-O5M-jA" frameborder="0" allowfullscreen></iframe>
 
-Trio de Chicago que trafega pelas fronteiras do pós-metal. *Memorial* traz músicas instrumentais, claro. Lembram as composições mais tensas e "cinematográficas" dos primórdios do Deftones. Sem o lado new metal.
+Trio de Chicago que trafega pelas fronteiras entre o thrash e o pós-metal. *Memorial* traz músicas instrumentais, claro. E que lembram as composições mais tensas e "cinematográficas" dos primórdios do Deftones. Sem o lado new metal.
 
 ### Castevet
 <iframe width="420" height="315" src="//www.youtube.com/embed/BYywN2tDXhE" frameborder="0" allowfullscreen></iframe>
 
-[Dizem que a banda faz math metal](http://pitchfork.com/reviews/albums/18549-castevet-obsian/). Faz certo sentido. *Obsian* é lento, absurdamente pesado, ambiência de catedral na bateria e muitos acordes dissonantes.
+[Dizem que o Castevet é uma banda de math metal](http://pitchfork.com/reviews/albums/18549-castevet-obsian/). Faz certo sentido, mas o som não para nisso. *Obsian* é lento, absurdamente pesado, ambiência de catedral na bateria e muitos acordes dissonantes.
 
 ### Magic Circle
 <iframe width="560" height="315" src="//www.youtube.com/embed/WhxgTjzCtcY" frameborder="0" allowfullscreen></iframe>
@@ -46,7 +46,7 @@ O clima é Black Sabbath da época do Dio. A produção de *Magic Circle* tem um
 ### Deafheaven
 <iframe width="560" height="315" src="//www.youtube.com/embed/GfbLWHT7vUU" frameborder="0" allowfullscreen></iframe>
 
-A ideia era juntar My Bloody Valentine com metal. *Sunbather* não me convenceu, sobretudo por conta do vocal e dos blastbeats. Mas a banda meio que entrou em moda, em alguns sites gringos influentes. Então, conferi para entender. Não acho vá acompanhar a carreira da banda.
+A ideia era juntar My Bloody Valentine com metal. *Sunbather* não me convenceu, sobretudo por conta dos vocais e dos blastbeats. Mas a banda meio que entrou em moda, em alguns sites gringos influentes. Então, conferi para entender. Não acho vá acompanhar a carreira da banda.
 
 ### Anciients
 <iframe width="560" height="315" src="//www.youtube.com/embed/bZtfts0dQEI" frameborder="0" allowfullscreen></iframe>
@@ -56,12 +56,12 @@ Mastodon + Baroness - virtuosismo.
 ### Voivod
 <iframe width="560" height="315" src="//www.youtube.com/embed/SyvR6kOy5p4" frameborder="0" allowfullscreen></iframe>
 
-*Target Earth* é o primeiro álbum totalmente composto sem a participação do falecido Piggy, o guitarrista que arquitetou o particularíssimo som da banda canadense. Mas o disco é digno dos clássicos *Nothing Face* e *Dimension Hatröss*. Ainda que sem muito carisma. O próximo lançamento deve ser matador.
+*Target Earth* é o primeiro álbum totalmente composto sem a participação do falecido Piggy, o guitarrista que arquitetou o particularíssimo som da banda canadense. Mas, ainda assim, o material é digno dos clássicos *Nothing Face* e *Dimension Hatröss* — ainda que as músicas não tenham o carisma de antes. O próximo lançamento deve ser matador.
 
 ### Sepultura
 <iframe width="420" height="315" src="//www.youtube.com/embed/zJsZoiFmpjc" frameborder="0" allowfullscreen></iframe>
 
-*The Mediator Between Head and Hands Must Be the Heart* traz um pouco de todos os discos clássicos da banda. De quebra, tem participação de Dave Lombardo, do Slayer. Além de muita percussão e suíngue. É o disco pós-Cavaleras que o Sepultura estava devendo a si mesmo.
+*The Mediator Between Head and Hands Must Be the Heart* traz um pouco de todos os discos clássicos da banda. De quebra, tem participação de Dave Lombardo, do Slayer. Além de muita percussão e… suíngue. É o disco pós-Cavaleras que o Sepultura estava devendo a si mesmo.
 
 ### Intronaut
 <iframe width="560" height="315" src="//www.youtube.com/embed/Nx6Hkebx7U8" frameborder="0" allowfullscreen></iframe>
@@ -71,7 +71,7 @@ Mastodon + Baroness - virtuosismo.
 ### Melvins
 <iframe width="420" height="315" src="//www.youtube.com/embed/fQN7GyxQ9Ag" frameborder="0" allowfullscreen></iframe>
 
-Todo ano é a mesma coisa. Melvins (foto acima) lança disco. E ele sempre é, no mínimo, divertido. *Tres Cabrones* traz o lado mais experimental da banda à tona, com efeitos e até alguns teclados acrescentando camadas de estranheza ao som.
+Todo ano é a mesma coisa. Melvins (foto no começo do post) lança disco. E ele sempre é, no mínimo, divertido. *Tres Cabrones* traz o lado mais experimental da banda à tona, com efeitos eletrônicos e até alguns teclados, o que acrescenta camadas de estranheza ao som.
 
 ### Mas faltou…
 
