@@ -8,7 +8,7 @@ category:
 tags:
 - game of thrones
 image:
-- /images/cersei.jpg
+- cersei.jpg
 ---
 
 Agora que as manifestações no Brasil se acalmaram, vamos conversar sobre *poder*. Mas aos poucos. O primeiro aspecto para o qual eu queria chamar sua atenção é para a *dinâmica* da política. E, para tal, será preciso evocar a rainha Cersei Lannister, do seriado *Game of Thrones*. <!--more-->

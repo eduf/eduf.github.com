@@ -8,7 +8,7 @@ category:
 - cursos
 - estratégia de conteúdo
 image:
-- /images/estrategia.jpg
+- estrategia.jpg
 ---
 
 Como a tecnologia vem mudando o trabalho dos editores e jornalistas? O *Curso de Estratégia de Conteúdo para Damas & Cavalheiros* vai tentar ajudar a responder essa questão em 5 vídeos, que serão publicados nas próximas semanas. O primeiro episódio (abaixo) é uma introdução ao assunto. [Assine o meu canal no YouTube](http://goo.gl/p6I4x) para acompanhar o restante do material.

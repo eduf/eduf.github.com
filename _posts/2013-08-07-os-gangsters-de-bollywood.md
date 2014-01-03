@@ -7,7 +7,7 @@ comments: true
 tags:
 - cinema
 image:
-- /images/act_of_killing.jpg
+- act_of_killing.jpg
 ---
 
 

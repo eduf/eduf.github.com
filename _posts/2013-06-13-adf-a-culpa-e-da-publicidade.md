@@ -7,7 +7,7 @@ category:
 - atrás do font
 - podcasts
 image:
-- /images/mini.jpg
+- mini.jpg
 ---
 
 Há 20 anos, Gustavo Mini é um homem de muitos crachás na área de comunicação: redator publicitário, blogueiro no [Conector](http://www.oesquema.com.br/conector/) e vocalista / guitarrista do [Walverdes](https://www.facebook.com/walverdes). Ele foi enquadrado para uma entrevista que trata de publicidade, novas mídias e até de tutoriais para criar bebês.

@@ -7,7 +7,7 @@ comments: true
 tags:
 - conteúdo
 image:
-- /images/timeline.jpg
+- timeline.jpg
 ---
 
 Nos últimos dias, o velho debate sobre a morte dos blogs [foi retomado](http://www.niemanlab.org/2013/12/the-blog-is-dead/) por ninguém menos que [Jason Kottke](http://kottke.org/about/). Segundo o tradicional blogueiro, depois da popularização das redes sociais e dos aplicativos mobile, quase todos os sistemas de publicação passaram a ter a lógica dos blogs (publicar conteúdo em ordem cronológica reversa) em seu DNA. Tanto que o gênero sofreu mutações e está próximo de morrer:

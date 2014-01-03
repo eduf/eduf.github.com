@@ -7,7 +7,7 @@ comments: true
 tags:
 - música
 image:
-- /images/melvins.jpg
+- melvins.jpg
 ---
 
 

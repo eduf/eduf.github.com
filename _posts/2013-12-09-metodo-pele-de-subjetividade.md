@@ -7,7 +7,7 @@ comments: true
 tags:
 - comportamento
 image:
-- /images/pele.jpg
+- pele.jpg
 ---
 
 Semana passada, num desses ciclos de cliques escorregadios induzidos por títulos pegajosos, aterrizei numa [entrevista de Paulo Miklos](http://revistatrip.uol.com.br/revista/227/paginas-negras/paulo-miklos.html). Lá pelas tantas, o entrevistador informa que o cantor do Titãs usa o plural para falar de si: em vez de "eu", tende a dizer "nós". O jornalista não se aguentou e perguntou porquê. Resposta: "É mesmo? Falo no plural? Nem tinha reparado".

@@ -8,7 +8,7 @@ category:
 tags:
 - ideias
 image:
-- /images/gladwell.jpg
+- gladwell.jpg
 ---
 
 Um dos temas que mais me fascinam é o heroísmo. Na verdade, mesmo que você não perceba, o assunto também deve fasciná-lo. Afinal, aparece em praticamente todos os produtos culturais que nos cercam. O heroísmo pode ser descrito como aquele ímpeto de direcionar toda a sua energia na busca de um único objetivo. E, claro, geralmente pagar um preço caro por isso.

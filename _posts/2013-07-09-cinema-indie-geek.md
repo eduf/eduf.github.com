@@ -8,7 +8,7 @@ category:
 tags:
 - geek
 image:
-- /images/explosion.jpg
+- explosion.jpg
 ---
 
 A hegemonia dos filmes de super-heróis, zumbís e [ficção gadgética](http://caosordenado.com/gadget-fiction/) está começando a ruir. Os [números](http://www.boxofficemojo.com/genres/chart/?id=superhero.htm) desse mercado ainda são [extremamente altos](https://en.wikipedia.org/wiki/List_of_American_superhero_films), mas há indícios de que parte do público já enjoou do tema. Que parte? A dos geeks, que supostamente eram os entusiastas iniciais do gênero.

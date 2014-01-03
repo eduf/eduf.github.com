@@ -7,7 +7,7 @@ category:
 - produtividade
 - tecnologia
 image:
-- /images/clock.jpg
+- clock.jpg
 ---
 
 Entrei para o ramo da *stand up comedy*[^1]. Explico: em maio, o [Grupo Parananense de Comunicação](http://www.grpcom.com.br/) (GRPCOM) me convidou para falar sobre as relações entre produtividade pessoal, gestão de tempo e tecnologia. Fui lá, sem slides e, com alguma cara de pau, ofereci uma reflexão batizada de "Se sofre é porque goza — Analisando o mito do homem sem tempo". Publiquei um resumo do evento [no meu canal do YouTube](https://www.youtube.com/user/eduardofernandex). Abaixo, o primeiro dos quatro vídeos.

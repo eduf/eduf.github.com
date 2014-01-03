@@ -7,7 +7,7 @@ comments: true
 tags:
 - música
 image:
-- /images/carcass.jpg
+- carcass.jpg
 ---
 
 Não sei como é para você, mas, para mim, as listas de melhores discos do ano são uma espécie de lista de tarefas. Quais álbuns perdi e deveria conefrir? Não que eu leve essas coisas muito à sério, mas, ainda assim, dá um [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out)zinho na espinha.

@@ -6,7 +6,7 @@ layout: post
 category: 
 - política
 image:
-- /images/leviathan.png
+- leviathan.png
 ---
 
 Quase todos os analistas concordam: os protestos de ontem não se encaixaram nos moldes tradicionais da política. Será? Ainda me parecem completamente tradicionais.

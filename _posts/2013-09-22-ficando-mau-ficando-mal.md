@@ -7,7 +7,7 @@ comments: true
 tags:
 - seriados
 image:
-- /images/breaking.jpg
+- breaking.jpg
 ---
 
 

@@ -8,7 +8,7 @@ tags:
 category:
 - podcasts
 image:
-- /images/trasel.jpg
+- trasel.jpg
 ---
 
 O *Atrás do Front* recebe o professor de jornalismo da PUC-RS, [Marcelo Träsel](https://twitter.com/trasel). Ele questiona se o atual modelo de produção de notícias é capaz de dar conta da complexidade dos movimentos sociais. Como tratar de assuntos que demandam análises apuradas num cenário de histeria e confusões de opiniões?<!--more-->

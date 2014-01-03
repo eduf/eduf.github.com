@@ -8,7 +8,7 @@ category:
 tags:
 - atrás do front
 image:
-- /images/pinheiro.jpg
+- pinheiro.jpg
 ---
 
 

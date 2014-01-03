@@ -6,7 +6,7 @@ layout: post
 category:
 - humor
 image:
-- /images/kaufman.jpg
+- kaufman.jpg
 comments: true
 ---
 

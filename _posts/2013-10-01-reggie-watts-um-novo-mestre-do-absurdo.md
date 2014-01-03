@@ -7,7 +7,7 @@ comments: true
 tags:
 - humor
 image:
-- /images/watts.jpg
+- watts.jpg
 ---
 
 Há algum tempo, [escrevi sobre Andy Kaufman](http://caosordenado.com/andy-kaufman-e-o-humor-de-youtube/). No texto, minha tese era a de que o artista norte-americano era uma espécie de crítico das identidades sociais. Atacava qualquer uma que aparecesse à sua frente. E que tipo de técnicas ele usava para lançar suas bombas de efeito moral? O humor, o *hoax* e a música. Essencialmente, o espetáculo, a performance. Mas e se você quisesse questionar até mesmo essas técnicas? Ou a própria necessidade de *ser* platéia e de *ser entretido* por um artista? Então você teria que agir como [Reggie Watts](https://en.wikipedia.org/wiki/Reggie_Watts).
