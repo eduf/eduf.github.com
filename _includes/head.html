@@ -17,7 +17,7 @@
   <meta property="og:url" content="http://caosordenado.com{{ page.url }}">
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="article:author" content="https://www.facebook.com/edufernandex">
-  <meta property="og:image" content="http://caosordenado.com{{ page.image }}">
+  <meta property="og:image" content="http://caosordenado.com/images/{{ page.image }}">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:site_name" content="Caos Ordenado">
   <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
@@ -29,7 +29,7 @@
   <meta name="twitter:creator" content="@eduf">
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
-  <meta name="twitter:image" content="http://caosordenado.com{{ page.image }}">
+  <meta name="twitter:image" content="http://caosordenado.com/images/{{ page.image }}">
   <meta name="twitter:domain" content="http://caosordenado.com">
 
   <link rel="dns-prefetch" href="//fonts.googleapis.com">

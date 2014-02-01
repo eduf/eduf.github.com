@@ -11,12 +11,12 @@ image:
 ---
 
 
-2013 foi um ano cheio para os fãs do metal. Muitos álbuns importantes saindo. Bandas clássicas lançaram material novo (Motorhead, por exemplo), voltas triunfantes (como a do Carcass, com [Surgical Steel](http://goo.gl/7qQYWR)) e inúmeras micromutações no gênero. A seguir, apenas alguns lançamentos de 2013 que se destacaram no meu radar.
+2013 foi um ano cheio para os fãs do metal. Muitos álbuns importantes saindo. Bandas clássicas lançaram material novo, houve voltas triunfantes (como a do Carcass, com [Surgical Steel](http://goo.gl/7qQYWR)) e inúmeras mutações no gênero. A seguir, apenas alguns lançamentos de 2013 que se destacaram no meu radar.
 
 ### Windhand
 <iframe width="560" height="315" src="//www.youtube.com/embed/XC0MQog6Omg" frameborder="0" allowfullscreen></iframe>
 
-A melhor palavra para descrever o álbum *Soma* é "áspero". Há fuzz para todos os lados. Mas se a banda bate, também assopra: os vocais são melódicos (e cheios de delay). No geral, o Windhand é um bom representante daquela linhagem do metal que nasceu do álbum *Vol 4*, do Black Sabbath.
+A melhor palavra para descrever o álbum *Soma* é "áspero". Há fuzz para todos os lados. Mas se a banda bate, também assopra: os vocais são melódicos (e cheios de delay). No geral, o Windhand é um bom representante daquela linhagem do metal que nasceu de certas músicas do álbum *Vol 4*, do Black Sabbath.
 
 ### In Solitude
 <iframe width="560" height="315" src="//www.youtube.com/embed/PzELLDh5D0s" frameborder="0" allowfullscreen></iframe>
@@ -36,7 +36,7 @@ Trio de Chicago que trafega pelas fronteiras entre o thrash e o pós-metal. *Mem
 ### Castevet
 <iframe width="420" height="315" src="//www.youtube.com/embed/BYywN2tDXhE" frameborder="0" allowfullscreen></iframe>
 
-[Dizem que o Castevet é uma banda de math metal](http://pitchfork.com/reviews/albums/18549-castevet-obsian/). Faz certo sentido, mas o som não para nisso. *Obsian* é lento, absurdamente pesado, ambiência de catedral na bateria e muitos acordes dissonantes.
+[Dizem que o Castevet é uma banda de math metal](http://pitchfork.com/reviews/albums/18549-castevet-obsian/). Faz certo sentido, mas o som não para nisso. *Obsian* é lento, absurdamente pesado, traz ambiência de catedral na bateria e muitos acordes dissonantes.
 
 ### Magic Circle
 <iframe width="560" height="315" src="//www.youtube.com/embed/WhxgTjzCtcY" frameborder="0" allowfullscreen></iframe>
