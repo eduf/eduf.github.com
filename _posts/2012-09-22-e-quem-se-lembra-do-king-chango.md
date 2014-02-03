@@ -2,8 +2,7 @@
 layout: post
 title: E quem se lembra do King Changó?
 tags:
-- Música
-- vídeo
+- música
 ---
 
 <iframe src="http://player.vimeo.com/video/5735535?title=0&amp;byline=0&amp;portrait=0" width="500" height="338" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

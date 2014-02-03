@@ -2,9 +2,7 @@
 layout: post
 title: Soundgarden novo, ao vivo no Jools Holland
 tags:
-- hard rock
-- Música
-- soundgarden
+- música
 ---
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/YH2Lmq2IoDA" frameborder="0" allowfullscreen></iframe>

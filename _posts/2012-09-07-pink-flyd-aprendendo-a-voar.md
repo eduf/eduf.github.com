@@ -2,10 +2,7 @@
 layout: post
 title: Pink Floyd aprendendo a voar
 tags:
-- Música
-- pink flyd
-- progressivo
-- vídeo
+- música
 ---
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/DrGuVa-4BVE" frameborder="0" allowfullscreen></iframe>

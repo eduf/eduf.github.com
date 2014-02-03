@@ -2,10 +2,7 @@
 layout: post
 title: Haunted records
 tags:
-- Música
-- piracy
-- pirataria
-- Tecnologia
+- música
 ---
 
 John Brownlee, from Cult of Mac, explains [why he stopped pirating music](http://www.cultofmac.com/188297/why-i-stopped-pirating-music/). More interesting is how he stopped collecting files and began to actually listen to music:

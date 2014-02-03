@@ -2,11 +2,7 @@
 layout: post
 title: Save Us From The Cyclops
 tags:
-- Música
-- psicodelia
-- rock
-- vídeo
-- Vídeos
+- música
 ---
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/MPuGRzYyQ7Y" frameborder="0" allowfullscreen></iframe>

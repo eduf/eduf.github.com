@@ -2,8 +2,7 @@
 layout: post
 title: 800 shows do Fugazi on-line
 tags:
-- Música
-- Vídeos
+- música
 ---
 
 ![Fugazi live2](http://caosordenado.com/wp-content/uploads/2011/11/fugazi-live2.jpg)
