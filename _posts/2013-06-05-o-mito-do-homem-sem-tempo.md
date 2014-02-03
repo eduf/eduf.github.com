@@ -3,9 +3,8 @@ date: 2013-06-05
 title: "O Mito do Homem Sem Tempo"
 description: Trechos da palestra sobre produtividade pessoal, gestão de tempo e tecnologia dada ao GRPCOM, em Curitiba
 layout: post
-category: 
-- produtividade
-- tecnologia
+tags: 
+- comportamento
 image:
 - clock.jpg
 ---

@@ -5,7 +5,7 @@ description: "Assistir a Breaking Bad me deixa um tanto intoxicado. Acontece com
 layout: post
 comments: true
 tags:
-- seriados
+- comportamento
 image:
 - breaking.jpg
 ---
