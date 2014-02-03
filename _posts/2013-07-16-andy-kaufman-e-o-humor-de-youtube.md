@@ -3,13 +3,12 @@ date: 2013-07-16
 title: "Andy Kaufman e o humor de YouTube"
 description: "No humor, a fronteira entre criador e personagem nunca esteve tão nublada"
 layout: post
-category:
+tags:
 - humor
 image:
 - kaufman.jpg
 comments: true
 ---
-
 
 
 [Dia desses](http://atrasdofront.tumblr.com/post/55171912985/tecnologias-do-amor), no podcast [Atrás do Front](http://atrasdofront.tumblr.com/), [Eduardo Pinheiro](http://tzal.org/), brincou que eu tenho um tipo de humor meio [Andy Kaufman](https://en.wikipedia.org/wiki/Andy_Kaufman). Provavelmente, só queria dizer que sou sem graça. Mas a frase já foi suficiente para causar um revival por aqui. Revi boa parte dos [vídeos clássicos](http://goo.gl/2jINe) de Kaufman e o filme [Man on The Moon](http://www.imdb.com/title/tt0125664/).
