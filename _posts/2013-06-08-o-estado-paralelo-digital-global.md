@@ -3,8 +3,8 @@ date: 2013-06-08
 title: "O Estado Paralelo Digital Global"
 description: Estamos assistindo à ascensão de um novo tipo de poder político, aquele que é exercido por meio dos computadores
 layout: post
-tags:
-- política
+category:
+- tecnologia
 image:
 - schmidt.jpg
 ---

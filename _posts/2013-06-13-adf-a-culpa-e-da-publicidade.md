@@ -3,8 +3,9 @@ date: 2013-06-13
 title: "ADF: A culpa é da publicidade"
 description: "O músico e publicitário Gustavo Mini conta como sua banda, o Walverdes, o ajudou a se preparar para as mudanças radicais que vêm acontecendo na sua profissão"
 layout: post
-tags: 
+category: 
 - atrás do font
+- podcasts
 image:
 - mini.jpg
 ---

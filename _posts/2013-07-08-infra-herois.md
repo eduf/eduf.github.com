@@ -3,8 +3,10 @@ date: 2013-07-08
 title: "Infra-herois"
 description: "Malcolm Gladwell e o delicado processo de acreditar em heróis"
 layout: post
-tags: 
+category: 
 - comportamento
+tags:
+- ideias
 image:
 - gladwell.jpg
 ---

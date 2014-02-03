@@ -3,7 +3,7 @@ date: 2013-06-18
 title: "O Leviathan de areia"
 description: "Porque os protestos no Brasil ainda não são suficientemente difusos"
 layout: post
-tags: 
+category: 
 - política
 image:
 - leviathan.png

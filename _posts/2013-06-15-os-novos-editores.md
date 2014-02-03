@@ -3,8 +3,10 @@ date: 2013-06-15
 title: "Vídeo: Os novos editores"
 description: "Primeira parte do Curso de Estratégia de Conteúdo para Damas & Cavalheiros"
 layout: post
-tags: 
+category: 
 - tecnologia
+- cursos
+- estratégia de conteúdo
 image:
 - estrategia.jpg
 ---
