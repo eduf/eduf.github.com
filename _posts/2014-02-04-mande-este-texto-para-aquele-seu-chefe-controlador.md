@@ -17,7 +17,7 @@ Digo "processo" porque, cedo ou tarde, me pego querendo mandar em algo ou algué
 
 Explico.
 
-Sabe aquele tipo de pessoa que entra na sala e já começa a querer mudar tudo? A janela precisa estar aberta 45º, o tapete deve estar reto, ela tem que se sentar numa posição específica da mesa etc. Uma pessoa assim é um gerador ininterrupto de irritação. Em especial para si mesma. Mas também para os outros. Provocam ondas de paranóia por onde quer que passam.
+Sabe aquele tipo de pessoa que entra na sala e já começa a querer mudar tudo? A janela precisa estar aberta 45º, o tapete deve estar reto, ela tem que se sentar numa posição específica da mesa etc. Uma pessoa assim é um gerador ininterrupto de irritação. Em especial para si mesma. Mas também para os outros. Provocam ondas de paranóia por onde quer que passem.
 
 Os casos mais caricaturais e / ou extremos desse tipo de comportamento recebem o rótulo de Transtorno Obsessivo Compulsivo. Mas a necessidade de controle tem efeitos bem mais sutís: há pessoas que não toleram um minuto sequer sem entretenimento (precisam estar conectadas a algo, ouvindo música ou conversando), outras checam o tempo todo se estão felizes ou depressivas, agitadas ou calmas. Suas mentes precisam fazer sentido o tempo todo, manter uma coerência, seguir certas regras. Não há espaço para uma atitude de abertura e relaxamento diante do caos.
 
@@ -25,7 +25,7 @@ E assim vão surgindo camadas e mais camadas de controle, que se sobrepõem, se 
 
 Esse é um dos temas mais clássicos da ciência política, em especial do final do século 19 até meados do 20. Aparece nas discussões sobre autoridade (o que faz alguém ter poder) e, mais tarde, nos debates sobre autonomia (o que faz alguém deixar de obedecer).
 
-Entre os teóricos, há uma diversidade enorme de pontos de vista, que vão desde a ideia de servidão voluntária, de La Boetie, até a combinação de forças econômicas e psicológicas identificadas por todo tipo de liberais. Sem falar nos marxistas (sejam eles freudianos, estruturalistas ou super híbridos como Cornelius Castoriadis).
+Entre os teóricos, há uma diversidade enorme de pontos de vista, que vão desde a ideia de servidão voluntária, de [La Boétie](https://en.wikipedia.org/wiki/%C3%89tienne_de_La_Bo%C3%A9tie), até a combinação de forças econômicas e psicológicas identificadas por todo tipo de liberais. Sem falar nos marxistas – sejam eles freudianos, estruturalistas ou super híbridos como [Cornelius Castoriadis](https://en.wikipedia.org/wiki/Cornelius_Castoriadis).
 
 Enfim, controlar o outro (a si mesmo, ou os fenômenos, vistos como outros) é uma das necessidades mais arraigadas na mente humana. Não é possível abandoná-la completamente, pelo menos não por meio do pensamento discursivo.
 
@@ -42,4 +42,4 @@ Por vezes, não conseguimos sequer ter algum senso de graditão ou de estar no m
 Assim, é inevitável: cedemos aqui, controlamos ali, é uma mecânica que nunca terá fim. Mas, se conseguíssemos sempre nos lembrar dessa interconectividade, provavelmente não seria tão difícil mandar ou servir. Tudo seria circunstancial, temporário e, portanto, ilusório.
 
 
-[^1]: Ou, como costumo brincar, com os SAD, Sistemas Avançados de Demandas, que é o meu jeito de dizer "seres humanos", quando estou rabugento.
+[^1]: Ou — como costumo brincar — dos SAD, Sistemas Avançados de Demandas, que é o meu jeito de dizer "seres humanos", quando estou rabugento.
