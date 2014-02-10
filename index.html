@@ -7,7 +7,7 @@ title: Caos Ordenado
 		
 	<article class="home">
 	{% if post.image %}
-		<div class="feature-image" style="background-image: url(/images/small/{{ post.image }})" itemprop="image"></div>
+		<a href="{{ post.url }}" itemprop="url"><div class="feature-image" style="background-image: url(/images/small/{{ post.image }})" itemprop="image"></div></a>
 		<div class="feature-text">
 			<div class="meta" itemprop="tag">{{ post.tags }}</div>
 			<h1 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>

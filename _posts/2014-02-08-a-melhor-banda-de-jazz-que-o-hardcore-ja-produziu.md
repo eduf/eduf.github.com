@@ -1,7 +1,7 @@
 ---
 date: 2014-02-08
 title: "A melhor banda de jazz que o hardcore já produziu"
-description: "Há 35 anos, o trio canadense NoMeansNo vêm produzindo álbuns tão complexos quanto divertidos"
+description: "Há 35 anos, o trio canadense NoMeansNo vêm criando álbuns tão complexos quanto divertidos"
 layout: post
 comments: true
 tags:
@@ -24,7 +24,7 @@ Essa mistura resultou num dos álbuns mais importantes do rock dos anos 90: [Wro
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/m01lPNVv90s" frameborder="0" allowfullscreen></iframe>
 
-Wrong era só o começo da experimentação. Viriam [discos com o ex-Dead Kennedy, Jello Biafra](https://en.wikipedia.org/wiki/The_Sky_Is_Falling_and_I_Want_My_Mommy), o pesadão e sarcástico *Why Do They Call Me Mr. Happy?*, o mais tradicional *Dance of the Headless Bourgeoisie*, entre muitos outros. O NoMeansNo conseguiu atravessar produtivamente e sem grandes problemas o turbulento período grunge, no qual gravadoras tentavam fazer dinheiro até com as bandas mais improváveis, como o [Sleep](http://goo.gl/UQADI1). Em entrevista à St. Louis Music Press, John Wright ironiza: "(…) Passaram a nos pagar US$ 1 mil por show, em vez de US$ 200. Foi só isso."
+*Wrong* era só o começo dos experimentos. Viriam [discos com o ex-Dead Kennedy's, Jello Biafra](https://en.wikipedia.org/wiki/The_Sky_Is_Falling_and_I_Want_My_Mommy), o pesadão e sarcástico *Why Do They Call Me Mr. Happy?*, o mais tradicional *Dance of the Headless Bourgeoisie*, entre muitos outros. O NoMeansNo conseguiu atravessar produtivamente e sem grandes problemas o turbulento período grunge, no qual gravadoras tentavam fazer dinheiro até com as bandas mais improváveis, como o [Sleep](http://goo.gl/UQADI1). Em entrevista à St. Louis Music Press, John Wright ironiza: "(…) Passaram a nos pagar US$ 1 mil por show, em vez de US$ 200. Foi só isso."
 
 Não exatamente. A banda perdeu Andy Kerr, em 1992. Mas, cerca de um ano depois, foi substituído pelo canhoto e cervejeiro [Tom Holliston](https://en.wikipedia.org/wiki/Tom_Holliston), que está no posto até hoje. O guitarrista, que já tocava com os Wright na banda de recriações de Ramones, [The Hanson Brothers](https://en.wikipedia.org/wiki/The_Hanson_Brothers), foi uma aquisição um pouco mais tradicional. Ainda assim, ele está longe de se limitar aos 3 acordes. Tanto que, recentemente, a banda andou arriscando até um [cover de "Bitches Brew"](https://www.youtube.com/watch?v=tWYfQvC_DbU), clássico de Miles Davis.
 

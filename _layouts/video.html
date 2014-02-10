@@ -3,24 +3,7 @@ layout: default
 ---
 
 <h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
-	{% include author.html %}
 	{{ page.video }}
 	<span itemprop="articleBody">{{content}}</span>
 
 {% include social.html %}
-
-<section>
-	{% if page.comments %}
-	<div id="disqus_thread"></div>
-	<script type="text/javascript">
-		var disqus_shortname = 'caosordenado';
-	    (function() {
-	    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-	    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-	    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-	      })();
-    </script>
-    <noscript>Você vai precisar liberar o JavaScript para ver os comentários <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink"> do <span class="logo-disqus">Disqus</span></a>
-	{% endif %}
-</section>

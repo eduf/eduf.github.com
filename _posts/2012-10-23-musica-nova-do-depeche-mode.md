@@ -2,9 +2,6 @@
 layout: post
 title: Música nova do Depeche Mode
 tags:
-- depeche mode
-- Música
-- música eletrônica
 - vídeo
 ---
 
