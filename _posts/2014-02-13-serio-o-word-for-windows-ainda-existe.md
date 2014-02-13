@@ -10,7 +10,7 @@ image:
 ---
 
 
-Às vezes, dá uma certa inveja dos jornalistas / escritores que produzem textos só em inglês. A diversidade de ferramentas disponíveis para eles é absurda. Existem aplicativos para todos os tipos de concepções de escrita: corretores ortográficos, controladores de versões, programas de análise sintática, conversores (estilo Markdown / HTML etc.). Enfim.
+Às vezes, dá uma certa inveja dos jornalistas / escritores que produzem textos só em inglês. A diversidade de ferramentas disponíveis para eles é absurda. Existem aplicativos para todos os tipos de concepções de escrita: ficção, textos acadêmicos, roteiros, programação etc.
 
 Só no ambiente iOS (iPad e iPhone), a [lista](http://brettterpstra.com/ios-text-editors/) não para de crescer. Meus preferidos são:
 
