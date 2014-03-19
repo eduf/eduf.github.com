@@ -12,7 +12,7 @@ title: Aplicativos
     {% if count < 80 %}
       {% assign count = count|plus:1 %}
         <li>
-          <span datetime="{{ page.date| date:"%Y-%m-%d" }}" itemprop="datePublished"><small>{{ post.date | date:"%d/%m/%Y" }}</small></span>&emsp;<a href="{{ post.url }}"  itemprop="url">{{ post.title }}</a>
+          <span datetime="{{ page.date| date:"%Y-%m-%d" }}" itemprop="datePublished"><small>{{ post.date | date:"%d/%m/%Y" }}</small></span>&emsp;<a href="{{ post.url }}" itemprop="url">{{ post.title }}</a>
         </li>
     {% endif %}
   {% endif %}
