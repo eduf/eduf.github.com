@@ -2,17 +2,21 @@
 layout: default
 ---
 
-<header class="page-header">
-	<h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
-	{% if page.description %}
-		<span class="excerpt" itemprop="description">
-			{{ page.description | markdownify }}
-		</span>
-</header>
+{% if page.image %}
+	<div class="page-img" style="background-image: url(/images/{{ page.image }});">
+		<header class="page-header">
+			<h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
+			<div class="excerpt">{{ page.description | markdownify }}</div>
+		</header>
+	</div>
 {% else %}
+	<header class="page-header no-image">
+		<h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
+	</header>
 {% endif %}
 
-	{% include author.html %}
-	<span itemprop="articleBody">{{content}}</span>
-
-{% include social.html %}
+<article role="main" id="main" class="main" itemscope itemtype="http://schema.org/Article" itemprop="blogPost">
+		{% include author.html %}
+		{{ content }}
+		{% include social.html %}
+</article>

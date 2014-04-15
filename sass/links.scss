@@ -1,0 +1,11 @@
+a {
+  color: $azul-1;
+  text-decoration: none;
+}
+a:hover {
+  color: $azul-2;
+  text-decoration: underline;
+}
+a:visited {
+  color: $cinza-1;
+}

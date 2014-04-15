@@ -2,21 +2,56 @@
 layout: default
 title: Caos Ordenado
 ---
+<article class="home">
+{% for post in paginator.posts %}
 
-{% for post in paginator.posts %}					
-		
-	<article class="home">
-	{% if post.image %}
-		<a href="{{ post.url }}" itemprop="url"><div class="feature-image" style="background-image: url(/images/small/{{ post.image }})" itemprop="image"></div></a>
+	{% if post.link %}
+	<div class="feature-image link">
 		<div class="feature-text">
-			<div class="meta" itemprop="tag">{{ post.tags }}</div>
+			<h1 itemprop="headline" class="headlink"><a href="{{ post.link }}" itemprop="url">{{ post.title }}</a></h1>
+			{{ post.content }}
+			<a href="{{ post.url }}" itemprop="url" alt="Permalink para {{ post.title }}" class="permalink">∞</a>
+		</div>
+	</div>
+
+	{% elsif post.quote %}
+	<div class="feature-image claro">
+		<div class="feature-text">
+			<blockquote class="quote">
+				{{ post.quote }}
+			</blockquote>
+			<p class="source"><a href="{{ post.sourceurl }}" itemprop="url">{{ post.source }}</a></p>
+			{{ post.content }}
+			<a href="{{ post.url }}" itemprop="url" alt="Permalink para {{ post.title }}" class="permalink">∞</a>
+		</div>
+	</div>
+
+	{% elsif post.video %}
+	<div class="feature-image video" style="background-image: url('http://img.youtube.com/vi/{{ post.video }}/0.jpg')">
+		<div class="feature-text">
+			<h1 itemprop="headline" class="headlink"><a href="https://www.youtube.com/watch?v={{ post.video }}" itemprop="url">{{ post.title }}</a></h1>
+			<div class="excerpt-home">{{ post.content }}</div>
+			<a href="{{ post.url }}" itemprop="url" alt="Permalink para {{ post.title }}" class="permalink">∞</a>
+		</div>
+	</div>
+
+	{% elsif post.image %}
+	<div class="feature-image" style="background-image: url(/images/{{ post.image }})">
+		<div class="feature-text">
+			<span class="meta" itemprop="tag">{{ post.tags }}</span>
 			<h1 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
-		<div>
+		</div>
+	</div>
+
 	{% else %}
-		<div class="meta" itemprop="tag">{{ post.tags }}</div>
-		<h1 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
+	<div class="feature-image">
+		<div class="feature-text">
+			<span class="meta" itemprop="tag">{{ post.tags }}</span>
+			<h1 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
+		</div>
+	</div>
 	{% endif %}
-	</article>
 
 {% endfor %}
+</article>
 {% include pagination.html %}

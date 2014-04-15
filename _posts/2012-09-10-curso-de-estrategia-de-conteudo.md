@@ -36,6 +36,6 @@ Alguns exemplos de gerenciamento de conteúdo ao longo de minhas experiências p
 
 ### O Instrutor
 
-[Eduardo Fernandes](http://caosordenado.com/info/) é sociólogo formado pela PUC-SP (foi membro dos núcleos de Arte, Mídia e Política e de Sociabilidade Libertária). Em mais de 15 anos de profissão, gerenciou e produziu conteúdo para empresas de perfís tão diferentes quanto Trip, Petrobras, Conrad Editora, Revista Superinteressante, Telefónica, Nokia, entre outras. Já editou uma revista, Radar, e vários sites na área de crítica cultural para portais como Terra, UOL e AOL.
+[Eduardo Fernandes](http://www.caosordenado.com/info/) é sociólogo formado pela PUC-SP (foi membro dos núcleos de Arte, Mídia e Política e de Sociabilidade Libertária). Em mais de 15 anos de profissão, gerenciou e produziu conteúdo para empresas de perfís tão diferentes quanto Trip, Petrobras, Conrad Editora, Revista Superinteressante, Telefónica, Nokia, entre outras. Já editou uma revista, Radar, e vários sites na área de crítica cultural para portais como Terra, UOL e AOL.
 
 Sugestão de leitura **preparatória**: [The Elements of Content Strategy](http://www.abookapart.com/products/the-elements-of-content-strategy), de Erin Kissane.

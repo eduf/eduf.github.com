@@ -1,0 +1,46 @@
+.pagination {
+  margin: 1.2rem auto 1rem auto;
+  font-size: 120%;
+  text-align: center;
+}
+.author {
+  p {
+  font-size: 0.9rem;
+  }
+}
+.navfooter,
+.social,
+.temas {
+  font-size: 0.8rem;
+}
+.navfooter,
+.author,
+.social,
+.temas {
+  font-family: $destaques-fonts;
+  margin: 1rem auto 2rem auto;
+  text-align: center;
+  li {
+    list-style-type: none;
+    padding: 0 1rem 0 0;
+    display: inline-block;
+  }
+  li:last-child{
+    margin-right: 0;
+  }
+}
+.social {
+  margin-top: 2rem;
+}
+.footnotes {
+  font-size: 0.8rem;
+  margin: 2rem 0 1rem 0;
+  padding-top: 0.65rem;
+  border-top: 1px solid $cinza-1;
+  p {
+    font-size: 0.85rem;
+  }
+}
+.fluid-width-video-wrapper {
+	margin: 2rem auto 2rem auto;
+}

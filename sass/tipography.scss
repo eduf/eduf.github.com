@@ -1,0 +1,66 @@
+body {
+  font: 62.5% $body-font;
+  color: $cinza-base;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern";
+}
+h1, h2, h3, h4{
+  font-family: $destaques-fonts;
+}
+.site-title {
+  font: 75% $destaques-fonts;
+}
+.main {
+  p {
+  font-size: 1rem;
+  line-height: 155%;
+  }
+  blockquote {
+    margin: 1rem 0 1em 2rem;
+    padding-left: 1rem;
+    border-left: 1px solid $cinza-1;
+  }
+}
+p {
+  margin: 0 0 0.05rem 0;
+  padding: 0;
+}
+p+p {
+  text-indent: 2rem;
+}
+.excerpt{
+  font: 1rem $destaques-fonts;
+  text-shadow: $shadow;
+}
+.name {
+  text-transform: uppercase;
+}
+.source {
+  font-size: 100%;
+  text-align: right;
+}
+.source:before{
+  content: "— "
+}
+.permalink {
+  background-color: $transparencia;
+  padding: 0.3rem 0.5rem 0.3rem 0.5rem;
+  margin-top: 0.5rem;
+  border-radius: 0.3rem;
+  a {
+    color: $cinza-1;
+  }
+}
+.headlink:after{
+  content: "→";
+  display: inline;
+  margin: 0 0 0 0.5rem;
+  font-size: 80%;
+  color: ligthen($cinza-base, 40%);
+  text-shadow: none;
+}
+// Específicas
+.entry-curriculo {
+  font-size: 2rem;
+  line-height: 100%;
+}

@@ -35,7 +35,7 @@ E então surgem as microcelebridades das redes sociais, os comportamentos compul
 
 Para testar esse raciocínio torto, eu teria que estudar um pouco melhor a história do entretenimento. Como surge, quando se torna industrial. Como evoluiu em relação às tecnologias (cinema, rádio, TV, Internet). Talvez valha uma releitura de clássicos da sociologia sobre o assunto, como [Cultura de Massas no Século 20](http://www.livrariasaraiva.com.br/produto/3452486/cultura-de-massas-no-seculo-xx-vol-1-neurose), de [Edgar Morin](https://en.wikipedia.org/wiki/Edgar_Morin).
 
-Assim, eu talvez chegasse a entender melhor como nós, frequentadores de redes sociais, passamos a virar *máquinas de publicar periodicamente*, máquinas de confessar, de dar satisfações em público e, essencialmente, [um tipo de mercadoria](http://caosordenado.com/consumindo-a-si-mesmo/).
+Assim, eu talvez chegasse a entender melhor como nós, frequentadores de redes sociais, passamos a virar *máquinas de publicar periodicamente*, máquinas de confessar, de dar satisfações em público e, essencialmente, [um tipo de mercadoria](http://www.caosordenado.com/consumindo-a-si-mesmo/).
 
 O que, inclusive, já está um tanto obsoleto. Hoje, começamos a delegar para os computadores a tarefa da disciplinarização dos corpos, via algorítimos, microdata, entre outras tecnologias digitais.
 

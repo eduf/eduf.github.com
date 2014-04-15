@@ -25,7 +25,7 @@ Afinal, eles não deixam de ser escritores (de código), trabalhando em equipes 
 
 ### Preparando o terreno
 
-O principal fundamento de uma redação geek, é lembrar que ela [produz conteúdo para diversos tipos de mídias e contextos](http://caosordenado.com/a-arte-de-enlouquecer-editores/). Trata-se de conteúdo vivo, mutante, em constante processo de retroalimentação e diálogo entre humanos e aparelhos.
+O principal fundamento de uma redação geek, é lembrar que ela [produz conteúdo para diversos tipos de mídias e contextos](http://www.caosordenado.com/a-arte-de-enlouquecer-editores/). Trata-se de conteúdo vivo, mutante, em constante processo de retroalimentação e diálogo entre humanos e aparelhos.
 
 Assim, quem é meu leitor? Pessoas. Mas também bancos de dados.
 
