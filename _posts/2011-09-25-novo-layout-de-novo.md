@@ -8,7 +8,7 @@ tags:
 - wordpress
 ---
 
-![](http://caosordenado.com/wp-content/uploads/2011/09/tim_aproves.jpg)Cada software traz um vício embutido. O do Wordpress é recriar temas. Quer dizer, mudar o layout do site. A diversão nunca acaba.
+![](http://www.caosordenado.com/wp-content/uploads/2011/09/tim_aproves.jpg)Cada software traz um vício embutido. O do Wordpress é recriar temas. Quer dizer, mudar o layout do site. A diversão nunca acaba.
 
 Agora o Caos Ordenado terá asides (notas rápidas, sem título), posts só com imagens e uns destaques na barra lateral. Tudo por conta dos [Custom Post Types.](http://codex.wordpress.org/Post_Types)
 

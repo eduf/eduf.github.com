@@ -9,7 +9,7 @@ tags:
 - sci-fi
 ---
 
-![William Gibson](http://caosordenado.com/wp-content/uploads/2011/10/gibson.jpg)Boa [entrevista de William Gibson no Boing Boing](http://boingboing.net/2011/10/14/william-gibson-interview.html). O autor de [Neuromancer](http://en.wikipedia.org/wiki/Neuromancer) fala sobre a impermanência das nossas visões de futuro...
+![William Gibson](http://www.caosordenado.com/wp-content/uploads/2011/10/gibson.jpg)Boa [entrevista de William Gibson no Boing Boing](http://boingboing.net/2011/10/14/william-gibson-interview.html). O autor de [Neuromancer](http://en.wikipedia.org/wiki/Neuromancer) fala sobre a impermanência das nossas visões de futuro...
 
 > There was an effort in the seventies to lose the usage science fiction and champion speculative fiction. Of course, all fiction is speculative, and all history, too—endlessly subject to revision. Particularly given all of the emerging technology today, in a hundred years the long span of human history will look fabulously different from the version we have now. If things go on the way they’re going, and technology keeps emerging, we’ll eventually have a near-total sorting of humanity’s attic.
 

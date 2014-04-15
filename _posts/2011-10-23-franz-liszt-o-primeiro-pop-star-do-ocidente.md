@@ -8,7 +8,7 @@ tags:
 - música erudita
 ---
 
-![Litz](http://caosordenado.com/wp-content/uploads/2011/10/litz.jpg)
+![Litz](http://www.caosordenado.com/wp-content/uploads/2011/10/litz.jpg)
 
 > In the mid-19th century, Liszt was tearing up the polite salons and concert halls of Europe with his virtuoso performances. Women would literally attack him: tear bits of his clothing, fight over broken piano strings and locks of his shoulder-length hair. Europe had never seen anything like it. It was a phenomenon the great German poet Heinrich Heine dubbed "Lisztomania."
 

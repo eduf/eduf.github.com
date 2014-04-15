@@ -10,7 +10,7 @@ tags:
 - política
 ---
 
-![Mai68](http://caosordenado.com/wp-content/uploads/2011/10/mai68.jpg)
+![Mai68](http://www.caosordenado.com/wp-content/uploads/2011/10/mai68.jpg)
 
 Cada um vê o que quer no movimento Occupy Wall Street. Talvez essa seja a sua beleza. Na Slate, Dahlia Lithwick [enxerga um movimento contra a mídia corporativa](http://www.slate.com/articles/news_and_politics/politics/2011/10/how_ows_confuses_and_ignores_fox_news_and_the_pundit_class_.html). Quer dizer: os que protestam não querem se explicar. Pelo menos não do jeito tradicional, que caberia na televisão e nos jornais. Achei essa interpretação com um gosto de [](http://pt.wikipedia.org/wiki/Maio_de_1968)Maio de 68. Mas sei lá.
 
