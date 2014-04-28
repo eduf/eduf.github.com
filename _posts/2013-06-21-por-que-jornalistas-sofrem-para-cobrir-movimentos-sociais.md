@@ -26,4 +26,4 @@ O *Atrás do Front* recebe o professor de jornalismo da PUC-RS, [Marcelo Träsel
 * [Repórter Brasil](http://reporterbrasil.org.br/)
 * [Site de Marcelo Träsel](http://trasel.com.br/)
 
-*Foto de [Guilherme Testa](https://twitter.com/guimmytesta) para o site [Eu Sou Famecos](http://portal.eusoufamecos.net/ong-americana-oferece-programa-gratuito-de-capacitacao-virtual/).*{: small}
+*Foto de [Guilherme Testa](https://twitter.com/guimmytesta) para o site [Eu Sou Famecos](http://portal.eusoufamecos.net/ong-americana-oferece-programa-gratuito-de-capacitacao-virtual/).*
