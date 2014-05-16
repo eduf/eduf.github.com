@@ -48,7 +48,7 @@ Desenvolvido pelo criador do RSS, [Dave Winner](http://scripting.com/), o progra
 
 ### Diversidade
 
-Esses são apenas alguns dos programas mais interessantes — ainda que nenhum deles seja exatamente feito para escrever em português. Mas há zilhões de outras possibilidades. Dos organizadores de textos mais longos ([Scrivener](http://www.literatureandlatte.com/), [Ulisses](http://www.ulyssesapp.com/)) até aplicativos [dedicados a criar roteiros](http://fountain.io/apps) na linguagem [Fountain](http://fountain.io/). Sem falar nos [editores de Markdown](http://www.caosordenado.com/screencast-escrevendo-em-markdown-no-wordpress/).
+Esses são apenas alguns dos programas mais interessantes — ainda que nenhum deles seja exatamente feito para escrever em português. Mas há zilhões de outras possibilidades. Dos organizadores de textos mais longos ([Scrivener](http://www.literatureandlatte.com/), [Ulisses](http://www.ulyssesapp.com/)) até aplicativos [dedicados a criar roteiros](http://fountain.io/apps) na linguagem [Fountain](http://fountain.io/). Sem falar nos [editores de Markdown](http://caosordenado.com/screencast-escrevendo-em-markdown-no-wordpress/).
 
 Mas, já que estamos entre geeks, não podemos terminar o texto sem citar o [Flashbake](http://craphound.com/?p=2171), ferramenta de linha de comandos usada pelo blogueiro, escritor e ativista [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow). Vamos deixá-lo [descrever o monstrinho](http://craphound.com/?p=2171)[^2]:
 

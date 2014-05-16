@@ -67,7 +67,7 @@ Mas há, aqui, duas diferenças fundamentais:
 
 Há algum tempo, talvez pudéssemos afirmar que Clifton dizia aquilo que não teríamos coragem de dizer. Ou que certas performances de Kaufman (como a do vídeo acima) representavam nosso lado perdedor, que não gostaríamos de ver em público.
 
-Mas hoje é um tanto diferente: não só temos coragem de Cliftar, como de Latkar por aí. O tempo todo. E fazemos um esforço enorme para viralizar esse material, que transformamos em "conteúdo" a ser atrelado a marcas. [Somos produtores, consumidores e produtos de nós mesmos.](http://www.caosordenado.com/consumindo-a-si-mesmo/)
+Mas hoje é um tanto diferente: não só temos coragem de Cliftar, como de Latkar por aí. O tempo todo. E fazemos um esforço enorme para viralizar esse material, que transformamos em "conteúdo" a ser atrelado a marcas. [Somos produtores, consumidores e produtos de nós mesmos.](http://caosordenado.com/consumindo-a-si-mesmo/)
 
 É por isso que eu adoraria acreditar que Andy Kaufman ainda circula por aí, que sua morte teria sido mais uma das suas “pegadinhas”. Não sei de você, mas eu gostaria de ver do que ele seria capaz hoje em dia, em sua incansável tarefa de colocar o dedo em nossas feridas.
 

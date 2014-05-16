@@ -154,7 +154,7 @@ module Jekyll
       
       "
   <url>
-      <loc>http://www.caosordenado.com#{path}</loc>
+      <loc>http://caosordenado.com#{path}</loc>
       <lastmod>#{date.strftime("%Y-%m-%d")}</lastmod>#{if changefreq.length > 0
           "\n      <changefreq>#{changefreq}</changefreq>" end}
   </url>"

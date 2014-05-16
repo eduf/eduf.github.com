@@ -14,5 +14,5 @@ Mastering the Art of Fine Typesetting](http://explorationsintypography.com), de 
 
 Eu recomendaria também [Thinking with Type](http://amzn.to/WUBpuP), de Ellen Lupton. E vale dragar a [lista de Jason Santamaria](http://jasonsantamaria.com/reading/). Se eu tiver tempo, vou fazer uma lista de sugestões por aqui.
 
-PS — Você deve ter notado que eu ando num momento Spiekermann. Além de ter [recomendado um vídeo](http://www.caosordenado.com/erik-spiekermann-fala-sobre-fontes-para-a-tela/) do designer alemão recentemente, também uso a [Meta Serif](http://metaserif.com), criação dele, como fonte do _Caos Ordenado_ (versão 5).
+PS — Você deve ter notado que eu ando num momento Spiekermann. Além de ter [recomendado um vídeo](http://caosordenado.com/erik-spiekermann-fala-sobre-fontes-para-a-tela/) do designer alemão recentemente, também uso a [Meta Serif](http://metaserif.com), criação dele, como fonte do _Caos Ordenado_ (versão 5).
 

@@ -8,7 +8,7 @@ tags:
 - história
 ---
 
-![Davidstone](http://www.caosordenado.com/wp-content/uploads/2011/10/davidstone.jpg)
+![Davidstone](http://caosordenado.com/wp-content/uploads/2011/10/davidstone.jpg)
 
 > I think squinches and squashes were often the result of accidents in the process of transferring from tape or from mag to mag. When a mag recorder is speeding up or slowing down or the recorder is on and the playback is speeding up or down. Before they get up to speed, you get these sometimes hilariously funny alterations of speed and pitch just at the beginning as it’s running up to to speed. So when these accidents happened a guy would keep these sound effects and put a funny name on them and they would proliferate in the library.
 

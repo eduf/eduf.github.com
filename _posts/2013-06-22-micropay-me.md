@@ -19,7 +19,7 @@ A lógica é a seguinte: ao longo da última década, nos acostumamos a acredita
 
 As últimas semanas mostraram inclusive que esses dossiês não são tão secretos assim. De qualquer forma, as empresas de mídia on-line coletam uma enorme quantidade de dados sobre os nossos comportamentos e intenções, enquanto tentam nos confinar em certos ecossistemas, nos tornando, em boa medida, dependentes deles — seja para falar com familiares ou até para decidir como circular pela cidade.
 
-Os dados têm valor não só para vender anúncios: [também conferem poder financeiro e político para essas empresas](http://www.caosordenado.com/o-estado-paralelo-digital-global/). É o que possibilita com que uma companhia como o Tumblr seja vendida a US$ 1.1 bilhão, enquanto você, que produz efetivamente o conteúdo que circula pelos tumblelogs, não receba um centavo. Ou melhor, enquanto você é pago com a esperança de angariar uma reputação e algumas trocas informais de benefícios.
+Os dados têm valor não só para vender anúncios: [também conferem poder financeiro e político para essas empresas](http://caosordenado.com/o-estado-paralelo-digital-global/). É o que possibilita com que uma companhia como o Tumblr seja vendida a US$ 1.1 bilhão, enquanto você, que produz efetivamente o conteúdo que circula pelos tumblelogs, não receba um centavo. Ou melhor, enquanto você é pago com a esperança de angariar uma reputação e algumas trocas informais de benefícios.
 
 ## Problemas de classe-média
 

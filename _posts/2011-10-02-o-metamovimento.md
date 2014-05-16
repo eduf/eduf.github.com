@@ -8,7 +8,7 @@ tags:
 - protestos
 ---
 
-![OccupyWallSt Getty](http://www.caosordenado.com/wp-content/uploads/2011/10/OccupyWallSt_Getty.jpg)
+![OccupyWallSt Getty](http://caosordenado.com/wp-content/uploads/2011/10/OccupyWallSt_Getty.jpg)
 _(Getty Images)_
 
 > The Metamovement is a movement of movements. Not all these movements are similar; no two are exactly like; each can be readily distinguished from the next. The Arab Spring is part of the Metamovement; the London Riots were part of the Metamovement; protests spreading across America, under the banner of Occupy Wall St, are all part of the Metamovement.

@@ -10,7 +10,7 @@ tags:
 - podcasts
 ---
 
-Admito: sou viciado em podcasts. Tanto que até mantenho (irregularmente) dois deles, [Firme & Forte](http://www.caosordenado.com/tag/firme-e-forte) e [Clientelismos](http://www.caosordenado.com/category/clientelismos/). Segue uma lista dos meus programas preferidos.
+Admito: sou viciado em podcasts. Tanto que até mantenho (irregularmente) dois deles, [Firme & Forte](http://caosordenado.com/tag/firme-e-forte) e [Clientelismos](http://caosordenado.com/category/clientelismos/). Segue uma lista dos meus programas preferidos.
 
 ### Apple & webdevelopment
 
@@ -46,5 +46,5 @@ Na área de ativismo, impossível deixar de citar [Craphound](http://craphound.c
 
 * * *
 
-E chega. Você vai notar que não há títulos brasileiros. O motivo é simples: conheço pouquíssimos podcasts nacionais. E nenhum deles me interessou para valer. Mas estou [aberto a sugestões](http://www.caosordenado.com/contato/).
+E chega. Você vai notar que não há títulos brasileiros. O motivo é simples: conheço pouquíssimos podcasts nacionais. E nenhum deles me interessou para valer. Mas estou [aberto a sugestões](http://caosordenado.com/contato/).
 

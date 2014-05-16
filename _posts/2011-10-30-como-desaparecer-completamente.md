@@ -8,7 +8,7 @@ tags:
 - política
 ---
 
-![Disappearing](http://www.caosordenado.com/wp-content/uploads/2011/10/disappearing.jpg)Jason Fitzpatrick, do Lifehacker, fez um [resumão](http://lifehacker.com/5676149/how-to-ditch-big-brother-and-disappear-forever) de [How to Disappear: Erase Your Digital Footprint, Leave False Trails, and Vanish without a Trace](http://www.amazon.com/gp/product/1599219778?ie=UTF8&tag=magaiver-20&linkCode=xm2&camp=1789&creativeASIN=1599219778), de [Eileen C. Horan](http://www.eileenhoran.com/). O livro ensina a apagar suas pegadas digitais, numa época em que praticamente tudo o que fazemos deixa um rastro on-line.
+![Disappearing](http://caosordenado.com/wp-content/uploads/2011/10/disappearing.jpg)Jason Fitzpatrick, do Lifehacker, fez um [resumão](http://lifehacker.com/5676149/how-to-ditch-big-brother-and-disappear-forever) de [How to Disappear: Erase Your Digital Footprint, Leave False Trails, and Vanish without a Trace](http://www.amazon.com/gp/product/1599219778?ie=UTF8&tag=magaiver-20&linkCode=xm2&camp=1789&creativeASIN=1599219778), de [Eileen C. Horan](http://www.eileenhoran.com/). O livro ensina a apagar suas pegadas digitais, numa época em que praticamente tudo o que fazemos deixa um rastro on-line.
 
 As dicas são — mais ou menos — as seguintes:
   * Diminua suas conexões sociais. On-line e off-line.

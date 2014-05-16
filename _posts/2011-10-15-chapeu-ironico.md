@@ -7,7 +7,7 @@ tags:
 - estilo
 ---
 
-![Frank Sinatra](http://www.caosordenado.com/wp-content/uploads/2011/10/sinatra.png)
+![Frank Sinatra](http://caosordenado.com/wp-content/uploads/2011/10/sinatra.png)
 
 Definitivamente, os chapéus viraram moda entre os descolados. Mas, pelas fotos que tenho visto por aí, o pessoal está gastando dinheiro com material de péssima qualidade.
 
