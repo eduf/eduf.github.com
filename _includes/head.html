@@ -2,7 +2,7 @@
 <!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
 <!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
-<html lang="pt-BR">
+<html lang="pt-BR" itemtype="http://schema.org/NewsArticle" itemid="http://caosordenado.com{{ page.url }}/" itemscope xmlns:og="http://opengraphprotocol.org/schema/">
 <!--<![endif]-->
 <head>
   <meta charset="utf-8">
@@ -13,7 +13,14 @@
   <meta content='width=device-width, initial-scale=1.0' name='viewport'>
 
   <title>{{ page.title }}</title>
-  <meta name="description" content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
+  <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
+  <meta itemprop="genre" content="News" />
+  <meta itemprop="inLanguage" content="pt-BR" />
+  <meta name="pdate" content="{{ page.date | date:"%Y%m%d" }}" />
+  <meta name="DISPLAYDATE" content="{{ page.date| date:"%d.%m.%Y" }}" />
+  <meta name="keywords" content="{% if page.keyword | array_to_sentence_string %}{{ page.keyword }} {% endif %}{{ page.tags }}">
+  <meta name="author" content="Eduardo Fernandes" />
+
   <link href="http://caosordenado.com/feed.xml" rel="alternate" title="Caos Ordenado Feed" type="application/atom+xml" />
 
   <link rel="shortcut icon" href="http://caosordenado.com/images/favicon.ico">
@@ -24,20 +31,21 @@
 
 <!-- Open Graph -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="http://caosordenado.com{{ page.url }}">
+  <meta property="og:url" content="http://caosordenado.com{{ page.url }}/">
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="article:author" content="https://www.facebook.com/edufernandex">
   <meta property="og:image" content="http://caosordenado.com/images/{{ page.image }}">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:site_name" content="Caos Ordenado">
   <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
-  <meta property="article:tag" content="caos ordenado">
+  <meta property="article:tag" content="{{ page.tags }}">
   <meta property="og:locale" content="pt_BR">
 
 <!-- Twitter Card -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@eduf">
   <meta name="twitter:creator" content="@eduf">
+  <meta property="twitter:url" content="http://caosordenado.com{{ page.url }}/" />
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
   <meta name="twitter:image" content="http://caosordenado.com/images/{{ page.image }}">
