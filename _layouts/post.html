@@ -3,10 +3,10 @@ layout: default
 ---
 
 {% if page.image %}
-	<div class="page-img" style="background-image: url(/images/{{ page.image }});">
+	<div class="page-img" alt="{{ page.caption }}" style="background-image: url(/images/{{ page.image }});" itemprop="image">
 		<header class="page-header">
 			<h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
-			<div class="excerpt">{{ page.description | markdownify }}</div>
+			<div class="excerpt" itemprop="descrition">{{ page.description | markdownify }}</div>
 		</header>
 	</div>
 {% else %}

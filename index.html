@@ -28,7 +28,7 @@ description: "Blog do estrategista de conteúdo e designer Eduardo Fernandes"
 	</div>
 
 	{% elsif post.video %}
-	<div class="feature-image video" style="background-image: url('http://img.youtube.com/vi/{{ post.video }}/0.jpg')">
+	<div class="feature-image video" alt="{{ post.caption }}" style="background-image: url('http://img.youtube.com/vi/{{ post.video }}/0.jpg')">
 		<div class="feature-text">
 			<h1 itemprop="headline" class="headlink"><a href="https://www.youtube.com/watch?v={{ post.video }}" itemprop="url">{{ post.title }}</a></h1>
 			<div class="excerpt-home">{{ post.content }}</div>
@@ -37,7 +37,7 @@ description: "Blog do estrategista de conteúdo e designer Eduardo Fernandes"
 	</div>
 
 	{% elsif post.image %}
-	<div class="feature-image" style="background-image: url(/images/{{ post.image }})">
+	<div class="feature-image" alt="{{ post.caption }}" style="background-image: url(/images/{{ post.image }})" itemprop="image">
 		<div class="feature-text">
 			<span class="meta" itemprop="tag">{{ post.tags }}</span>
 			<h1 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
