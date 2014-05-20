@@ -1,10 +1,12 @@
 ---
 date: 2014-05-16
-title: "A arte de falar de um só assunto"
-description: "Na estréia da segunda temporada do seu seriado de TV, Marc Maron continua encontrando novas maneiras de bater em si mesmo"
+title: "Marc Maron: a arte de falar de um só assunto"
+description: "Na estréia da segunda temporada do seu seriado de TV, Maron continua encontrando novas maneiras de se torturar"
 layout: post
 tags:
 - humor
+caption:
+- Marc Maron
 image:
 - maron.jpg
 ---

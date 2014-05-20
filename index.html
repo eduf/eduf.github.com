@@ -45,10 +45,11 @@ description: "Blog do estrategista de conteúdo e designer Eduardo Fernandes"
 	</div>
 
 	{% else %}
-	<div class="feature-image">
+	<div class="feature-image claro">
 		<div class="feature-text">
 			<span class="meta" itemprop="tag">{{ post.tags }}</span>
 			<h1 itemprop="headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h1>
+			<div class="excerpt">{{ post.description }}</div>
 		</div>
 	</div>
 	{% endif %}
