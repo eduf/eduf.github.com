@@ -1,5 +1,6 @@
 site_name: 'Caos Ordenado'
 site_url: 'http://caosordenado.com'
+author: Eduardo Fernandes
 timezone: America/Sao_Paulo
 highlighter: pygments
 lsi: false
