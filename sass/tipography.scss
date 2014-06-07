@@ -1,3 +1,4 @@
+@charset "UTF-8";
 body {
   font: 62.5% $body-font;
   color: $cinza-base;
@@ -39,8 +40,8 @@ p+p {
   font-size: 100%;
   text-align: right;
 }
-.source:before{
-  content: "— "
+.source:before {
+  content: "– ";
 }
 .permalink {
   background-color: $transparencia;
