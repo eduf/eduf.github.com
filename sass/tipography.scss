@@ -9,7 +9,11 @@ h1, h2, h3, h4{
   font-family: $destaques-fonts;
 }
 .site-title {
-  font: 75% $destaques-fonts;
+  p {
+    font: 0.8rem $destaques-fonts;
+    margin: 0.2rem;
+    padding: 0.2rem;
+  }
 }
 .main {
   p {
