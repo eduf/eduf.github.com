@@ -1,10 +1,5 @@
-<header role="masthead" id="branding" class="branding" itemscope itemtype="http://schema.org/SiteNavigationElement">
-  <div class="site-title" itemprop="publisher">
-    <p><a rel="bookmark" href="/" itemprop="url">{{site.site_name}}</a></p>
-  </div>
-  <div class="main-menu">
-    <ul>
-      <li><a href="/info.html" itemprop="url">Info</a>
-    </ul>
-  </div>
+<header role="masthead" id="branding" class="branding{% if page.image %} posImage{% endif %}" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    <div class="siteTitle" itemprop="publisher">
+      <p><a rel="bookmark" href="/" itemprop="url">{{ site.title }}</a></p>
+    </div>
 </header>

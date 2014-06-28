@@ -3,27 +3,40 @@
   html {
   font-size: 22px;
   }
-  .main{
-  width: 55%;
-  max-width: 40rem;
+  .pageHeader {
+    width: 75%;
+    max-width: 50rem;
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+  .main {
+  width: 50%;
+  max-width: 38rem;
+  }
+  .home {
+    width: 55%;
+    margin: 0 auto;
+    max-width: 40rem;
   }
 }
 
 @media only screen and (max-width:70.000em) {
-  html {
-  font-size: 20px;
+  .pageHeader {
+    width: 88%;
   }
-  .main{
-  width: 85%;
+  .main {
+    width: 80%;
+    }
+  .home {
+    width: 90%;
   }
 }
 
 @media only screen and (max-width:50.000em) {
-  html {
-  font-size: 20px;
-  }
-  .main{
-  width: 90%;
+  .main, .pageHeader {
+  width: 86%;
   }
 }
 
@@ -31,13 +44,17 @@
   html {
   font-size: 18px;
   }
+  .home {
+    width: 80%;
+  }
+
 }
 
 @media only screen and (max-width:32.000em) {
   html {
   font-size: 16px;
   }
-  .main{
-  width: 90%;
+  .main, .pageHeader {
+  width: 87%;
   }
 }

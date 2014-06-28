@@ -8,11 +8,13 @@ body {
 h1, h2, h3, h4{
   font-family: $destaques-fonts;
 }
-.site-title {
+.siteTitle {
+  color: $cinza-base;
+  text-align: center;
+  margin-top: 1rem;
   p {
-    font: 0.8rem $destaques-fonts;
-    margin: 0.2rem;
-    padding: 0.2rem;
+    font: 1.1rem $destaques-fonts;
+    font-weight: 300;
   }
 }
 .main {
@@ -34,8 +36,8 @@ p+p {
   text-indent: 2rem;
 }
 .excerpt{
-  font: 1rem $destaques-fonts;
-  text-shadow: $shadow;
+  font-size: 0.95rem;
+  line-height: 1.35;
 }
 .name {
   text-transform: uppercase;
@@ -56,7 +58,7 @@ p+p {
     color: $cinza-1;
   }
 }
-.headlink:after{
+.headLink:after{
   content: "→";
   display: inline;
   margin: 0 0 0 0.5rem;
@@ -65,7 +67,15 @@ p+p {
   text-shadow: none;
 }
 // Específicas
-.entry-curriculo {
-  font-size: 2rem;
-  line-height: 100%;
+.postTags {
+  font-size: 0.7rem;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+  margin: 0 0 0.4rem 0;
+  color: $cinza-1;
+  p {
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+  }
 }

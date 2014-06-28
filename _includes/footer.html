@@ -1,11 +1,14 @@
-<footer role="contentinfo" id="colophon" class="colophon" itemscope itemtype="http://schema.org/SiteNavigationElement" style="background-image: url(/images/{{ page.image }});">
+<footer role="contentinfo" id="colophon" class="colophon" itemscope itemtype="http://schema.org/SiteNavigationElement">
+
 	<ul class="navfooter">
-	    <li><a href="http://caosordenado.com" rel="bookmark" itemprop="url">Caos Ordenado</a></li>
-	    <li><a href="http://caosordenado.com/feed.xml" rel="me" itemprop="url">RSS</a></li>
-	    <li><a href="mailto:&#x65;&#x64;&#x75;&#x66;&#x40;&#x63;&#x61;&#x6F;&#x73;&#x6F;&#x72;&#x64;&#x65;&#x6E;&#x61;&#x64;&#x6F;&#x2E;&#x63;&#x6F;&#x6D;">Contato</a></li>
-	    <li><a href="http://twitter.com/eduf" rel="me" itemprop="url">Twitter</a></li>
-	    <li><a href="https://www.facebook.com/edufcaosordenado" rel="me" itemprop="url">Facebook</a></li>
-	    <li><a href="https://plus.google.com/118332442513569100227" rel="me" itemprop="url">G+</a></li>
-			<li><a href="http://eepurl.com/UYTxf" rel="me" itemprop="url">Newsletter</a></li>
+		<li><a href="{{ site.url }}" rel="bookmark" itemprop="url">{{ site.title }}</a></li>
+		<li><a href="{{ site.url }}/info.html" rel="me" itemprop="url">Info</a></li>
+		<li><a href="{{ site.url }}/feed.xml" rel="me" itemprop="url">RSS</a></li>
+		<li><a href="mailto:{{ site.email }}">Contato</a></li>
+		<li><a href="{{ site.twitter }}" rel="me" itemprop="url">Twitter</a></li>
+		<li><a href="{{ site.facebook }}" rel="me" itemprop="url">Facebook</a></li>
+		<li><a href="{{ site.plus }}" rel="me" itemprop="url">G+</a></li>
+		<li><a href="{{ site.newsletter }}" rel="me" itemprop="url">Newsletter</a></li>
 	</ul>
+
 </footer>

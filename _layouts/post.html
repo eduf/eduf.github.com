@@ -2,22 +2,14 @@
 layout: default
 ---
 
-{% if page.image %}
-	<div class="page-img" alt="{{ page.caption }}" style="background-image: url(/images/{{ page.image }});" itemprop="image">
-		<header class="page-header">
-			<h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
-			<div class="excerpt" itemprop="descrition">{{ page.description | markdownify }}</div>
-		</header>
-	</div>
-{% else %}
-	<header class="page-header no-image">
-		<h1 class="entry-title" itemprop="headline">{{ page.title }}</h1>
-		<div class="excerpt no-image"><p>{{ page.description }}</p></div>
-	</header>
-{% endif %}
-
+<header class="pageHeader">
+	<p class="postTags">{{ page.tags }}</p>
+	<h1 class="entryTitle" itemprop="headline">{{ page.title }}</h1>
+	{% include author.html %}
+		{% if page.image %}
+			<img src="/images/{{ page.image }}" alt="{{ page.caption }}">
+		{% endif %}
+</header>
 <article role="main" id="main" class="main" itemprop="blogPost">
-		{% include author.html %}
-		{{ content }}
-		{% include social.html %}
+	{{ content }}
 </article>

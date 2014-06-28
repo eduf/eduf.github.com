@@ -1,26 +1,25 @@
 @charset "UTF-8";
 .pagination {
-  margin: 1.2rem auto 1rem auto;
-  font-size: 120%;
+  margin: 3rem auto 2rem auto;
+  font-size: 1.2rem;
   text-align: center;
 }
+.navfooter,
+.social,
 .author {
+  font-family: $destaques-fonts;
+}
+.author {
+  margin: 0.3rem 0 0.8rem 0;
   p {
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   }
 }
 .navfooter,
-.social,
-.temas {
-  font-size: 0.8rem;
-}
-.navfooter,
-.author,
-.social,
-.temas {
-  font-family: $destaques-fonts;
-  margin: 1rem auto 2rem auto;
+.social {
   text-align: center;
+  font-size: 0.9rem;
+  margin: 1rem auto 2rem auto;
   li {
     list-style-type: none;
     padding: 0 1rem 0 0;
