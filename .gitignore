@@ -3,4 +3,3 @@ _bower_components
 .DS_Store
 *.sass-cache*
 .DS_*
-config.codekit
