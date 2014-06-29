@@ -15,7 +15,7 @@ caption:
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/PQLSht1mQAU" frameborder="0" allowfullscreen></iframe>
 
-Com a Copa, e todo esse clima exaustivo e suado de competitividade, tenho me lembrado muito da música "Terceiro", do Ultraje a Rigor. Nela, o velho e bom espírito galhofeiro, Roger Moreira, dizia:
+Com a Copa e todo esse clima exaustivo e suado de competitividade, tenho me lembrado muito da música "Terceiro", do Ultraje a Rigor. Nela, o velho e bom espírito galhofeiro, Roger Moreira, dizia:
 
 > Todo equipado, preparado na linha de partida   
 Daqui a pouco vai ser dada a saída   
