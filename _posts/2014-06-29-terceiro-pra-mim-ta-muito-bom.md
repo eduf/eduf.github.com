@@ -38,7 +38,7 @@ Triste. O personagem da letra se mostra preocupado com o que as pessoas pensam s
 
 Coisa mais rara hoje em dia.
 
-E a convicção coletivista do personagem é capaz até mesmo de superar o desejo pelo conforto pessoal. Até mesmo a preguiça:
+E a convicção coletivista do personagem é capaz de superar o desejo pelo conforto pessoal. Até mesmo a preguiça:
 
 > Marcando passo vou seguindo sem ser muito ligeiro   
 Com cuidado pra não ser o primeiro   
@@ -68,7 +68,7 @@ Inúmeros livros são produzidos e servidores transbordam de conteúdo motivacio
 > I've got big enough balls   
 To admit that I like it small
 
-Quer dizer, tenho a coragem, o orgulho de admitir: eu gosto de coisas modestas. Ou melhor: prefiro viver sem muitas expectativas, nem grandes, nem pequenos. Experimentar, por falta de palavra mais adequada. Divertir-se com o caminho. Prestar atenção ao processo de caminhar. Jornada com aspirações, mais que objetivos.
+Quer dizer, tenho a coragem, o orgulho de admitir: eu gosto de coisas modestas. Ou melhor: prefiro viver sem muitas expectativas, nem grandes, nem pequenas. Experimentar, por falta de palavra mais adequada. Divertir-se com o caminho. Prestar atenção ao processo de caminhar. Jornada com aspirações, mais que objetivos.
 
 O único risco é querer mapear essa trajetória. [Fitbit](http://www.fitbit.com/) style: saber quantos passos foram dados e em qual velocidade. GPSzar, quantificar, medir, tentar garantir. Depois, publicar para comparar sua performance com a das outras pessoas[^1]. A vida vai se mesclando às *dashboards*, aos centros de controle.
 
@@ -78,4 +78,4 @@ Vai soar a filme pornô. Ou a spa para a classe média. Mas duas palavras cada v
 Terceiro! Ôba-Ôba!   
 Pra mim tá muito bom.
 
-[^1]: Que, de modo geral, não prestam a mínima atenção em você, porque estão ocupadas com suas próprias paranóias.
+[^1]: Que, de modo geral, não prestam a mínima atenção em você, porque estão ocupadas com suas próprias paranoias.
