@@ -40,16 +40,16 @@ Coisa mais rara hoje em dia.
 
 E a convicção coletivista do personagem é capaz até mesmo de superar o desejo pelo conforto pessoal. Até mesmo a preguiça:
 
-> Marcando passo vou seguindo sem ser muito ligeiro
-> Com cuidado pra não ser o primeiro
-> É bonito, eu imito mas o pódium não é pra mim
-> (Eu não sou a fim!)
+> Marcando passo vou seguindo sem ser muito ligeiro   
+Com cuidado pra não ser o primeiro   
+É bonito, eu imito mas o pódium não é pra mim   
+(Eu não sou a fim!)
 
 Na sequência, há a exibição de um certo ativismo, manipulação política de símbolos sociais de engajamento e até anticorporativismo:
 
-> Se eu me esforço demais vou ficar cansado
-> Já dá pra enganar eu ficando suado
-> Se reclamarem eu boto a culpa no patrocinador
+> Se eu me esforço demais vou ficar cansado   
+Já dá pra enganar eu ficando suado   
+Se reclamarem eu boto a culpa no patrocinador
 
 O detalhe politicamente incorreto da música é a referência sutil aos indígenas (por meio de vocalizações ditas tribais). Conhecendo o Sr. Roger Moreira, deduzimos que isso seja uma brincadeira contra os europeus que, segundo a lenda, achavam que os nativos brasileiros eram preguiçosos, apenas por não partilhar dos seus desejos de exploração produtivista.
 
@@ -65,8 +65,8 @@ Há quem gaste uma vida inteira tentando descobrir como ser "diferente", evitar 
 
 Inúmeros livros são produzidos e servidores transbordam de conteúdo motivacional. Tanto para cima, quanto para baixo. Quer dizer: quem não acredita na autoajuda, parece querer promover a autodepreciação. Tanto que o vocalista de outra banda jocosa, a norte-americana Mudhoney, [tem que se esbaforir no refrão](https://www.youtube.com/watch?v=7511NXJNV8o):
 
-> I've got big enough balls
-> To admit that I like it small
+> I've got big enough balls   
+To admit that I like it small
 
 Quer dizer, tenho a coragem, o orgulho de admitir: eu gosto de coisas modestas. Ou melhor: prefiro viver sem muitas expectativas, nem grandes, nem pequenos. Experimentar, por falta de palavra mais adequada. Divertir-se com o caminho. Prestar atenção ao processo de caminhar. Jornada com aspirações, mais que objetivos.
 
@@ -74,8 +74,8 @@ O único risco é querer mapear essa trajetória. [Fitbit](http://www.fitbit.com
 
 Vai soar a filme pornô. Ou a spa para a classe média. Mas duas palavras cada vez mais me parecem importantes: abertura e relaxamento. Ou, como queria Mr. Moreira:
 
-> Por isso eu sempre sou
-> Terceiro! Ôba-Ôba!
-> Pra mim tá muito bom.
+> Por isso eu sempre sou   
+Terceiro! Ôba-Ôba!   
+Pra mim tá muito bom.
 
 [^1]: Que, de modo geral, não prestam a mínima atenção em você, porque estão ocupadas com suas próprias paranóias.
