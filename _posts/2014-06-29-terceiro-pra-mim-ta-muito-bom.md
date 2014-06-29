@@ -63,7 +63,7 @@ Daqui de meu teclado de couro francês, quase consigo ouvir seu neocórtex formi
 
 Há quem gaste uma vida inteira tentando descobrir como ser "diferente", evitar a "mediocridade". Ou tente desesperadamente encontrar sua "missão" na vida.
 
-Inúmeros livros são produzidos e servidores transbordam de conteúdo motivacional. Tanto para cima, quanto para baixo. Quer dizer: quem não acredita na autoajuda, parece querer promover a autodepreciação. Tanto que o vocalista de outra banda jocosa, a norte-americana Mudhoney, tem que se esbaforir no refrão:
+Inúmeros livros são produzidos e servidores transbordam de conteúdo motivacional. Tanto para cima, quanto para baixo. Quer dizer: quem não acredita na autoajuda, parece querer promover a autodepreciação. Tanto que o vocalista de outra banda jocosa, a norte-americana Mudhoney, [tem que se esbaforir no refrão](https://www.youtube.com/watch?v=7511NXJNV8o):
 
 > I've got big enough balls
 > To admit that I like it small
