@@ -68,7 +68,7 @@ Ou seja, tenho a coragem, o orgulho de admitir: eu gosto da modéstia. Prefiro v
 
 O único risco é querer mapear toda a trajetória. [Fitbit](http://www.fitbit.com/) style: saber quantos passos foram dados e em qual velocidade. GPSzar, quantificar, medir, tentar garantir. Depois, publicar para comparar sua performance com a das outras pessoas[^1]. A vida vai se mesclando às *dashboards*, aos centros de controle.
 
-Vai soar a filme pornô. Ou propaganda de spa. Mas duas palavras cada vez mais me parecem importantes: relaxamento e abertura. Nem sempre conseguimos transformá-las em ação. Ok. Quando isso não for possível, sempre podemos usar a técnica do Sr. Moreira:
+Vai soar a filme pornô. Ou propaganda de spa. Mas duas palavras cada vez mais me parecem importantes: relaxamento e abertura. Nem sempre conseguimos transformá-las em ação. E ok. Releve. Quando isso não for possível, sempre podemos usar a técnica do Sr. Moreira:
 
 > Terceiro! Ôba-Ôba!   
 Pra mim tá muito bom.
