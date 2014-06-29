@@ -64,14 +64,13 @@ Inúmeros livros são produzidos e servidores transbordam de conteúdo motivacio
 > I've got big enough balls   
 To admit that I like it small
 
-Quer dizer, tenho a coragem, o orgulho de admitir: eu gosto de coisas modestas. Ou melhor: prefiro viver sem muitas expectativas, nem grandes, nem pequenas. Experimentar, por falta de palavra mais adequada. Divertir-se com o caminho. Prestar atenção ao processo de caminhar. Jornada com aspirações, mais que objetivos.
+Ou seja, tenho a coragem, o orgulho de admitir: eu gosto da modéstia. Prefiro viver sem muitas expectativas, nem grandes, nem pequenas. Quero experimentar, por falta de palavra mais adequada. Prestar atenção ao processo de caminhar. Jornada com aspirações, mais que objetivos.
 
-O único risco é querer mapear essa trajetória. [Fitbit](http://www.fitbit.com/) style: saber quantos passos foram dados e em qual velocidade. GPSzar, quantificar, medir, tentar garantir. Depois, publicar para comparar sua performance com a das outras pessoas[^1]. A vida vai se mesclando às *dashboards*, aos centros de controle.
+O único risco é querer mapear toda a trajetória. [Fitbit](http://www.fitbit.com/) style: saber quantos passos foram dados e em qual velocidade. GPSzar, quantificar, medir, tentar garantir. Depois, publicar para comparar sua performance com a das outras pessoas[^1]. A vida vai se mesclando às *dashboards*, aos centros de controle.
 
-Vai soar a filme pornô. Ou a spa para a classe média. Mas duas palavras cada vez mais me parecem importantes: abertura e relaxamento. Ou, como queria Mr. Moreira:
+Vai soar a filme pornô. Ou propaganda de spa. Mas duas palavras cada vez mais me parecem importantes: relaxamento e abertura. Nem sempre conseguimos transformá-las em ação. Ok. Quando isso não for possível, sempre podemos usar a técnica do Sr. Moreira:
 
-> Por isso eu sempre sou   
-Terceiro! Ôba-Ôba!   
+> Terceiro! Ôba-Ôba!   
 Pra mim tá muito bom.
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/PQLSht1mQAU" frameborder="0" allowfullscreen></iframe>
