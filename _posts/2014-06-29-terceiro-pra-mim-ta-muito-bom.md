@@ -1,7 +1,7 @@
 ---
 date: 2014-06-29
 title: "Terceiro: pra mim tá muito bom"
-description: "A competitividade da Copa me dá certa preguiça"
+description: "A competitividade da Copa me dá certa preguiça. E isso tem nada a ver com o futebol"
 layout: post
 tags:
 - Hoje aprendi que…
