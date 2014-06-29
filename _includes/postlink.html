@@ -1,5 +1,8 @@
-<h1 itemprop="headline">
-  <a href="{{ post.link }}" itemprop="url">{{ post.title }}</a>
-</h1>
-  {{ post.content }}
-<a href="{{ post.url }}" itemprop="url" alt="Permalink para {{ post.title }}" class="permalink">∞</a>
+<section class="homeHeader">
+  <p class="postTags">{{ post.tags }}</p>
+  <h1 itemprop="headline" class="homeTitle headLink">
+    <a href="{{ post.link }}" itemprop="url">{{ post.title }}</a>
+  </h1>
+    {{ post.content }}
+  <a href="{{ post.url }}" itemprop="url" alt="Permalink para {{ post.title }}" class="permalink">∞</a>
+</section>
