@@ -11,7 +11,7 @@ caption:
 - Ultraje a Rigor nos anos 80.
 ---
 
-Com a Copa e todo esse clima exaustivo de competitividade, tenho me lembrado muito da música "Terceiro", do [Ultraje a Rigor](https://en.wikipedia.org/wiki/Ultraje_a_Rigor). Nela, o velho e bom espírito galhofeiro, Roger Moreira, dizia:
+Com a Copa e todo esse clima exaustivo de competitividade, tenho me lembrado muito da música "Terceiro", de 1987, do [Ultraje a Rigor](https://en.wikipedia.org/wiki/Ultraje_a_Rigor). Nela, o velho e bom espírito galhofeiro, Sr. Roger Moreira, dizia:
 
 > Todo equipado, preparado na linha de partida   
 Daqui a pouco vai ser dada a saída   
