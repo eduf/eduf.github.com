@@ -17,23 +17,22 @@ caption:
 
 Com a Copa, e todo esse clima exaustivo e suado de competitividade, tenho me lembrado muito da música "Terceiro", do Ultraje a Rigor. Nela, o velho e bom espírito galhofeiro, Roger Moreira, dizia:
 
-> Todo equipado, preparado na linha de partida
-> Daqui a pouco vai ser dada a saída
-> Todo mundo nervoso e eu não tó nem aí
-> (O importante é competir!)
+> Todo equipado, preparado na linha de partida   
+Daqui a pouco vai ser dada a saída   
+Todo mundo nervoso e eu não tó nem aí   
+(O importante é competir!)   
+Então tá, vamo lá, nem vou me preocupar   
+Já tá tudo armado pra eu me conformar   
+Eu vou tentar só pra não falar   
+que eu nem sou atleta
 
-> Então tá, vamo lá, nem vou me preocupar
-> Já tá tudo armado pra eu me conformar
-> Eu vou tentar só pra não falar
-> que eu nem sou atleta
+> Ia ser legal chegar junto na frente   
+Mas iam falar que quero ser diferente   
+Tá bom demais, pelo menos eu não saio da reta   
+Por isso eu sempre sou
 
-> Ia ser legal chegar junto na frente
-> Mas iam falar que quero ser diferente
-> Tá bom demais, pelo menos eu não saio da reta
-> Por isso eu sempre sou
-
-> Terceiro! Ôba-Ôba!
-> Pra mim tá muito bom
+> Terceiro! Ôba-Ôba!   
+Pra mim tá muito bom
 
 Triste. O personagem da letra se mostra preocupado com o que as pessoas pensam sobre ele. Porém, de um jeito não intuitivo: quer ser visto como alguém humilde, despretensioso. Não quer se destacar, quer participar.
 
@@ -43,7 +42,8 @@ E a convicção coletivista do personagem é capaz até mesmo de superar o desej
 
 > Marcando passo vou seguindo sem ser muito ligeiro
 > Com cuidado pra não ser o primeiro
-> É bonito, eu imito mas o pódium não é pra mim > (Eu não sou a fim!)
+> É bonito, eu imito mas o pódium não é pra mim
+> (Eu não sou a fim!)
 
 Na sequência, há a exibição de um certo ativismo, manipulação política de símbolos sociais de engajamento e até anticorporativismo:
 
