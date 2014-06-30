@@ -3,6 +3,9 @@
   html {
   font-size: 22px;
   }
+  body {
+    text-rendering: optimizeLegibility;
+  }
   .pageHeader {
     width: 75%;
     max-width: 50rem;
@@ -43,6 +46,9 @@
 @media only screen and (max-width:40.000em) {
   html {
   font-size: 18px;
+  }
+  body {
+    text-rendering: optimizeSpeed;
   }
   .home {
     width: 80%;

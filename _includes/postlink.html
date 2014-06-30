@@ -3,6 +3,8 @@
   <h1 itemprop="headline" class="homeTitle headLink">
     <a href="{{ post.link }}" itemprop="url">{{ post.title }}</a>
   </h1>
-    {{ post.content }}
-  <a href="{{ post.url }}" itemprop="url" alt="Permalink para {{ post.title }}" class="permalink">∞</a>
+    <div class="excerpt">
+      {{ post.description }}
+    </div>
+    <p class="source"><a href="{{ post.url }}" itemprop="url" alt="Permalink para {{ post.title }}">Permalink</a></p>
 </section>

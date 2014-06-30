@@ -20,14 +20,12 @@ Todo mundo nervoso e eu não tó nem aí
 Então tá, vamo lá, nem vou me preocupar   
 Já tá tudo armado pra eu me conformar   
 Eu vou tentar só pra não falar   
-que eu nem sou atleta
-
-> Ia ser legal chegar junto na frente   
+que eu nem sou atleta   
+Ia ser legal chegar junto na frente   
 Mas iam falar que quero ser diferente   
 Tá bom demais, pelo menos eu não saio da reta   
-Por isso eu sempre sou
-
-> Terceiro! Ôba-Ôba!   
+Por isso eu sempre sou   
+Terceiro! Ôba-Ôba!   
 Pra mim tá muito bom
 
 Triste. O personagem da letra se mostra preocupado com o que as pessoas pensam sobre ele. Porém, de um jeito não intuitivo: quer ser visto como alguém humilde, despretensioso. Não quer se destacar, quer participar.
@@ -38,7 +36,7 @@ E a convicção coletivista do personagem é capaz de superar o desejo pelo conf
 
 > Marcando passo vou seguindo sem ser muito ligeiro   
 Com cuidado pra não ser o primeiro   
-É bonito, eu imito mas o pódium não é pra mim   
+É bonito, eu imito, mas o pódium não é pra mim   
 (Eu não sou a fim!)
 
 Na sequência, há a exibição de um certo ativismo, manipulação política de símbolos sociais de engajamento e até anticorporativismo:
@@ -68,10 +66,12 @@ Ou seja, tenho a coragem, o orgulho de admitir: eu gosto da modéstia. Prefiro v
 
 O único risco é querer mapear toda a trajetória. [Fitbit](http://www.fitbit.com/) style: saber quantos passos foram dados e em qual velocidade. GPSzar, quantificar, medir, tentar garantir. Depois, publicar para comparar sua performance com a das outras pessoas[^1]. A vida vai se mesclando às *dashboards*, aos centros de controle.
 
-Vai soar a filme pornô. Ou propaganda de spa. Mas duas palavras cada vez mais me parecem importantes: relaxamento e abertura. Nem sempre conseguimos transformá-las em ação. E ok. Releve. Quando isso não for possível, sempre podemos usar a técnica do Sr. Moreira:
+Vai soar a filme pornô. Ou propaganda de spa. Mas duas palavras cada vez mais me parecem importantes: relaxamento e abertura. Nem sempre conseguimos transformá-las em ação. Ok. Releve. Quando isso não for possível, sempre poderemos usar a técnica do Sr. Moreira:
 
 > Terceiro! Ôba-Ôba!   
 Pra mim tá muito bom.
+
+Primeiro, terceiro, último… é cansativo demais pensar nessas coisas. O importante é dar vazão. Fazer as coisas acontecerem.
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/PQLSht1mQAU" frameborder="0" allowfullscreen></iframe>
 

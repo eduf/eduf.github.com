@@ -4,10 +4,21 @@
   font-size: 1.2rem;
   text-align: center;
 }
+h1,
+h2,
+h3,
+h4,
 .navfooter,
 .social,
-.author {
+.author,
+.data-arquivos,
+.pageCaption,
+.source {
   font-family: $destaques-fonts;
+}
+.pageCaption {
+    font-size: 0.82rem;
+    margin: 0.5rem 0 0 0;
 }
 .author {
   margin: 0.3rem 0 0.8rem 0;
@@ -36,11 +47,32 @@
   font-size: 0.8rem;
   margin: 2rem 0 1rem 0;
   padding-top: 0.65rem;
-  border-top: 1px solid $cinza-1;
+  border-top: 1px solid $transparencia;
   p {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
   }
 }
 .fluid-width-video-wrapper {
 	margin: 2rem auto 2rem auto;
+}
+.postQuote {
+  font-size: 1.2rem;
+  line-height: 1.4;
+  border-left: 3px solid $azul-3;
+  padding-left: 1rem;
+}
+.source {
+  font-size: 0.8rem;
+}
+.source:before {
+  content: "- ";
+  color: $cinza-1;
+}
+.headLink:after{
+  content: ">";
+  display: inline;
+  margin: 0 0 0 0.5rem;
+  font-size: 80%;
+  color: $azul-3;
+  text-shadow: none;
 }

@@ -2,11 +2,7 @@
 body {
   font: 62.5% $body-font;
   color: $cinza-base;
-  text-rendering: optimizeLegibility;
   font-feature-settings: "kern";
-}
-h1, h2, h3, h4{
-  font-family: $destaques-fonts;
 }
 .siteTitle {
   color: $cinza-base;
@@ -25,7 +21,7 @@ h1, h2, h3, h4{
   blockquote {
     margin: 1rem 0 1em 2rem;
     padding-left: 1rem;
-    border-left: 1px solid $cinza-1;
+    border-left: 3px solid $azul-3;
   }
 }
 p {
@@ -42,34 +38,10 @@ p+p {
 .name {
   text-transform: uppercase;
 }
-.source {
-  font-size: 100%;
-  text-align: right;
-}
-.source:before {
-  content: "– ";
-}
-.permalink {
-  background-color: $transparencia;
-  padding: 0.3rem 0.5rem 0.3rem 0.5rem;
-  margin-top: 0.5rem;
-  border-radius: 0.3rem;
-  a {
-    color: $cinza-1;
-  }
-}
-.headLink:after{
-  content: "→";
-  display: inline;
-  margin: 0 0 0 0.5rem;
-  font-size: 80%;
-  color: ligthen($cinza-base, 40%);
-  text-shadow: none;
-}
 // Específicas
 .postTags {
   font-size: 0.7rem;
-  letter-spacing: 0.3rem;
+  letter-spacing: 0.2rem;
   text-transform: uppercase;
   margin: 0 0 0.4rem 0;
   color: $cinza-1;

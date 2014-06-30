@@ -6,8 +6,10 @@ layout: default
 	<p class="postTags">{{ page.tags }}</p>
 	<h1 class="entryTitle" itemprop="headline">{{ page.title }}</h1>
 	{% include author.html %}
-		{% if page.image %}
-			<img src="/images/{{ page.image }}" alt="{{ page.caption }}">
+		{% if page.image %}{% include single-pageimage.html %}
+		{% elsif page.link %}{% include single-pagelink.html %}
+		{% elsif page.quote %}{% include single-pagequote.html %}
+		{% elsif page.video %}{% include single-pagevideo.html %}
 		{% endif %}
 </header>
 <article role="main" id="main" class="main" itemprop="blogPost">
