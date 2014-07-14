@@ -10,7 +10,7 @@ lsi: false
 markdown: kramdown
 permalink: /:title
 paginate: 12
-future:      true
+future: true
 
 kramdown:
   auto_ids: true
