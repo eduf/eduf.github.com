@@ -7,7 +7,8 @@ author: Eduardo Fernandes
 timezone: America/Sao_Paulo
 email: '&#x65;&#x64;&#x75;&#x66;&#x37;&#x35;&#x40;&#x67;&#x6D;&#x61;&#x69;&#x6C;&#x2E;&#x63;&#x6F;&#x6D;'
 
-highlighter: pygments
+highlighter: rouge
+future: true
 lsi: false
 markdown: kramdown
 permalink: /:title
