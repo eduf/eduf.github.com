@@ -13,5 +13,6 @@ collections:
       value: en
     fields:
       - {label: "Language", name: "language"}
-    files:
-      - value: /files
+files:
+  - name: "files"
+    label: "Files"
