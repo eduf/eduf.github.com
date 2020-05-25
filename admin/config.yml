@@ -14,4 +14,4 @@ collections:
     fields:
       - {label: "Language", name: "language"}
     files:
-      - {/files}
+      - value: /files
